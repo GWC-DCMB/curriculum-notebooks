@@ -1,0 +1,58 @@
+name: build
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - Lessons/*.ipynb
+      - Lessons/_Keys/*.ipynb
+      - Practices/*.ipynb
+      - Practices/_Keys/*.ipynb
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 4
+      matrix:
+        python-version: [3.7]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v1
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install texlive-xetex pandoc
+        pip install jupyter nbconvert
+    - name: Configure git
+      run: |
+        git pull
+        git config --local user.email "noreply@github.com"
+        git config --local user.name "GitHub"
+    - name: Clean colab metadata
+      run: |
+        python .github/clean_colab_metadata.py Lessons/*.ipynb Lessons/_Keys/*.ipynb Practices/*.ipynb Practices/_Keys/*.ipynb
+        git add Lessons/ Practices/
+        git commit -m "🧹 Clean colab metadata" --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" || echo "No changes to commit"
+    - name: Push ipynb changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.head_ref }}
+    - name: Compile PDFs
+      run: |
+        jupyter nbconvert --to pdf --output-dir=Lessons/_Keys/pdf Lessons/_Keys/*.ipynb
+        jupyter nbconvert --to pdf --output-dir=Practices/_Keys/pdf Practices/_Keys/*.ipynb
+        git add Lessons/ Practices/
+        git commit -m "📄 Compile PDFs" --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" || echo "No changes to commit"
+    - name: Push pdf changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.head_ref }}
