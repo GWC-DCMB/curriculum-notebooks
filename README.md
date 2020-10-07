@@ -1,11 +1,32 @@
 # curriculum-notebooks
 
+[![build](https://github.com/GWC-DCMB/ClubCurriculum/workflows/build/badge.svg)](https://github.com/GWC-DCMB/ClubCurriculum/actions)
+[![check](https://github.com/GWC-DCMB/ClubCurriculum/workflows/check/badge.svg)](https://github.com/GWC-DCMB/ClubCurriculum/actions)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+
 Our Club and Summer Experience formats cover slightly different topics with significant overlap.
-These are all of the Jupyter notebooks used in either or both of them.
+This repo contains all of the Jupyter notebooks used in either or both of them.
 For the exact curriculum order & topics covered, see the corresponding repos:
 
 - [Club](https://github.com/GWC-DCMB/ClubCurriculum)
 - [Summer](https://github.com/GWC-DCMB/SummerExperience)
+
+The Lessons directory contains live coding demos meant to introduce each topic in ~15 minute interactive mini-lessons. 
+These lessons are delivered in Jupyter Notebooks in a "fill in the blanks" style. 
+Instructors will guide students through each lesson and the students will follow along, 
+filling in the blanks on their own documents as we go.
+
+The Practices directory contains practice exercises for students to spend ~30 minutes to solidify skills taught in each mini-lesson. 
+These practices are delivered in Jupyter Notebooks in a "fill in the blanks" style. 
+Students will work with partners/groups to fill in blanks within the documents,
+using code from the corresponding lesson as a resource. 
+Instructors will work closely with students to help them complete and understand each practice.
+
+Both Lessons and Practices directories contain `_Keys` subdirectories with correctly completed versions of each exercise. 
+Sometimes GitHub doesn't render Jupyter notebooks in a timely manner, 
+so we use continuous integration to compile all notebook keys to PDFs. 
+Take a look at the [Lesson](Lessons/_Keys/pdf) & [Practice](Practices/_Keys/pdf) Key PDFs if you only want to view them quickly in your browser.
+
 
 ## Links
 
