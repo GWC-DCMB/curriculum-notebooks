@@ -1,7 +1,7 @@
 # curriculum-notebooks
 
-[![build](https://github.com/GWC-DCMB/ClubCurriculum/workflows/build/badge.svg)](https://github.com/GWC-DCMB/ClubCurriculum/actions)
-[![check](https://github.com/GWC-DCMB/ClubCurriculum/workflows/check/badge.svg)](https://github.com/GWC-DCMB/ClubCurriculum/actions)
+[![build](https://github.com/GWC-DCMB/curriculum-notebooks/workflows/build/badge.svg)](https://github.com/GWC-DCMB/ClubCurriculum/actions)
+[![check](https://github.com/GWC-DCMB/curriculum-notebooks/workflows/check/badge.svg)](https://github.com/GWC-DCMB/ClubCurriculum/actions)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 Our Club and Summer Experience formats cover slightly different topics with significant overlap.
