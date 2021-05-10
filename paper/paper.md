@@ -203,12 +203,13 @@ About a third of participants claim that they are now more interested in pursuin
 
 # Acknowledgements
 
-We thank the Department of Computational Medicine and Bioinformatics at the
-University of Michigan for sponsoring our student organization.
-
-TODO: thank admins who help us: Mary Freer, who else?
-
-We thank the students who have participated in our Club and Summer Experience events.
+We would like to acknowledge our faculty co-sponsors Maureen Sartor, PhD & Cristina Mitrea, PhD. 
+We appreciate the continued support of UM DCMB staff including Julia Eussen, Mary Freer,  Linda Peasley, and Jane Weisner. 
+We are grateful for the resources provided by the national Girls Who Code organization. 
+Our programming is only possible by the dedication of past and present Executive Committee members, Club and Summer Experience Facilitators & Capstone Project mentors including Alex Weber, Arushi Varshney, Sophie Hoffman, Hojae Lee, Alana Woloshin, Ruma Deb, Saige Rutherford, Michelle McNulty, Bailey Peck, Chloe Whicker, Carolina Rojas Ramirez, Verity Sturm, Zoe Drasner, Sarah Latto, Emily Roberts, Angel Chu, Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia Charles, Lauren Jepsen, and Aubrey Annis. 
+Our student organization received funding from the UM Office of Graduate and Postdoctoral Studies, Girls Who Code Support Fund, Department of Computational Medicine and Bioinformatics, anonymous donations from Giving Blue Day 2019, Endowment in Basic Sciences. 
+The 2019 Summer Experience was sponsored by Zingerman’s Deli, UM Statistics Department, UM Detroit Center, Dell, Cisco, UM Department of Computational Medicine and Bioinformatics, UM Biostatistics Department.
+We also thank the students who have participated in our Club and Summer Experience events.
 
 # Funding
 
