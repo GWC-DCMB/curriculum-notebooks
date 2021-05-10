@@ -1,4 +1,4 @@
- U-M ---
+---
 title: 'Teaching Python for Data Science: Collaborative development of a modular & interactive curriculum'
 tags:
   - Data Science
