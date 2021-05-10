@@ -7,16 +7,19 @@ tags:
   - Girls Who Code
 authors:
   - name: Marlena Duda
-    orcid:
+    orcid: TODO
     affiliation: 1
   - name: Kelly L. Sovacool
     orcid: 0000-0003-3283-829X
     affiliation: 1
-  - name: Zena Lapp
+  - name: TODO - all other contributors
+    orcid: TODO
+    affiliation: TODO
+  - name: Zena Lapp^[corresponding author]
     orcid: 0000-0003-4674-2176
     affiliation: 1
-  - name: Brooke Wolford^[corresponding author]
-    orcid:
+  - name: Brooke N. Wolford^[corresponding author]
+    orcid: TODO
     affiliation: 1
 affiliations:
   - name: Department of Computational Medicine & Bioinformatics, University of Michigan
