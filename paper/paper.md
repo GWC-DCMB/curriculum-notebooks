@@ -53,6 +53,19 @@ coding with jupyter notebooks [@kluyver_jupyter_2016].
 
 # Collaborative Curriculum Development
 
+We assembled a team of volunteers involved in our club to develop a custom curriculum to teach introductory Python for data science via live coding.
+We chose what content to cover based on what our students would need to learn in order to complete a small data analysis project and communicate their findings to their peers.
+We divided up the content by topic into Jupyter notebooks for each lesson, with each lesson taking approximately 15-20 minutes to teach via live coding.
+Each lesson has a corresponding practice notebook with additional exercises on the same content taught in the lesson, but with different data or variables used.
+We hosted the curriculum notebooks in a public GitHub repository to facilitate collaborative development and peer review using pull requests.
+In the initial curriculum drafting phase, developers were assigned lesson and practice notebooks to write.
+Once the draft of a lesson was completed, the writer opened a pull request and asked for review from a different developer.
+The reviewer then provided feedback and approved the pull request to be merged into the main branch after the writer made any requested changes.
+This way, more than one person viewed each notebook before it could be incorporated into the public curriculum, which reduced mistakes and ensured higher quality content. <!-- TODO: cite U-M Carpentries paper for the development model once it's submitted to bioRxiv?-->
+While teaching from the curriculum at the first Data Science Summer Experience,
+instructors took notes on their experience and fixed any problems afteward.
+
+TODO: recording videos for virtual flipped classroom
 
 
 # Curriculum
