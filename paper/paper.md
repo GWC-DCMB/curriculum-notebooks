@@ -309,9 +309,9 @@ Our student organization received funding from the U-M Office of Graduate and
 Postdoctoral Studies, Girls Who Code Support Fund, Department of Computational
 Medicine and Bioinformatics, anonymous donations from Giving Blue Day 2019,
 Endowment in Basic Sciences.
-The 2019 Summer Experience was sponsored by Zingerman’s Deli, U-M Statistics
-Department, U-M Detroit Center, Dell, Cisco, U-M Department of Computational
-Medicine and Bioinformatics, U-M Biostatistics Department.
+The 2019 Summer Experience was sponsored by Zingerman’s Delicatessen, U-M
+Statistics Department, U-M Detroit Center, Dell, Cisco, U-M Department of
+Computational Medicine and Bioinformatics, U-M Biostatistics Department.
 We also thank the students who have participated in our Club and Summer
 Experience events.
 
