@@ -100,8 +100,21 @@ While teaching from the curriculum at the first Data Science Summer Experience,
 instructors took notes on their experience and fixed any problems afterward.
 Maintainers continue to monitor the repository and resolve issues as they arise.
 
-TODO: recording videos for virtual flipped classroom
+Following the onset of the COVID-19 pandemic, we quickly pivoted our club to a
+virtual format.
+In preparation for the 2020 Summer Experience, we switched to a flipped
+classroom style following feedback from our club participants that it was too
+difficult to follow along live coding via Zoom.
+We recorded facilitators teaching the lesson notebooks as if they were live
+coding, then shared them along with a link to the lesson notebooks for students
+to code along with while watching the videos.
+Each video shows the Jupyter notebook alongside the facilitator themselves
+teaching.
+This format allowed students to learn at their own pace, then ask questions and
+practice when we met together virtually. <!-- TODO: should this actually go later in the curriculum section?-->
 
+Our Jupyter notebooks and links to the lesson videos can be accessed on GitHub:
+https://github.com/GWC-DCMB/curriculum-notebooks
 
 # Curriculum
 
