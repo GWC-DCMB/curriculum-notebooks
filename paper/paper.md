@@ -74,7 +74,29 @@ coding with jupyter notebooks [@kluyver_jupyter_2016].
 
 ## Experience of Use
 
+We have used this curriculum to teach Summer Experince and Club in person in 2019 and virtually in 2020.
+For the in person instances, we taught the curriculum through live coding, a tenchique we learned from [The Carpentries](https://carpentries.org/) where the instructor types and explains the code while the learners follow along in real time.
+For the virtual instances, we used a flipped classroom approach where the learners watch videos of instructors explaining the material through "live" coding and follow along. 
+For both in person and virtual instances, we had several facilitators present at each session to answer questions and help learners debug. 
+Furthermore, one or two facilitators were assigned to each project group to help learners define data analysis questions, develop and execute a data analysis plan, visualize and communicate their findings, and troubleshoot coding problems. 
 
+We credit the success of our curriculum not only to the skill of the instructors, but also to the way we organized and executed the lessons and project:
+1. The instructors and learners all used Google co-lab to write and execute code in Jupyter notebooks.
+We chose this option because learners do not have to install any programs to use Google co-lab and you can easily open and edit the Jupyter notebooks from GitHub.  
+1. Assigning facilitators to groups allows learners to build a more personal connection with their facilitators, making them feel more comfortable asking questions.
+1. We use the "sticky note" system from The Carpentries by which learners can ask for help by putting up a colored sticky note (or Zoom emoji).
+1. We exposed the learners to different aspects of data science by bringing in speakers from academics and industry. 
+This allowed them to better put what they were learning into context and think about how they might use the skills they were learning in potential future careers.
+
+### Learner experiences 
+
+We surveyed learners anonymously after each Club and Summer Experience and found that they all felt like they had improved their skills in Python programming, problem solving and critical thinking, and collaboration. 
+Furthermore, for the 2019 instance of Club we asked that all participants take a pre-test and a post-test. 
+While only five participants recorded their post-test, all of them answered more questions correctly on the post-test than the pre-test (range 1-8 more questions correct out of 11). 
+ 
+Overwhelmingly, learners' favorite parts are the guest speakers and the project. 
+These aspects of our curriculum expose learners to new fields and allow them to apply their newfound coding skills to asking an interesting question. 
+About a third of participants claim that they are now more interested in pursuing a career in computer or data science. 
 
 # Acknowledgements
 
