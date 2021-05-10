@@ -203,14 +203,14 @@ exercises for the student to complete on their own following the lesson:
 7. 2D Lists Indexing
 8. Logic
 9. Conditionals
-10. Loops-I
-11. Loops-II
+10. Loops I
+11. Loops II
 12. Functions and Methods
 13. Packages
 14. Pandas-Intro
 15. Pandas-Reading
-16. Pandas Subsetting-I
-17. Pandas Subsetting-II
+16. Pandas Subsetting I
+17. Pandas Subsetting II
 18. Dictionaries
 19. Functions
 20. Numpy Intro
