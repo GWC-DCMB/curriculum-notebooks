@@ -38,8 +38,7 @@ coding topics and data science concepts through live-coding and hands-on
 practice. However, we couldn’t find a resource that exactly met our needs. Over
 the past three years, we have developed a curriculum and instructional format
 using Jupyter notebooks to effectively teach introductory Python for data
-science. This method, inspired by The Carpentries organization
-[@wilson_software_2016], uses bite-sized lessons followed by independent
+science. This method, inspired by The Carpentries organization, uses bite-sized lessons followed by independent
 practice time to reinforce coding concepts, and culminates in a data science
 capstone project using real-world data. We believe our open curriculum is a
 valuable resource to the wider education community and hope that educators will
@@ -62,14 +61,20 @@ In 2019 we launched a Data Science Summer Experience which is unaffiliated with 
 
 The national Girls Who Code organization provides a curriculum that teaches website and application development through programming languages like HTML and Java.
 However, our biomedical science graduate students generally have limited experience with these languages.
-Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in 2020, and #2 in 2021 (https://www.glassdoor.com/research/best-jobs-2019/#).
+Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in
+2020, and #2 in 2021 [@stansell_breaking_2019].
 We believe career exploration in data science will optimally prepare our students for careers that provide financial stability.
 By leveraging the data science expertise of our Club facilitators, we created a specialized curriculum focused on computational data science in the Python programming language.
 
-Girls Who Code encourages participants to learn programming skills while working on an Impact Project website or application throughout the Club (https://hq.girlswhocode.com/project-gallery?).
+Girls Who Code encourages participants to learn programming skills while working
+on an Impact Project website or application throughout the Club
+[@hq_gallery_2021].
 We created an open source Data Science curriculum that teaches the requisite Python and statistics skills to complete a Capstone Project, which is a data analysis project on a data set of interest.
-Using this curriculum, we employ participatory live coding as used by The Carpentries (pmid:24715981) which is an effective method that engages learners (https://doi.org/10.1371/journal.pcbi.1008090).
-With paired activities our curriculum follows the “I do, we do, you do” didactic paradigm (Fisher D, Frey N. Better Learning Through Structured Teaching: A Framework for the Gradual Release of Responsibility. ASCD; 2013.).
+Using this curriculum, we employ participatory live coding as used by The
+Carpentries which is an effective method that engages learners
+[@wilson_software_2016; @nederbragt_ten_2020].
+With paired activities our curriculum follows the “I do, we do, you do” didactic
+paradigm [@fisher_better_2013].
 We provide open-source resources for both in-person and virtual versions of our curriculum, including videos corresponding to each lesson.
 While we developed this curriculum for our Girls Who Code Club and Summer Experience, we believe that it can be widely used for teaching introductory coding for data science.
 
