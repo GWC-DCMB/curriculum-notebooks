@@ -187,7 +187,7 @@ We credit the success of our curriculum not only to the skill of the instructors
 We chose this option because learners do not have to install any programs to use Google co-lab and you can easily open and edit the Jupyter notebooks from GitHub.  When meeting in person, most learners use Google Chromebooks which have limited programming capabilities, but easy use of a web browser.
 1. Assigning facilitators to groups allows learners to build a more personal connection with their facilitators, making them feel more comfortable asking questions.
 1. We use the "sticky note" system from The Carpentries by which learners can ask for help by putting up a colored sticky note (or Zoom emoji).
-1. We exposed the learners to different aspects of data science by bringing in speakers from academics and industry. 
+1. We exposed the learners to different aspects of data science by bringing in guest speakers from academics and industry. 
 This allowed them to better put what they were learning into context and think about how they might use the skills they were learning in potential future careers.
 
 ### Learner experiences 
