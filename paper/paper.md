@@ -235,7 +235,7 @@ analyses.
 ## Instructional Design
 <!-- teaching philosophy / pedagogy -->
 
-
+TODO
 
 ## Experience of Use
 
@@ -330,7 +330,8 @@ the National Science Foundation.
 
 # Author Contributions
 
-
+MD, KLS, ZL, and BNW wrote the initial draft of the manuscript.
+All authors contributed to the curriculum and reviewed the manuscript.
 
 # Conflicts of Interest
 
