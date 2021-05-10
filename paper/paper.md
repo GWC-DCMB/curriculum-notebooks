@@ -33,49 +33,93 @@ bibliography: paper.bib
 <!-- pasted from our PyCon 2020 talk proposal -->
 We are Bioinformatics PhD students at the University of Michigan who started a
 local chapter of Girls Who Code to provide a fun and supportive environment for
-high school women to learn the power of coding. Our goal was to cover basic
-coding topics and data science concepts through live-coding and hands-on
-practice. However, we couldn’t find a resource that exactly met our needs. Over
-the past three years, we have developed a curriculum and instructional format
-using Jupyter notebooks to effectively teach introductory Python for data
-science. This method, inspired by The Carpentries organization, uses bite-sized lessons followed by independent
-practice time to reinforce coding concepts, and culminates in a data science
-capstone project using real-world data. We believe our open curriculum is a
-valuable resource to the wider education community and hope that educators will
-use and improve our lessons, challenge problems, and teaching best-practices.
+high school women to learn the power of coding.
+Our goal was to cover basic coding topics and data science concepts through
+live-coding and hands-on practice.
+However, we couldn’t find a resource that exactly met our needs. Over the past
+three years, we have developed a curriculum and instructional format using
+Jupyter notebooks to effectively teach introductory Python for data science.
+This method, inspired by The Carpentries organization, uses bite-sized lessons
+followed by independent practice time to reinforce coding concepts, and
+culminates in a data science capstone project using real-world data.
+We believe our open curriculum is a valuable resource to the wider education
+community and hope that educators will use and improve our lessons, challenge
+problems, and teaching best-practices.
 Anyone can contribute to our educational materials on GitHub
 (https://github.com/GWC-DCMB).
 
 
 # Statement of Need
 
-As women in the Department of Computational Medicine and Bioinformatics at the University of Michigan, we experience the gender gap in our field first hand. During the 1974-1975 academic year, women achieved 18.9% of total Bachelor's degrees in computer and information sciences in the US ( Digest of Education Statistics. National Center for Education Statistics. https://nces.ed.gov/programs/digest/d12/tables/dt12_349.asp).
-By 1983-1984 this peaked at 37.1%, but fell to 17.6% by 2010-2011. We see this national trend in the training of the next generation of Bioinformaticians at Michigan Medicine.
-Since accepting its first students in 2001 the UM Bioinformatics Graduate Program has graduated 66 male and 22 female doctorates as of 2019.
-This disparity begins at the applicant level — during 2016-2019 the average percentage of females applying directly to the Bioinformatics PhD program is 35.2%, and 41% for female applicants listing Bioinformatics as first or second choice in the biomedical PhD umbrella program PIBS.
+As women in the Department of Computational Medicine and Bioinformatics at the
+University of Michigan, we experience the gender gap in our field first hand.
+During the 1974-1975 academic year, women achieved 18.9% of total Bachelor's
+degrees in computer and information sciences in the US ( Digest of Education
+Statistics. National Center for Education Statistics.
+https://nces.ed.gov/programs/digest/d12/tables/dt12_349.asp).
+By 1983-1984 this peaked at 37.1%, but fell to 17.6% by 2010-2011. We see this
+national trend in the training of the next generation of Bioinformaticians at
+Michigan Medicine.
+Since accepting its first students in 2001 the UM Bioinformatics Graduate
+Program has graduated 66 male and 22 female doctorates as of 2019.
+This disparity begins at the applicant level — during 2016-2019 the average
+percentage of females applying directly to the Bioinformatics PhD program is
+35.2%, and 41% for female applicants listing Bioinformatics as first or second
+choice in the biomedical PhD umbrella program PIBS.
 
-Previous research on women's educational experiences in STEM have produced various explanations for persistent gender disparities (https://files.eric.ed.gov/fulltext/ED580889.pdf).
-One explanation is that women in first year computer science courses rate themselves as being less experienced, prepared, or able to master the course material than the men (https://dl.acm.org/doi/pdf/10.1145/268084.268127).
-The majority of our organization's founding graduate students (all women) began coding in our undergraduate careers or later.
-We wanted to provide a safe place for local young women to begin coding in high school, and develop confidence in themselves and their computational skills before college.
-A national organization, Girls Who Code, whose mission and values aligned with ours, was founded in 2012.
-Girls Who Code's mission is to close the gender gap in technology (https://girlswhocode.com/2015report/).
-Because of our personal experiences and the paucity of women in our field, we began a student organization at the University of Michigan in 2017.
-For the past four academic years we have registered annually as a recognized Girls Who Code Club because the national organization provided name recognition, curriculum resources, guidance for a Capstone Impact Project, and a framework for launching a coding club.
-In 2019 we launched a Data Science Summer Experience which is unaffiliated with the national Girls Who Code organization.
+Previous research on women's educational experiences in STEM have produced
+various explanations for persistent gender disparities
+(https://files.eric.ed.gov/fulltext/ED580889.pdf).
+One explanation is that women in first year computer science courses rate
+themselves as being less experienced, prepared, or able to master the course
+material than the men (https://dl.acm.org/doi/pdf/10.1145/268084.268127).
+The majority of our organization's founding graduate students (all women) began
+coding in our undergraduate careers or later.
+We wanted to provide a safe place for local young women to begin coding in high
+school, and develop confidence in themselves and their computational skills
+before college.
+A national organization, Girls Who Code, whose mission and values aligned with
+ours, was founded in 2012.
+Girls Who Code's mission is to close the gender gap in technology
+(https://girlswhocode.com/2015report/).
+Because of our personal experiences and the paucity of women in our field, we
+began a student organization at the University of Michigan in 2017.
+For the past four academic years we have registered annually as a recognized
+Girls Who Code Club because the national organization provided name recognition,
+curriculum resources, guidance for a Capstone Impact Project, and a framework
+for launching a coding club.
+In 2019 we launched a Data Science Summer Experience which is unaffiliated with
+the national Girls Who Code organization.
 
-The national Girls Who Code organization provides a curriculum that teaches website and application development through programming languages like HTML and Java.
-However, our biomedical science graduate students generally have limited experience with these languages.
-Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in 2020, and #2 in 2021 [@stansell_breaking_2019].
-We believe career exploration in data science will optimally prepare our students for careers that provide financial stability.
-By leveraging the data science expertise of our Club facilitators, we created a specialized curriculum focused on computational data science in the Python programming language.
+The national Girls Who Code organization provides a curriculum that teaches
+website and application development through programming languages like HTML and
+Java.
+However, our biomedical science graduate students generally have limited
+experience with these languages.
+Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in
+2020, and #2 in 2021 [@stansell_breaking_2019].
+We believe career exploration in data science will optimally prepare our
+students for careers that provide financial stability.
+By leveraging the data science expertise of our Club facilitators, we created a
+specialized curriculum focused on computational data science in the Python
+programming language.
 
-Girls Who Code encourages participants to learn programming skills while working on an Impact Project website or application throughout the Club [@hq_gallery_2021].
-We created an open source Data Science curriculum that teaches the requisite Python and statistics skills to complete a Capstone Project, which is a data analysis project on a data set of interest.
-Using this curriculum, we employ participatory live coding as used by The Carpentries which is an effective method that engages learners [@wilson_software_2016; @nederbragt_ten_2020].
-With paired activities our curriculum follows the "I do, we do, you do" didactic paradigm [@fisher_better_2013].
-We provide open-source resources for both in-person and virtual versions of our curriculum, including videos corresponding to each lesson.
-While we developed this curriculum for our Girls Who Code Club and Summer Experience, we believe that it can be widely used for teaching introductory coding for data science.
+Girls Who Code encourages participants to learn programming skills while working
+on an Impact Project website or application throughout the Club
+[@hq_gallery_2021].
+We created an open source Data Science curriculum that teaches the requisite
+Python and statistics skills to complete a Capstone Project, which is a data
+analysis project on a data set of interest.
+Using this curriculum, we employ participatory live coding as used by The
+Carpentries which is an effective method that engages learners
+[@wilson_software_2016; @nederbragt_ten_2020].
+With paired activities our curriculum follows the "I do, we do, you do" didactic
+paradigm [@fisher_better_2013].
+We provide open-source resources for both in-person and virtual versions of our
+curriculum, including videos corresponding to each lesson.
+While we developed this curriculum for our Girls Who Code Club and Summer
+Experience, we believe that it can be widely used for teaching introductory
+coding for data science.
 
 # Collaborative Curriculum Development
 
@@ -122,25 +166,35 @@ https://github.com/GWC-DCMB/curriculum-notebooks
 
 # Curriculum
 
-Our curriculum was designed for high school students with no prior coding experience who are interested in learning Python programming for data science, however this course material would be useful for anyone interested in learning basic programming for data analysis, regardless of age or experience level.
+Our curriculum was designed for high school students with no prior coding
+experience who are interested in learning Python programming for data science,
+however this course material would be useful for anyone interested in learning
+basic programming for data analysis, regardless of age or experience level.
 
-Our curriculum features short lessons to deliver course material in “bite sized” chunks, followed by practices to solidify the learners understanding.
-
+Our curriculum features short lessons to deliver course material in “bite sized”
+chunks, followed by practices to solidify the learners understanding.
 
 ## Learning Objectives
 
 Our learning objectives are:
 
-
 1. Understand fundamental concepts and best practices in coding
 2. Appy data analysis to real world data to answer scientific questions
 3. Create informative summaries and visualizations of data in Python
 
-These skills provide a solid foundation for basic data analysis in Python and participation in our programming exposes students to the many ways coding and data science can be used to make large impacts across many disciplines.
+These skills provide a solid foundation for basic data analysis in Python and
+participation in our programming exposes students to the many ways coding and
+data science can be used to make large impacts across many disciplines.
 
 ## Course Content
 
-Our curriculum design consists of 27 modules that cover Jupyter notebook setup, Python coding fundamentals, use of essential data science packages including Pandas and numpy, basic statistical analyses and plotting using seaborn and matplotlib. Each of the following modules consists of a lesson notebook, used for teaching the concept via live coding, and a practice notebook containing similar exercises for the student to complete on their own following the lesson:
+Our curriculum design consists of 27 modules that cover Jupyter notebook setup,
+Python coding fundamentals, use of essential data science packages including
+Pandas and numpy, basic statistical analyses and plotting using seaborn and
+matplotlib.
+Each of the following modules consists of a lesson notebook, used for teaching
+the concept via live coding, and a practice notebook containing similar
+exercises for the student to complete on their own following the lesson:
 
 1. Jupyter Setup
 2. HelloWorld and Variables
@@ -170,7 +224,14 @@ Our curriculum design consists of 27 modules that cover Jupyter notebook setup, 
 26. Plotting II - Scatterplots
 27. Plotting III - Bar Charts and Histograms
 
-Each lesson builds on those before it, beginning with relevant content reminders from the previous lessons and ending with a concise summary of the skills presented within. Throughout our program the students also simultaneously work on a data science project on a topic of interest using a real world dataset of their choosing, gaining practical experience with each skill as they learn it in the lessons including importing and cleaning data, data visualization and basic statistical analyses.
+Each lesson builds on those before it, beginning with relevant content reminders
+from the previous lessons and ending with a concise summary of the skills
+presented within.
+Throughout our program the students also simultaneously work on a data science
+project on a topic of interest using a real world dataset of their choosing,
+gaining practical experience with each skill as they learn it in the lessons
+including importing and cleaning data, data visualization and basic statistical
+analyses.
 
 
 ## Instructional Design
@@ -180,13 +241,30 @@ Each lesson builds on those before it, beginning with relevant content reminders
 
 ## Experience of Use
 
-We have used this curriculum to teach the Data Science Summer Experience and Girls Who Code Club in person in 2019 and virtually in 2020-2021.
-For the in person instances, we taught the curriculum through participatory live coding, a techhique we learned from [The Carpentries](https://carpentries.org/) where the instructor types and explains the code while the learners follow along in real time.
-For the virtual instances, we used a flipped classroom approach where the learners explore the material individually before meeting together. Learners watch videos of instructors explaining the material through "live" coding and follow along. Learners then complete a Practice notebook corresponding to the Lesson. Facilitators then spend meeting time answering questions and reviewing the core concepts in the Practice notebook.
-For both in person and virtual instances, we had several facilitators present at each session to answer questions and help learners debug.
-Furthermore, one or two facilitators were assigned to each project group to help learners define data analysis questions, develop and execute a data analysis plan, visualize and communicate their findings, and troubleshoot coding problems.
+We have used this curriculum to teach the Data Science Summer Experience and
+Girls Who Code Club in person in 2019 and virtually in 2020-2021.
+For the in person instances, we taught the curriculum through participatory live
+coding, a technique we learned from [The Carpentries](https://carpentries.org/)
+where the instructor types and explains the code while the learners follow along
+in real time.
+For the virtual instances, we used a flipped classroom approach where the
+learners explore the material individually before meeting together.
+Learners watch videos of instructors explaining the material through "live"
+coding and follow along.
+Learners then complete a Practice notebook corresponding to the Lesson.
+Facilitators then spend meeting time answering questions and reviewing the core
+concepts in the Practice notebook.
+For both in person and virtual instances, we had several facilitators present at
+each session to answer questions and help learners debug.
+Furthermore, one or two facilitators were assigned to each project group to help
+learners define data analysis questions, develop and execute a data analysis
+plan, visualize and communicate their findings, and troubleshoot coding
+problems.
 
-We credit the success of our curriculum not only to the skill of the instructors, but also to the way we organized and executed the lessons and project:
+We credit the success of our curriculum not only to the skill of the
+instructors, but also to the way we organized and executed the lessons and
+project:
+
 1. The instructors and learners all used Google co-lab to write and execute code in Jupyter notebooks.
 We chose this option because learners do not have to install any programs to use Google co-lab and you can easily open and edit the Jupyter notebooks from GitHub.  When meeting in person, most learners use Google Chromebooks which have limited programming capabilities, but easy use of a web browser.
 1. Assigning facilitators to groups allows learners to build a more personal connection with their facilitators, making them feel more comfortable asking questions.
@@ -197,31 +275,56 @@ This allowed them to better put what they were learning into context and think a
 
 ### Learner experiences
 
-We surveyed learners anonymously after each Club and Summer Experience and found that they all felt like they had improved their skills in Python programming, problem solving and critical thinking, and collaboration.
-Furthermore, for the 2019 instance of Club we asked that all participants take a pre-test and a post-test.
-While only five participants recorded their post-test, all of them answered more questions correctly on the post-test than the pre-test (range 1-8 more questions correct out of 11).
+We surveyed learners anonymously after each Club and Summer Experience and found
+that they all felt like they had improved their skills in Python programming,
+problem solving and critical thinking, and collaboration.
+Furthermore, for the 2019 instance of Club we asked that all participants take a
+pre-test and a post-test.
+While only five participants recorded their post-test, all of them answered more
+questions correctly on the post-test than the pre-test (range 1-8 more questions
+correct out of 11).
 
 Overwhelmingly, learners' favorite parts are the guest speakers and the project.
-These aspects of our curriculum expose learners to new fields and allow them to apply their newfound coding skills to asking an interesting question.
-About a third of participants claim that they are now more interested in pursuing a career in computer or data science.
+These aspects of our curriculum expose learners to new fields and allow them to
+apply their newfound coding skills to asking an interesting question.
+About a third of participants claim that they are now more interested in
+pursuing a career in computer or data science.
 
 # Acknowledgements
 
-We would like to acknowledge our faculty co-sponsors Maureen Sartor, PhD & Cristina Mitrea, PhD.
-We appreciate the continued support of UM DCMB staff including Julia Eussen, Mary Freer,  Linda Peasley, and Jane Weisner.
-We are grateful for the resources provided by the national Girls Who Code organization.
-Our programming is only possible by the dedication of past and present Executive Committee members, Club and Summer Experience Facilitators & Capstone Project mentors including Alex Weber, Arushi Varshney, Sophie Hoffman, Hojae Lee, Alana Woloshin, Ruma Deb, Saige Rutherford, Michelle McNulty, Bailey Peck, Chloe Whicker, Carolina Rojas Ramirez, Verity Sturm, Zoe Drasner, Sarah Latto, Emily Roberts, Angel Chu, Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia Charles, Lauren Jepsen, and Aubrey Annis.
-Our student organization received funding from the UM Office of Graduate and Postdoctoral Studies, Girls Who Code Support Fund, Department of Computational Medicine and Bioinformatics, anonymous donations from Giving Blue Day 2019, Endowment in Basic Sciences.
-The 2019 Summer Experience was sponsored by Zingerman’s Deli, UM Statistics Department, UM Detroit Center, Dell, Cisco, UM Department of Computational Medicine and Bioinformatics, UM Biostatistics Department.
-We also thank the students who have participated in our Club and Summer Experience events.
+We would like to acknowledge our faculty co-sponsors Maureen Sartor, PhD &
+Cristina Mitrea, PhD.
+We appreciate the continued support of UM DCMB staff including Julia Eussen,
+Mary Freer,  Linda Peasley, and Jane Weisner.
+We are grateful for the resources provided by the national Girls Who Code
+organization.
+
+Our programming is only possible by the dedication of past and present Executive
+Committee members, Club and Summer Experience Facilitators & Capstone Project
+mentors including Alex Weber, Arushi Varshney, Sophie Hoffman, Hojae Lee, Alana
+Woloshin, Ruma Deb, Saige Rutherford, Michelle McNulty, Bailey Peck, Chloe
+Whicker, Carolina Rojas Ramirez, Verity Sturm, Zoe Drasner, Sarah Latto, Emily
+Roberts, Angel Chu, Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia
+Charles, Lauren Jepsen, and Aubrey Annis.
+
+Our student organization received funding from the UM Office of Graduate and
+Postdoctoral Studies, Girls Who Code Support Fund, Department of Computational
+Medicine and Bioinformatics, anonymous donations from Giving Blue Day 2019,
+Endowment in Basic Sciences.
+The 2019 Summer Experience was sponsored by Zingerman’s Deli, UM Statistics
+Department, UM Detroit Center, Dell, Cisco, UM Department of Computational
+Medicine and Bioinformatics, UM Biostatistics Department.
+We also thank the students who have participated in our Club and Summer
+Experience events.
 
 # Funding
 
 MD and KLS received support from the NIH Training Program in Bioinformatics (T32
 GM070449).
-MD, ZL, and BNW received support from the National Science Foundation Graduate Research
-Fellowship Program under Grant No. DGE 1256260.
-ZL and BNW recieved support from the NIH Training Program in Genomic Science (T32-HG000040-22).
+MD, ZL, and BNW received support from the National Science Foundation Graduate
+Research Fellowship Program under Grant No. DGE 1256260.
+ZL and BNW recieved support from the NIH Training Program in Genomic Science
+(T32-HG000040-22).
 
 Any opinions, findings, and conclusions or recommendations expressed in this
 material are those of the authors and do not necessarily reflect the views of
