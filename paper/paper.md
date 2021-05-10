@@ -50,11 +50,28 @@ Anyone can contribute to our educational materials on GitHub
 
 # Statement of Need
 
-As women in the Department of Computational Medicine and Bioinformatics at the University of Michigan, we experience the gender gap in our field first hand. XX% of doctoral students in our department are women and XX% of DCMB affiliated faculty are women. Previous research has shown that women leave computer science and related majors during their undergraduate careers because they feel less prepared than the men in their cohort (REF). The majority of the Club’s founders began coding in our undergraduate careers or later. We wanted to provide a safe place for local young women to begin coding in high school, and develop confidence in themselves and their computational skills before college. A national organization whose mission and values aligned with ours was founded in 2012. Girls Who Code’s mission is to close the gender gap in technology (https://girlswhocode.com/2015report/). In 2017 we began a student organization at the University of Michigan, and for the past four academic years we have registered annually as a recognized Girls Who Code Club because the national organization provided name recognition, curriculum resources, guidance for a capstone Impact Project, and a framework for launching a Club. In 2019 we launched a Data Science Summer Experience which is unaffiliated with the national Girls Who Code organization.
+As women in the Department of Computational Medicine and Bioinformatics at the University of Michigan, we experience the gender gap in our field first hand. 
+XX% of doctoral students in our field are women and XX% of bioinformatics faculty are women (REF). 
+Previous research has shown that women leave computer science and related majors during their undergraduate careers because they feel less prepared than the men in their cohort (REF). 
+The majority of the Club’s founders began coding in our undergraduate careers or later. 
+We wanted to provide a safe place for local young women to begin coding in high school, and develop confidence in themselves and their computational skills before college. 
+A national organization, Girls Who Code, whose mission and values aligned with ours was founded in 2012. 
+Girls Who Code’s mission is to close the gender gap in technology (https://girlswhocode.com/2015report/). 
+In 2017 we began a student organization at the University of Michigan, and for the past four academic years we have registered annually as a recognized Girls Who Code Club because the national organization provided name recognition, curriculum resources, guidance for a capstone Impact Project, and a framework for launching a Club. 
+In 2019 we launched a Data Science Summer Experience which is unaffiliated with the national Girls Who Code organization.
 
-The national Girls Who Code organization provides a curriculum that teaches website and application development through programming languages like HTML and Java. However, our graduate students generally have limited experience with these languages. Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, the #3 in 2020, and #2 in 2021 (https://www.glassdoor.com/research/best-jobs-2019/#). specialized curriculum focused on computational data science in the Python programming language. We believe career exploration in data science will optimally prepare our students for careers that provide financial stability. By leveraging the data science expertise of our Club facilitators, we created a specialized curriculum focused on computational data science in the Python programming language.
+The national Girls Who Code organization provides a curriculum that teaches website and application development through programming languages like HTML and Java. 
+However, our biomedical science graduate students generally have limited experience with these languages. 
+Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in 2020, and #2 in 2021 (https://www.glassdoor.com/research/best-jobs-2019/#). 
+We believe career exploration in data science will optimally prepare our students for careers that provide financial stability. 
+By leveraging the data science expertise of our Club facilitators, we created a specialized curriculum focused on computational data science in the Python programming language.
 
-Girls Who Code encourages participants to learn programming skills while working on an Impact Project website or application throughout the Club (https://hq.girlswhocode.com/project-gallery?). We created an open source Data Science curriculum that teaches the requisite Python and statistics skills to complete a Capstone Project, which is a data analysis project on a data set of interest. Using this curriculum, we employ participatory live coding as used by The Carpentries (pmid:24715981) which is an effective method that engages learners (https://doi.org/10.1371/journal.pcbi.1008090). With paired activities our curriculum follows the “I do, we do, you do” didactic paradigm (Fisher D, Frey N. Better Learning Through Structured Teaching: A Framework for the Gradual Release of Responsibility. ASCD; 2013.).
+Girls Who Code encourages participants to learn programming skills while working on an Impact Project website or application throughout the Club (https://hq.girlswhocode.com/project-gallery?). 
+We created an open source Data Science curriculum that teaches the requisite Python and statistics skills to complete a Capstone Project, which is a data analysis project on a data set of interest. 
+Using this curriculum, we employ participatory live coding as used by The Carpentries (pmid:24715981) which is an effective method that engages learners (https://doi.org/10.1371/journal.pcbi.1008090). 
+With paired activities our curriculum follows the “I do, we do, you do” didactic paradigm (Fisher D, Frey N. Better Learning Through Structured Teaching: A Framework for the Gradual Release of Responsibility. ASCD; 2013.).
+We provide open-source resources for both in-person and virtual versions of our curriculum, including videos corresponding to each lesson.
+While we developed this curriculum for our Girls Who Code Club and Summer Experience, we believe that it can be widely used for teaching introductory coding for data science. 
 
 # Collaborative Curriculum Development
 
