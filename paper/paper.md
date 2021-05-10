@@ -49,32 +49,32 @@ Anyone can contribute to our educational materials on GitHub
 
 # Statement of Need
 
-As women in the Department of Computational Medicine and Bioinformatics at the University of Michigan, we experience the gender gap in our field first hand. During the 1974-1975 academic year, women achieved 18.9% of total Bachelor's degrees in computer and information sciences in the US ( Digest of Education Statistics. National Center for Education Statistics. https://nces.ed.gov/programs/digest/d12/tables/dt12_349.asp). 
-By 1983-1984 this peaked at 37.1%, but fell to 17.6% by 2010-2011. We see this national trend in the training of the next generation of Bioinformaticians at Michigan Medicine. 
-Since accepting its first students in 2001 the UM Bioinformatics Graduate Program has graduated 66 male and 22 female doctorates as of 2019. 
+As women in the Department of Computational Medicine and Bioinformatics at the University of Michigan, we experience the gender gap in our field first hand. During the 1974-1975 academic year, women achieved 18.9% of total Bachelor's degrees in computer and information sciences in the US ( Digest of Education Statistics. National Center for Education Statistics. https://nces.ed.gov/programs/digest/d12/tables/dt12_349.asp).
+By 1983-1984 this peaked at 37.1%, but fell to 17.6% by 2010-2011. We see this national trend in the training of the next generation of Bioinformaticians at Michigan Medicine.
+Since accepting its first students in 2001 the UM Bioinformatics Graduate Program has graduated 66 male and 22 female doctorates as of 2019.
 This disparity begins at the applicant level — during 2016-2019 the average percentage of females applying directly to the Bioinformatics PhD program is 35.2%, and 41% for female applicants listing Bioinformatics as first or second choice in the biomedical PhD umbrella program PIBS.
 
-Previous research on women's educational experiences in STEM have produced various explanations for persistent gender disparities (https://files.eric.ed.gov/fulltext/ED580889.pdf). 
-One explanation is that women in first year computer science courses rate themselves as being less experienced, prepared, or able to master the course material than the men (https://dl.acm.org/doi/pdf/10.1145/268084.268127). 
-The majority of our organization's founding graduate students (all women) began coding in our undergraduate careers or later. 
-We wanted to provide a safe place for local young women to begin coding in high school, and develop confidence in themselves and their computational skills before college. 
-A national organization, Girls Who Code, whose mission and values aligned with ours, was founded in 2012. 
-Girls Who Code's mission is to close the gender gap in technology (https://girlswhocode.com/2015report/). 
-Because of our personal experiences and the paucity of women in our field, we began a student organization at the University of Michigan in 2017. 
-For the past four academic years we have registered annually as a recognized Girls Who Code Club because the national organization provided name recognition, curriculum resources, guidance for a Capstone Impact Project, and a framework for launching a coding club. 
+Previous research on women's educational experiences in STEM have produced various explanations for persistent gender disparities (https://files.eric.ed.gov/fulltext/ED580889.pdf).
+One explanation is that women in first year computer science courses rate themselves as being less experienced, prepared, or able to master the course material than the men (https://dl.acm.org/doi/pdf/10.1145/268084.268127).
+The majority of our organization's founding graduate students (all women) began coding in our undergraduate careers or later.
+We wanted to provide a safe place for local young women to begin coding in high school, and develop confidence in themselves and their computational skills before college.
+A national organization, Girls Who Code, whose mission and values aligned with ours, was founded in 2012.
+Girls Who Code's mission is to close the gender gap in technology (https://girlswhocode.com/2015report/).
+Because of our personal experiences and the paucity of women in our field, we began a student organization at the University of Michigan in 2017.
+For the past four academic years we have registered annually as a recognized Girls Who Code Club because the national organization provided name recognition, curriculum resources, guidance for a Capstone Impact Project, and a framework for launching a coding club.
 In 2019 we launched a Data Science Summer Experience which is unaffiliated with the national Girls Who Code organization.
 
-The national Girls Who Code organization provides a curriculum that teaches website and application development through programming languages like HTML and Java. 
-However, our biomedical science graduate students generally have limited experience with these languages. 
-Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in 2020, and #2 in 2021 [@stansell_breaking_2019]. 
-We believe career exploration in data science will optimally prepare our students for careers that provide financial stability. 
+The national Girls Who Code organization provides a curriculum that teaches website and application development through programming languages like HTML and Java.
+However, our biomedical science graduate students generally have limited experience with these languages.
+Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in 2020, and #2 in 2021 [@stansell_breaking_2019].
+We believe career exploration in data science will optimally prepare our students for careers that provide financial stability.
 By leveraging the data science expertise of our Club facilitators, we created a specialized curriculum focused on computational data science in the Python programming language.
 
-Girls Who Code encourages participants to learn programming skills while working on an Impact Project website or application throughout the Club [@hq_gallery_2021]. 
-We created an open source Data Science curriculum that teaches the requisite Python and statistics skills to complete a Capstone Project, which is a data analysis project on a data set of interest. 
-Using this curriculum, we employ participatory live coding as used by The Carpentries which is an effective method that engages learners [@wilson_software_2016; @nederbragt_ten_2020]. 
-With paired activities our curriculum follows the "I do, we do, you do" didactic paradigm [@fisher_better_2013]. 
-We provide open-source resources for both in-person and virtual versions of our curriculum, including videos corresponding to each lesson. 
+Girls Who Code encourages participants to learn programming skills while working on an Impact Project website or application throughout the Club [@hq_gallery_2021].
+We created an open source Data Science curriculum that teaches the requisite Python and statistics skills to complete a Capstone Project, which is a data analysis project on a data set of interest.
+Using this curriculum, we employ participatory live coding as used by The Carpentries which is an effective method that engages learners [@wilson_software_2016; @nederbragt_ten_2020].
+With paired activities our curriculum follows the "I do, we do, you do" didactic paradigm [@fisher_better_2013].
+We provide open-source resources for both in-person and virtual versions of our curriculum, including videos corresponding to each lesson.
 While we developed this curriculum for our Girls Who Code Club and Summer Experience, we believe that it can be widely used for teaching introductory coding for data science.
 
 # Collaborative Curriculum Development
@@ -207,11 +207,11 @@ About a third of participants claim that they are now more interested in pursuin
 
 # Acknowledgements
 
-We would like to acknowledge our faculty co-sponsors Maureen Sartor, PhD & Cristina Mitrea, PhD. 
-We appreciate the continued support of UM DCMB staff including Julia Eussen, Mary Freer,  Linda Peasley, and Jane Weisner. 
-We are grateful for the resources provided by the national Girls Who Code organization. 
-Our programming is only possible by the dedication of past and present Executive Committee members, Club and Summer Experience Facilitators & Capstone Project mentors including Alex Weber, Arushi Varshney, Sophie Hoffman, Hojae Lee, Alana Woloshin, Ruma Deb, Saige Rutherford, Michelle McNulty, Bailey Peck, Chloe Whicker, Carolina Rojas Ramirez, Verity Sturm, Zoe Drasner, Sarah Latto, Emily Roberts, Angel Chu, Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia Charles, Lauren Jepsen, and Aubrey Annis. 
-Our student organization received funding from the UM Office of Graduate and Postdoctoral Studies, Girls Who Code Support Fund, Department of Computational Medicine and Bioinformatics, anonymous donations from Giving Blue Day 2019, Endowment in Basic Sciences. 
+We would like to acknowledge our faculty co-sponsors Maureen Sartor, PhD & Cristina Mitrea, PhD.
+We appreciate the continued support of UM DCMB staff including Julia Eussen, Mary Freer,  Linda Peasley, and Jane Weisner.
+We are grateful for the resources provided by the national Girls Who Code organization.
+Our programming is only possible by the dedication of past and present Executive Committee members, Club and Summer Experience Facilitators & Capstone Project mentors including Alex Weber, Arushi Varshney, Sophie Hoffman, Hojae Lee, Alana Woloshin, Ruma Deb, Saige Rutherford, Michelle McNulty, Bailey Peck, Chloe Whicker, Carolina Rojas Ramirez, Verity Sturm, Zoe Drasner, Sarah Latto, Emily Roberts, Angel Chu, Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia Charles, Lauren Jepsen, and Aubrey Annis.
+Our student organization received funding from the UM Office of Graduate and Postdoctoral Studies, Girls Who Code Support Fund, Department of Computational Medicine and Bioinformatics, anonymous donations from Giving Blue Day 2019, Endowment in Basic Sciences.
 The 2019 Summer Experience was sponsored by Zingerman’s Deli, UM Statistics Department, UM Detroit Center, Dell, Cisco, UM Department of Computational Medicine and Bioinformatics, UM Biostatistics Department.
 We also thank the students who have participated in our Club and Summer Experience events.
 
