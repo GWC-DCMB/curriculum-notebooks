@@ -178,7 +178,7 @@ Each lesson builds on those before it, beginning with relevant content reminders
 
 We have used this curriculum to teach the Data Science Summer Experience and Girls Who Code Club in person in 2019 and virtually in 2020-2021.
 For the in person instances, we taught the curriculum through participatory live coding, a techhique we learned from [The Carpentries](https://carpentries.org/) where the instructor types and explains the code while the learners follow along in real time.
-For the virtual instances, we used a flipped classroom approach where the learners watch videos of instructors explaining the material through "live" coding and follow along. 
+For the virtual instances, we used a flipped classroom approach where the learners explore the material individually before meeting together. Learners watch videos of instructors explaining the material through "live" coding and follow along. Learners then complete a Practice notebook corresponding to the Lesson. Facilitators then spend meeting time answering questions and reviewing the core concepts in the Practice notebook.
 For both in person and virtual instances, we had several facilitators present at each session to answer questions and help learners debug. 
 Furthermore, one or two facilitators were assigned to each project group to help learners define data analysis questions, develop and execute a data analysis plan, visualize and communicate their findings, and troubleshoot coding problems. 
 
