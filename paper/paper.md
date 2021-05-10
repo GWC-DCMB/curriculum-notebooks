@@ -55,7 +55,8 @@ Previous research has shown that women leave computer science and related majors
 The majority of the Club’s founders began coding in our undergraduate careers or later.
 We wanted to provide a safe place for local young women to begin coding in high school, and develop confidence in themselves and their computational skills before college.
 A national organization, Girls Who Code, whose mission and values aligned with ours was founded in 2012.
-Girls Who Code’s mission is to close the gender gap in technology (https://girlswhocode.com/2015report/).
+Girls Who Code’s mission is to close the gender gap in technology
+[@saujani_girls_2015].
 In 2017 we began a student organization at the University of Michigan, and for the past four academic years we have registered annually as a recognized Girls Who Code Club because the national organization provided name recognition, curriculum resources, guidance for a capstone Impact Project, and a framework for launching a Club.
 In 2019 we launched a Data Science Summer Experience which is unaffiliated with the national Girls Who Code organization.
 
