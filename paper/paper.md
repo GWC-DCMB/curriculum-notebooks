@@ -235,7 +235,7 @@ analyses.
 ## Instructional Design
 <!-- teaching philosophy / pedagogy -->
 
-TODO
+
 
 ## Experience of Use
 
