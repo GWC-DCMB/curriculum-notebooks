@@ -1,4 +1,4 @@
----
+ U-M ---
 title: 'Teaching Python for Data Science: Collaborative development of a modular & interactive curriculum'
 tags:
   - Data Science
@@ -54,13 +54,11 @@ Anyone can contribute to our educational materials on GitHub
 As women in the Department of Computational Medicine and Bioinformatics at the
 University of Michigan, we experience the gender gap in our field first hand.
 During the 1974-1975 academic year, women achieved 18.9% of total Bachelor's
-degrees in computer and information sciences in the US ( Digest of Education
-Statistics. National Center for Education Statistics.
-https://nces.ed.gov/programs/digest/d12/tables/dt12_349.asp).
+degrees in computer and information sciences in the US [@nces_digest_2012].
 By 1983-1984 this peaked at 37.1%, but fell to 17.6% by 2010-2011. We see this
 national trend in the training of the next generation of Bioinformaticians at
 Michigan Medicine.
-Since accepting its first students in 2001 the UM Bioinformatics Graduate
+Since accepting its first students in 2001, the U-M Bioinformatics Graduate
 Program has graduated 66 male and 22 female doctorates as of 2019.
 This disparity begins at the applicant level — during 2016-2019 the average
 percentage of females applying directly to the Bioinformatics PhD program is
@@ -69,10 +67,10 @@ choice in the biomedical PhD umbrella program PIBS.
 
 Previous research on women's educational experiences in STEM have produced
 various explanations for persistent gender disparities
-(https://files.eric.ed.gov/fulltext/ED580889.pdf).
+[@benbow_gender_2016].
 One explanation is that women in first year computer science courses rate
 themselves as being less experienced, prepared, or able to master the course
-material than the men (https://dl.acm.org/doi/pdf/10.1145/268084.268127).
+material than the men [@fisher_undergraduate_1997].
 The majority of our organization's founding graduate students (all women) began
 coding in our undergraduate careers or later.
 We wanted to provide a safe place for local young women to begin coding in high
@@ -81,7 +79,7 @@ before college.
 A national organization, Girls Who Code, whose mission and values aligned with
 ours, was founded in 2012.
 Girls Who Code's mission is to close the gender gap in technology
-(https://girlswhocode.com/2015report/).
+[@saujani_girls_2015].
 Because of our personal experiences and the paucity of women in our field, we
 began a student organization at the University of Michigan in 2017.
 For the past four academic years we have registered annually as a recognized
@@ -294,7 +292,7 @@ pursuing a career in computer or data science.
 
 We would like to acknowledge our faculty co-sponsors Maureen Sartor, PhD &
 Cristina Mitrea, PhD.
-We appreciate the continued support of UM DCMB staff including Julia Eussen,
+We appreciate the continued support of U-M DCMB staff including Julia Eussen,
 Mary Freer,  Linda Peasley, and Jane Weisner.
 We are grateful for the resources provided by the national Girls Who Code
 organization.
@@ -307,13 +305,13 @@ Whicker, Carolina Rojas Ramirez, Verity Sturm, Zoe Drasner, Sarah Latto, Emily
 Roberts, Angel Chu, Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia
 Charles, Lauren Jepsen, and Aubrey Annis.
 
-Our student organization received funding from the UM Office of Graduate and
+Our student organization received funding from the U-M Office of Graduate and
 Postdoctoral Studies, Girls Who Code Support Fund, Department of Computational
 Medicine and Bioinformatics, anonymous donations from Giving Blue Day 2019,
 Endowment in Basic Sciences.
-The 2019 Summer Experience was sponsored by Zingerman’s Deli, UM Statistics
-Department, UM Detroit Center, Dell, Cisco, UM Department of Computational
-Medicine and Bioinformatics, UM Biostatistics Department.
+The 2019 Summer Experience was sponsored by Zingerman’s Deli, U-M Statistics
+Department, U-M Detroit Center, Dell, Cisco, U-M Department of Computational
+Medicine and Bioinformatics, U-M Biostatistics Department.
 We also thank the students who have participated in our Club and Summer
 Experience events.
 
