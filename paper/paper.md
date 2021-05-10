@@ -217,9 +217,9 @@ We also thank the students who have participated in our Club and Summer Experien
 
 # Funding
 
-KLS and MD received support from the NIH Training Program in Bioinformatics (T32
+MD and KLS received support from the NIH Training Program in Bioinformatics (T32
 GM070449).
-ZL, BNW, and MD received support from the National Science Foundation Graduate Research
+MD, ZL, and BNW received support from the National Science Foundation Graduate Research
 Fellowship Program under Grant No. DGE 1256260.
 ZL and BNW recieved support from the NIH Training Program in Genomic Science (T32-HG000040-22).
 
