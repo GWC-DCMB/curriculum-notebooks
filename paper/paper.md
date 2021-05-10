@@ -61,20 +61,14 @@ In 2019 we launched a Data Science Summer Experience which is unaffiliated with 
 
 The national Girls Who Code organization provides a curriculum that teaches website and application development through programming languages like HTML and Java.
 However, our biomedical science graduate students generally have limited experience with these languages.
-Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in
-2020, and #2 in 2021 [@stansell_breaking_2019].
+Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in 2020, and #2 in 2021 [@stansell_breaking_2019].
 We believe career exploration in data science will optimally prepare our students for careers that provide financial stability.
 By leveraging the data science expertise of our Club facilitators, we created a specialized curriculum focused on computational data science in the Python programming language.
 
-Girls Who Code encourages participants to learn programming skills while working
-on an Impact Project website or application throughout the Club
-[@hq_gallery_2021].
+Girls Who Code encourages participants to learn programming skills while working on an Impact Project website or application throughout the Club [@hq_gallery_2021].
 We created an open source Data Science curriculum that teaches the requisite Python and statistics skills to complete a Capstone Project, which is a data analysis project on a data set of interest.
-Using this curriculum, we employ participatory live coding as used by The
-Carpentries which is an effective method that engages learners
-[@wilson_software_2016; @nederbragt_ten_2020].
-With paired activities our curriculum follows the “I do, we do, you do” didactic
-paradigm [@fisher_better_2013].
+Using this curriculum, we employ participatory live coding as used by The Carpentries which is an effective method that engages learners [@wilson_software_2016; @nederbragt_ten_2020].
+With paired activities our curriculum follows the “I do, we do, you do” didactic paradigm [@fisher_better_2013].
 We provide open-source resources for both in-person and virtual versions of our curriculum, including videos corresponding to each lesson.
 While we developed this curriculum for our Girls Who Code Club and Summer Experience, we believe that it can be widely used for teaching introductory coding for data science.
 
@@ -85,9 +79,8 @@ curriculum to teach introductory Python for data science via live coding.
 We chose what content to cover based on what our students would need to learn in
 order to complete a small data analysis project and communicate their findings
 to their peers.
-We divided up the content by topic into Jupyter notebooks
-[@kluyver_jupyter_2016] for each lesson, with each lesson taking approximately
-15-20 minutes to teach via live coding.
+We divided up the content by topic into Jupyter notebooks for each lesson, with
+each lesson taking approximately 15-20 minutes to teach via live coding.
 Each lesson has a corresponding practice notebook with additional exercises on
 the same content taught in the lesson, but with different data or variables
 used.
@@ -124,14 +117,55 @@ https://github.com/GWC-DCMB/curriculum-notebooks
 
 # Curriculum
 
+Our curriculum was designed for high school students with no prior coding experience who are interested in learning Python programming for data science, however this course material would be useful for anyone interested in learning basic programming for data analysis, regardless of age or experience level.
+
+Our curriculum features short lessons to deliver course material in “bite sized” chunks, followed by practices to solidify the learners understanding.
 
 
 ## Learning Objectives
 
+Our learning objectives are:
 
+
+1. Understand fundamental concepts and best practices in coding
+2. Appy data analysis to real world data to answer scientific questions
+3. Create informative summaries and visualizations of data in Python
+
+These skills provide a solid foundation for basic data analysis in Python and participation in our programming exposes students to the many ways coding and data science can be used to make large impacts across many disciplines.
 
 ## Course Content
 
+Our curriculum design consists of 27 modules that cover Jupyter notebook setup, Python coding fundamentals, use of essential data science packages including Pandas and numpy, basic statistical analyses and plotting using seaborn and matplotlib. Each of the following modules consists of a lesson notebook, used for teaching the concept via live coding, and a practice notebook containing similar exercises for the student to complete on their own following the lesson:
+
+1. Jupyter Setup
+2. HelloWorld and Variables
+3. Variables and Types
+4. Lists Intro
+5. Indexing
+6. 2D Lists Intro
+7. 2D Lists Indexing
+8. Logic
+9. Conditionals
+10. Loops-I
+11. Loops-II
+12. Functions and Methods
+13. Packages
+14. Pandas-Intro
+15. Pandas-Reading
+16. Pandas Subsetting-I
+17. Pandas Subsetting-II
+18. Dictionaries
+19. Functions
+20. Numpy Intro
+21. Basic Stats I - Averages
+22. Basic Stats II - Percents
+23. Basic Stats III - Correlations
+24. Basic Stats IV - Significance
+25. Plotting I - Line Graphs
+26. Plotting II - Scatterplots
+27. Plotting III - Bar Charts and Histograms
+
+Each lesson builds on those before it, beginning with relevant content reminders from the previous lessons and ending with a concise summary of the skills presented within. Throughout our program the students also simultaneously work on a data science project on a topic of interest using a real world dataset of their choosing, gaining practical experience with each skill as they learn it in the lessons including importing and cleaning data, data visualization and basic statistical analyses.
 
 
 ## Instructional Design
@@ -141,18 +175,19 @@ https://github.com/GWC-DCMB/curriculum-notebooks
 
 ## Experience of Use
 
-We have used this curriculum to teach Summer Experince and Club in person in 2019 and virtually in 2020.
-For the in person instances, we taught the curriculum through live coding, a tenchique we learned from [The Carpentries](https://carpentries.org/) where the instructor types and explains the code while the learners follow along in real time.
-For the virtual instances, we used a flipped classroom approach where the learners watch videos of instructors explaining the material through "live" coding and follow along.
+We have used this curriculum to teach the Data Science Summer Experience and Girls Who Code Club in person in 2019 and virtually in 2020-2021.
+For the in person instances, we taught the curriculum through participatory live coding, a techhique we learned from [The Carpentries](https://carpentries.org/) where the instructor types and explains the code while the learners follow along in real time.
+For the virtual instances, we used a flipped classroom approach where the learners explore the material individually before meeting together. Learners watch videos of instructors explaining the material through "live" coding and follow along. Learners then complete a Practice notebook corresponding to the Lesson. Facilitators then spend meeting time answering questions and reviewing the core concepts in the Practice notebook.
 For both in person and virtual instances, we had several facilitators present at each session to answer questions and help learners debug.
 Furthermore, one or two facilitators were assigned to each project group to help learners define data analysis questions, develop and execute a data analysis plan, visualize and communicate their findings, and troubleshoot coding problems.
 
 We credit the success of our curriculum not only to the skill of the instructors, but also to the way we organized and executed the lessons and project:
 1. The instructors and learners all used Google co-lab to write and execute code in Jupyter notebooks.
-We chose this option because learners do not have to install any programs to use Google co-lab and you can easily open and edit the Jupyter notebooks from GitHub.  
+We chose this option because learners do not have to install any programs to use Google co-lab and you can easily open and edit the Jupyter notebooks from GitHub.  When meeting in person, most learners use Google Chromebooks which have limited programming capabilities, but easy use of a web browser.
 1. Assigning facilitators to groups allows learners to build a more personal connection with their facilitators, making them feel more comfortable asking questions.
+1. Group projects were performed using paired programming to allow learners to collaborate and learn from each other.
 1. We use the "sticky note" system from The Carpentries by which learners can ask for help by putting up a colored sticky note (or Zoom emoji).
-1. We exposed the learners to different aspects of data science by bringing in speakers from academics and industry.
+1. We exposed the learners to different aspects of data science by bringing in guest speakers from academics and industry.
 This allowed them to better put what they were learning into context and think about how they might use the skills they were learning in potential future careers.
 
 ### Learner experiences
