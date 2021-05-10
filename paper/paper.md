@@ -176,7 +176,7 @@ Each lesson builds on those before it, beginning with relevant content reminders
 
 ## Experience of Use
 
-We have used this curriculum to teach Summer Experince and Club in person in 2019 and virtually in 2020.
+We have used this curriculum to teach the Data Science Summer Experience and Girls Who Code Club in person in 2019 and virtually in 2020-2021.
 For the in person instances, we taught the curriculum through live coding, a tenchique we learned from [The Carpentries](https://carpentries.org/) where the instructor types and explains the code while the learners follow along in real time.
 For the virtual instances, we used a flipped classroom approach where the learners watch videos of instructors explaining the material through "live" coding and follow along. 
 For both in person and virtual instances, we had several facilitators present at each session to answer questions and help learners debug. 
