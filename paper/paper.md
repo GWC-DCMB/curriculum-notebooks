@@ -188,7 +188,7 @@ data science can be used to make large impacts across many disciplines.
 Our curriculum design consists of 27 modules that cover Jupyter notebook setup,
 Python coding fundamentals, use of essential data science packages including
 Pandas and numpy, basic statistical analyses, and plotting using seaborn and
-matplotlib (Figure 1) [@harris_array_2021; @waskom_seaborn_2021;
+matplotlib (Figure 1) [@harris_array_2020; @waskom_seaborn_2021;
 @hunter_matplotlib_2007].
 Each of the following modules consists of a lesson notebook, used for teaching
 the concept via live coding, and a practice notebook containing similar
