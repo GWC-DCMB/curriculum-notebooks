@@ -45,8 +45,7 @@ culminates in a data science capstone project using real-world data.
 We believe our open curriculum is a valuable resource to the wider education
 community and hope that educators will use and improve our lessons, challenge
 problems, and teaching best-practices.
-Anyone can contribute to our educational materials on GitHub
-(https://github.com/GWC-DCMB).
+Anyone can contribute to [our educational materials on GitHub](https://github.com/GWC-DCMB).
 
 
 # Statement of Need
@@ -188,8 +187,9 @@ data science can be used to make large impacts across many disciplines.
 
 Our curriculum design consists of 27 modules that cover Jupyter notebook setup,
 Python coding fundamentals, use of essential data science packages including
-Pandas and numpy, basic statistical analyses and plotting using seaborn and
-matplotlib (Figure 1) [TODO: cite packages].
+Pandas and numpy, basic statistical analyses, and plotting using seaborn and
+matplotlib (Figure 1) [@harris_array_2021; @waskom_seaborn_2021;
+@hunter_matplotlib_2007].
 Each of the following modules consists of a lesson notebook, used for teaching
 the concept via live coding, and a practice notebook containing similar
 exercises for the student to complete on their own following the lesson:
@@ -263,8 +263,8 @@ We credit the success of our curriculum not only to the skill of the
 instructors, but also to the way we organized and executed the lessons and
 project:
 
-1. The instructors and learners all used Google co-lab to write and execute code in Jupyter notebooks.
-We chose this option because learners do not have to install any programs to use Google co-lab and you can easily open and edit the Jupyter notebooks from GitHub.  When meeting in person, most learners use Google Chromebooks which have limited programming capabilities, but easy use of a web browser.
+1. The instructors and learners used [Google Colaboratory (Colab)](https://colab.research.google.com/) to write and execute code in Jupyter notebooks.
+We chose this option because learners do not have to install any programs to use Google Colab, and you can easily open and edit the Jupyter notebooks from GitHub.  When meeting in person, most learners use Google Chromebooks which have limited programming capabilities, but easy use of a web browser.
 1. Assigning facilitators to groups allows learners to build a more personal connection with their facilitators, making them feel more comfortable asking questions.
 1. Group projects were performed using paired programming to allow learners to collaborate and learn from each other.
 1. We use the "sticky note" system from The Carpentries by which learners can ask for help by putting up a colored sticky note (or Zoom emoji).
