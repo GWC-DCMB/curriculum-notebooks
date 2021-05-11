@@ -165,20 +165,20 @@ https://github.com/GWC-DCMB/curriculum-notebooks
 # Curriculum
 
 Our curriculum was designed for high school students with no prior coding
-experience who are interested in learning Python programming for data science,
-however this course material would be useful for anyone interested in learning
+experience who are interested in learning Python programming for data science.
+However, this course material would be useful for anyone interested in learning
 basic programming for data analysis, regardless of age or experience level.
 
 Our curriculum features short lessons to deliver course material in “bite sized”
-chunks, followed by practices to solidify the learners understanding.
+chunks, followed by practices to solidify the learners' understanding.
 
 ## Learning Objectives
 
 Our learning objectives are:
 
-1. Understand fundamental concepts and best practices in coding
-2. Appy data analysis to real world data to answer scientific questions
-3. Create informative summaries and visualizations of data in Python
+1. Understand fundamental concepts and best practices in coding.
+2. Apply data analysis to real world data to answer scientific questions.
+3. Create informative summary statistics and data visualizations in Python.
 
 These skills provide a solid foundation for basic data analysis in Python and
 participation in our programming exposes students to the many ways coding and
@@ -189,7 +189,7 @@ data science can be used to make large impacts across many disciplines.
 Our curriculum design consists of 27 modules that cover Jupyter notebook setup,
 Python coding fundamentals, use of essential data science packages including
 Pandas and numpy, basic statistical analyses and plotting using seaborn and
-matplotlib.
+matplotlib (Figure 1) [TODO: cite packages].
 Each of the following modules consists of a lesson notebook, used for teaching
 the concept via live coding, and a practice notebook containing similar
 exercises for the student to complete on their own following the lesson:
@@ -226,10 +226,10 @@ Each lesson builds on those before it, beginning with relevant content reminders
 from the previous lessons and ending with a concise summary of the skills
 presented within.
 Throughout our program the students also simultaneously work on a data science
-project on a topic of interest using a real world dataset of their choosing,
-gaining practical experience with each skill as they learn it in the lessons
-including importing and cleaning data, data visualization and basic statistical
-analyses.
+project on a topic of interest using a real world dataset of their choosing.
+Through this Capstone Project, learners gain practical experience with each
+skill as they learn it in the lessons including importing and cleaning data,
+data visualization and basic statistical analyses.
 
 
 ## Instructional Design
