@@ -276,7 +276,8 @@ questions.
 1. Group projects were performed using paired programming to allow learners to
 collaborate and learn from each other.
 1. We use the "sticky note" system from The Carpentries by which learners can
-ask for help by putting up a colored sticky note (or Zoom emoji).
+ask for help by putting up a colored sticky note (or a Zoom emoji in the case of
+virtual meetings) [@becker_responding_2016].
 1. We exposed the learners to different aspects of data science by bringing in
 guest speakers from academics and industry. This allowed them to better put what
 they were learning into context and think about how they might use the skills
