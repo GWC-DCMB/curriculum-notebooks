@@ -376,7 +376,7 @@ Mary Freer,  Linda Peasley, and Jane Weisner.
 We are grateful for the resources provided by the national Girls Who Code
 organization.
 
-Our programming is only possible by the dedication of past and present Executive
+Our programming is made possible by the dedication of past and present Executive
 Committee members, Club and Summer Experience Facilitators & Capstone Project
 mentors including Alex Weber, Arushi Varshney, Sophie Hoffman, Hojae Lee,
 Ruma Deb, Saige Rutherford, Michelle McNulty, Bailey Peck, Chloe Whicker,
