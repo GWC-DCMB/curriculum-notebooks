@@ -12,7 +12,49 @@ authors:
   - name: Kelly L. Sovacool
     orcid: 0000-0003-3283-829X
     affiliation: 1
-  - name: TODO - all other contributors
+  - name: Negar Farzaneh
+    orcid: TODO
+    affiliation: TODO
+  - name: Vy Nguyen
+    orcid: TODO
+    affiliation: TODO
+  - name: Sarah Haynes
+    orcid: TODO
+    affiliation: TODO
+  - name: Hayley Falk
+    orcid: TODO
+    affiliation: TODO
+  - name: Katie Furman
+    orcid: TODO
+    affiliation: TODO
+  - name: Logan Walker
+    orcid: TODO
+    affiliation: TODO
+  - name: Rucheng Diao
+    orcid: TODO
+    affiliation: TODO
+  - name: Morgan Oneka
+    orcid: TODO
+    affiliation: TODO
+  - name: Audrey Drotos
+    orcid: TODO
+    affiliation: TODO
+  - name: Alana Woloshin
+    orcid: TODO
+    affiliation: TODO
+  - name: Gabrielle Dotson
+    orcid: TODO
+    affiliation: TODO
+  - name: April Kriebel
+    orcid: TODO
+    affiliation: TODO
+  - name: Lucy Meng
+    orcid: TODO
+    affiliation: TODO
+  - name: Stephanie Thiede
+    orcid: TODO
+    affiliation: TODO
+  - name: Shweta Ramdas
     orcid: TODO
     affiliation: TODO
   - name: Zena Lapp^[corresponding author]
