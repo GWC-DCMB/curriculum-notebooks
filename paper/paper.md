@@ -26,7 +26,7 @@ authors:
     affiliation: 1
   - name: Katherine L. Furman
     orcid: 0000-0002-0340-4292
-    affiliation: 3, 4
+    affiliation: "3, 4"
   - name: Logan Walker
     orcid: TODO
     affiliation: 1
@@ -405,7 +405,7 @@ ZL and BNW recieved support from the NIH Training Program in Genomic Science
 (T32-HG000040-22).
 KLF received support from The University of Michigan NIDA
 Training Program in Neuroscience (T32-DA7281).
-KLF received support from the NIH Early Stage Training in the Neurosciences 
+KLF received support from the NIH Early Stage Training in the Neurosciences
 Training Grant (T32-NS076401).
 
 Any opinions, findings, and conclusions or recommendations expressed in this
