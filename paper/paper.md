@@ -28,8 +28,8 @@ authors:
     orcid: 0000-0002-0340-4292
     affiliation: "3, 4"
   - name: Logan Walker
-    orcid: TODO
-    affiliation: 1
+    orcid: 0000-0002-5378-3315
+    affiliation: "5, 1"
   - name: Rucheng Diao
     orcid: TODO
     affiliation: 1
@@ -72,6 +72,8 @@ affiliations:
     index: 3
   - name: Michigan Neuroscience Institute, Univerity of Michigan
     index: 4
+  - name: Biophysics Graduate Program, Univerity of Michigan
+    index: 5
 date: 30 Apr. 2021
 bibliography: paper.bib
 ---
