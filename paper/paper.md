@@ -283,7 +283,7 @@ data visualization and basic statistical analyses.
 ## Instructional Design
 <!-- teaching philosophy / pedagogy -->
 
-We modeled our instructional design in the style of Software Carpentry [CITE].
+We modeled our instructional design in the style of Software Carpentry [@wilson_software_2016].
 
 1. Each lesson begins with a recapping of the relevant core skills presented in the previous lessons.
 1. All lessons are designed to be taught via 15-minute live-coding sessions, where students type and run code in their own notebooks along with the instructor in real time. As in Software Carpentry, we find this to be a highly effective method of teaching coding, since students must actively engage with the material and deal with errors and bugs as they come up.
