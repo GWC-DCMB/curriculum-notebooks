@@ -379,6 +379,7 @@ Ruma Deb, Saige Rutherford, Michelle McNulty, Bailey Peck, Chloe Whicker,
 Carolina Rojas Ramirez, Verity Sturm, Zoe Drasner, Sarah Latto, Emily
 Roberts, Angel Chu, Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia
 Charles, Lauren Jepsen, and Aubrey Annis.
+TODO: add 2019, 2020, & 2021 facilitators not already listed.
 
 Our student organization received funding from the U-M Office of Graduate and
 Postdoctoral Studies, Girls Who Code Support Fund, Department of Computational
