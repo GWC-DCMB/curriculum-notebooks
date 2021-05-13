@@ -374,9 +374,9 @@ organization.
 
 Our programming is only possible by the dedication of past and present Executive
 Committee members, Club and Summer Experience Facilitators & Capstone Project
-mentors including Alex Weber, Arushi Varshney, Sophie Hoffman, Hojae Lee, Alana
-Woloshin, Ruma Deb, Saige Rutherford, Michelle McNulty, Bailey Peck, Chloe
-Whicker, Carolina Rojas Ramirez, Verity Sturm, Zoe Drasner, Sarah Latto, Emily
+mentors including Alex Weber, Arushi Varshney, Sophie Hoffman, Hojae Lee,
+Ruma Deb, Saige Rutherford, Michelle McNulty, Bailey Peck, Chloe Whicker,
+Carolina Rojas Ramirez, Verity Sturm, Zoe Drasner, Sarah Latto, Emily
 Roberts, Angel Chu, Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia
 Charles, Lauren Jepsen, and Aubrey Annis.
 
