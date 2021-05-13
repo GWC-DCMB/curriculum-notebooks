@@ -70,7 +70,7 @@ affiliations:
     index: 2
   - name: Neuroscience Graduate Program, University of Michigan
     index: 3
-  - name: Michigan Neuroscience Institute, Univerity of Micihgan
+  - name: Michigan Neuroscience Institute, Univerity of Michigan
     index: 4
 date: 30 Apr. 2021
 bibliography: paper.bib
