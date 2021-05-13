@@ -14,28 +14,28 @@ authors:
     affiliation: 1
   - name: Negar Farzaneh
     orcid: TODO
-    affiliation: TODO
+    affiliation: 1
   - name: Vy Nguyen
     orcid: TODO
-    affiliation: TODO
+    affiliation: 1
   - name: Sarah Haynes
     orcid: TODO
     affiliation: TODO
   - name: Hayley Falk
     orcid: TODO
-    affiliation: TODO
+    affiliation: 1
   - name: Katie Furman
     orcid: TODO
     affiliation: TODO
   - name: Logan Walker
     orcid: TODO
-    affiliation: TODO
+    affiliation: 1
   - name: Rucheng Diao
     orcid: TODO
-    affiliation: TODO
+    affiliation: 1
   - name: Morgan Oneka
     orcid: TODO
-    affiliation: TODO
+    affiliation: 1
   - name: Audrey Drotos
     orcid: TODO
     affiliation: TODO
@@ -44,16 +44,16 @@ authors:
     affiliation: TODO
   - name: Gabrielle Dotson
     orcid: TODO
-    affiliation: TODO
+    affiliation: 1
   - name: April Kriebel
     orcid: TODO
-    affiliation: TODO
+    affiliation: 1
   - name: Lucy Meng
     orcid: TODO
     affiliation: TODO
   - name: Stephanie Thiede
     orcid: TODO
-    affiliation: TODO
+    affiliation: 2
   - name: Shweta Ramdas
     orcid: TODO
     affiliation: TODO
@@ -66,6 +66,8 @@ authors:
 affiliations:
   - name: Department of Computational Medicine & Bioinformatics, University of Michigan
     index: 1
+  - name: Department of Microbiology & Immunology, University of Michigan
+    index: 2
 date: 30 Apr. 2021
 bibliography: paper.bib
 ---
@@ -277,26 +279,26 @@ data visualization and basic statistical analyses.
 ## Instructional Design
 <!-- teaching philosophy / pedagogy -->
 
-We modeled our instructional design in the style of Software Carpentry [CITE]. 
+We modeled our instructional design in the style of Software Carpentry [CITE].
 
-1. Each lesson begins with a recapping of the relevant core skills presented in the previous lessons. 
-1. All lessons are designed to be taught via 15-minute live-coding sessions, where students type and run code in their own notebooks along with the instructor in real time. As in Software Carpentry, we find this to be a highly effective method of teaching coding, since students must actively engage with the material and deal with errors and bugs as they come up. 
-1. Each lesson ends with a summary of core skills presented within the material. 
-1. Each short lesson is also accompanied by a subsequent 10-minute independent practice, providing further opportunity for practical experience implementing the coding skill at hand and testing their understanding of the content. 
+1. Each lesson begins with a recapping of the relevant core skills presented in the previous lessons.
+1. All lessons are designed to be taught via 15-minute live-coding sessions, where students type and run code in their own notebooks along with the instructor in real time. As in Software Carpentry, we find this to be a highly effective method of teaching coding, since students must actively engage with the material and deal with errors and bugs as they come up.
+1. Each lesson ends with a summary of core skills presented within the material.
+1. Each short lesson is also accompanied by a subsequent 10-minute independent practice, providing further opportunity for practical experience implementing the coding skill at hand and testing their understanding of the content.
 
 This curriculum was originally developed for in-person instruction, but the onset of the COVID-19 pandemic necessitated restructuring to a virtual format.
 To better facilitate virtual instruction, we switched to a flipped classroom style based on feedback from our club participants that it was too difficult to follow along with live coding via Zoom.
 We provide video recordings of instructors going through the Jupyter notebooks as if they were live coding in the classroom.
 Students then watch the lessons and complete the practice exercises prior to virtual meetings, in which they have the opportunity to ask questions on material they did not understand and go over the practice exercises.
-This virtual format is especially beneficial because it 1) allows students to learn at their own pace, and 2) enables dissemination of our curriculum to a wider audience interested in learning introductory Python programming for data science. 
+This virtual format is especially beneficial because it 1) allows students to learn at their own pace, and 2) enables dissemination of our curriculum to a wider audience interested in learning introductory Python programming for data science.
 
 For both in-person and virtual instruction, once students have completed the Fundamentals module and reach the Data Science Essentials module they will begin simultaneous work on their data science projects.
-Projects are completed in a paired programming style, where partners take turns assuming the “driver” (i.e. the typer) and “navigator” (i.e. the instructor) roles. 
-Switching off in this way helps both partners assume equal responsibility for the project workload, but more importantly it enables improved knowledge transfer through peer-to-peer learning. 
+Projects are completed in a paired programming style, where partners take turns assuming the “driver” (i.e. the typer) and “navigator” (i.e. the instructor) roles.
+Switching off in this way helps both partners assume equal responsibility for the project workload, but more importantly it enables improved knowledge transfer through peer-to-peer learning.
 
-In addition to our coding curriculum, another key component of our programming is hosting guest speakers from diverse fields across academia and industry. 
+In addition to our coding curriculum, another key component of our programming is hosting guest speakers from diverse fields across academia and industry.
 Our guest speakers come to discuss the journey they’ve taken to their career paths as well as how they utilize programming and data science in their jobs.
-These varied perspectives are extremely valuable to our learners as they provide several practical examples of programming careers in the real world. 
+These varied perspectives are extremely valuable to our learners as they provide several practical examples of programming careers in the real world.
 
 ## Experience of Use
 
