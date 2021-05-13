@@ -24,9 +24,9 @@ authors:
   - name: Hayley Falk
     orcid: TODO
     affiliation: 1
-  - name: Katie Furman
-    orcid: TODO
-    affiliation: TODO
+  - name: Katherine Furman
+    orcid: 0000-0002-0340-4292
+    affiliation: 3, 4
   - name: Logan Walker
     orcid: TODO
     affiliation: 1
@@ -68,6 +68,10 @@ affiliations:
     index: 1
   - name: Department of Microbiology & Immunology, University of Michigan
     index: 2
+  - name: Neuroscience Graduate Program, University of Michigan
+    index: 3
+  - name: Michigan Neuroscience Institute, Univerity of Micihgan
+    index: 4
 date: 30 Apr. 2021
 bibliography: paper.bib
 ---
