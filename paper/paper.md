@@ -27,7 +27,7 @@ authors:
   - name: Katherine L. Furman
     orcid: 0000-0002-0340-4292
     affiliation: "3, 4"
-  - name: Logan Walker
+  - name: Logan A. Walker
     orcid: 0000-0002-5378-3315
     affiliation: "5, 1"
   - name: Rucheng Diao
