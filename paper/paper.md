@@ -375,8 +375,9 @@ pursuing a career in computer or data science.
 
 We would like to acknowledge our faculty co-sponsors Maureen Sartor, PhD &
 Cristina Mitrea, PhD.
-We appreciate the continued support of U-M DCMB staff including Julia Eussen,
-Mary Freer,  Linda Peasley, and Jane Weisner.
+We appreciate the continued support of U-M DCMB staff and faculty including
+Julia Eussen, Mary Freer, Linda Peasley, Jane Weisner, Brian Athey, PhD, and
+Margit Burmeister, PhD.
 We are grateful for the resources provided by the national Girls Who Code
 organization.
 
