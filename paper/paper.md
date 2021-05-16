@@ -40,8 +40,8 @@ authors:
     orcid: TODO
     affiliation: TODO
   - name: Alana Woloshin
-    orcid: TODO
-    affiliation: TODO
+    orcid: 0000-0002-5224-4221
+    affiliation: 7
   - name: Gabrielle Dotson
     orcid: TODO
     affiliation: 1
@@ -76,6 +76,8 @@ affiliations:
     index: 5
   - name: Department of Pathology, University of Michigan
     index: 6
+  - name: School of Information, University of Michigan
+    index: 7
 date: 30 Apr. 2021
 bibliography: paper.bib
 ---
