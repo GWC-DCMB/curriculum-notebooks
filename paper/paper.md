@@ -74,7 +74,7 @@ affiliations:
     index: 4
   - name: Biophysics Graduate Program, University of Michigan
     index: 5
- -  name: Department of Pathology, University of Michigan
+  - name: Department of Pathology, University of Michigan
     index: 6
 date: 30 Apr. 2021
 bibliography: paper.bib
