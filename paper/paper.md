@@ -22,7 +22,7 @@ authors:
     orcid: 0000-0003-3225-1691
     affiliation: 6
   - name: Hayley Falk
-    orcid: TODO
+    orcid: 0000-0002-5198-1836
     affiliation: 1
   - name: Katherine L. Furman
     orcid: 0000-0002-0340-4292
@@ -74,6 +74,8 @@ affiliations:
     index: 4
   - name: Biophysics Graduate Program, Univerity of Michigan
     index: 5
+ -  name: Department of Pathology, University of Michigan
+    index: 6
  -  name: Department of Pathology, University of Michigan
     index: 6
 date: 30 Apr. 2021
