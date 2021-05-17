@@ -46,7 +46,7 @@ authors:
     orcid: TODO
     affiliation: 1
   - name: April Kriebel
-    orcid: TODO
+    orcid: 0000-0003-0008-9044
     affiliation: 1
   - name: Lucy Meng
     orcid: TODO
@@ -150,7 +150,7 @@ experience with these languages.
 Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in
 2020, and #2 in 2021 [@stansell_breaking_2019].
 We believe career exploration in data science will optimally prepare our
-students for careers that provide financial stability.
+students for careers that provide financial stability. <!-- TODO: address comment from AK: "Do we need to establish a clearer link between data science and the use of Python specifically? The PYPL index, used as a proxy for how popular a language is, has ranked Python as it's number one language (https://pypl.github.io/PYPL.html). I'm not sure if this the best way to illustrate the point, but I do think we need more support for the place of Python in the workplace." -->
 By leveraging the data science expertise of our Club facilitators, we created a
 specialized curriculum focused on computational data science in the Python
 programming language.
@@ -162,10 +162,10 @@ We created an open source Data Science curriculum that teaches the requisite
 Python and statistics skills to complete a Capstone Project, which is a data
 analysis project on a data set of interest.
 Using this curriculum, we employ participatory live coding as used by The
-Carpentries which is an effective method that engages learners
+Carpentries, which is an effective method that engages learners
 [@wilson_software_2016; @nederbragt_ten_2020].
-With paired activities our curriculum follows the "I do, we do, you do" didactic
-paradigm [@fisher_better_2013].
+Using paired activities, our curriculum follows the "I do, we do, you do"
+didactic paradigm [@fisher_better_2013].
 We provide open-source resources for both in-person and virtual versions of our
 curriculum, including videos corresponding to each lesson.
 While we developed this curriculum for our Girls Who Code Club and Summer
@@ -196,7 +196,7 @@ This way, more than one person viewed each notebook before it could be
 incorporated into the public curriculum, which reduced mistakes and ensured
 higher quality content. <!-- TODO: cite U-M Carpentries paper for the development model once it's submitted to bioRxiv?-->
 While teaching from the curriculum at the first Data Science Summer Experience,
-instructors took notes on their experience and fixed any problems afterward.
+instructors took notes on their experience and made revisions afterward.
 Maintainers continue to monitor the repository and resolve issues as they arise.
 
 Following the onset of the COVID-19 pandemic, we quickly pivoted our club to a
@@ -279,11 +279,11 @@ exercises for the student to complete on their own following the lesson:
 Each lesson builds on those before it, beginning with relevant content reminders
 from the previous lessons and ending with a concise summary of the skills
 presented within.
-Throughout our program the students also simultaneously work on a data science
+Throughout our program, the students also simultaneously work on a data science
 project on a topic of interest using a real world dataset of their choosing.
 Through this Capstone Project, learners gain practical experience with each
-skill as they learn it in the lessons including importing and cleaning data,
-data visualization and basic statistical analyses.
+skill as they learn it in the lessons; including importing and cleaning data,
+data visualization, and basic statistical analyses.
 
 
 ## Instructional Design
