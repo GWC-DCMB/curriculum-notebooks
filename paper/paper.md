@@ -87,7 +87,7 @@ bibliography: paper.bib
 # Summary
 
 <!-- pasted from our PyCon 2020 talk proposal -->
-We are Bioinformatics PhD students at the University of Michigan who started a
+We are bioinformatics trainees at the University of Michigan who started a
 local chapter of Girls Who Code to provide a fun and supportive environment for
 high school women to learn the power of coding.
 Our goal was to cover basic coding topics and data science concepts through
