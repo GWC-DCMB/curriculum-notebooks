@@ -17,7 +17,7 @@ authors:
     affiliation: 1
   - name: Vy Nguyen
     orcid: TODO
-    affiliation: 1
+    affiliation: "1, 8"
   - name: Sarah Haynes
     orcid: 0000-0003-3225-1691
     affiliation: 6
@@ -78,6 +78,8 @@ affiliations:
     index: 6
   - name: School of Information, University of Michigan
     index: 7
+  - name: Department of Environmental Health Sciences, University of Michigan
+    index: 8
 date: 30 Apr. 2021
 bibliography: paper.bib
 ---
