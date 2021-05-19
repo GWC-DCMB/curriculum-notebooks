@@ -115,10 +115,11 @@ national trend in the training of the next generation of Bioinformaticians at
 Michigan Medicine.
 Since accepting its first students in 2001, the U-M Bioinformatics Graduate
 Program has graduated 66 male and 22 female doctorates as of 2019.
-This disparity begins at the applicant level — during 2016-2019 the average
+This disparity begins at the applicant level; during 2016-2019 the average
 percentage of females applying directly to the Bioinformatics PhD program is
 35.2%, and 41% for female applicants listing Bioinformatics as first or second
-choice in the biomedical PhD umbrella program PIBS.
+choice in the Program in Biomedical Sciences, U-M's biomedical PhD umbrella
+program.
 
 Previous research on women's educational experiences in STEM have produced
 various explanations for persistent gender disparities
@@ -417,7 +418,7 @@ Neuroscience (T32-DA7281) and from the NIH Early Stage Training in the
 Neurosciences Training Grant (T32-NS076401).
 SNT was supported by the Molecular Mechanisms of Microbial Pathogenesis training
 grant (NIH T32 AI007528).
-VKN was supported by a NIH Research Project Grant on Breast Cancer Disparities (RO1-ES028802) and the CDC through the National Institute for Occupational Safety and Health (NIOSH) Pilot Project Research Training Program (T42-OH008455). 
+VKN was supported by a NIH Research Project Grant on Breast Cancer Disparities (RO1-ES028802) and the CDC through the National Institute for Occupational Safety and Health (NIOSH) Pilot Project Research Training Program (T42-OH008455).
 Any opinions, findings, and conclusions or recommendations expressed in this
 material are those of the authors and do not necessarily reflect the views of
 the National Science Foundation.
