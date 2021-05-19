@@ -15,7 +15,7 @@ authors:
   - name: Negar Farzaneh
     orcid: TODO
     affiliation: 1
-  - name: Vy Nguyen
+  - name: Vy Kim Nguyen
     orcid: 0000-0002-6128-0523
     affiliation: "1, 8"
   - name: Sarah Haynes
@@ -406,7 +406,7 @@ Experience events.
 
 # Funding
 
-MD and KLS received support from the NIH Training Program in Bioinformatics (T32
+MD, VKN, and KLS received support from the NIH Training Program in Bioinformatics (T32
 GM070449).
 MD, ZL, and BNW received support from the National Science Foundation Graduate
 Research Fellowship Program under Grant No. DGE 1256260.
@@ -417,7 +417,7 @@ Neuroscience (T32-DA7281) and from the NIH Early Stage Training in the
 Neurosciences Training Grant (T32-NS076401).
 SNT was supported by the Molecular Mechanisms of Microbial Pathogenesis training
 grant (NIH T32 AI007528).
-
+VKN was supported by a NIH Research Project Grant on Breast Cancer Disparities (RO1-ES028802) and the CDC through the National Institute for Occupational Safety and Health (NIOSH) Pilot Project Research Training Program (T42-OH008455). 
 Any opinions, findings, and conclusions or recommendations expressed in this
 material are those of the authors and do not necessarily reflect the views of
 the National Science Foundation.
