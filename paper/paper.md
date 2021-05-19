@@ -16,7 +16,7 @@ authors:
     orcid: TODO
     affiliation: 1
   - name: Vy Nguyen
-    orcid: TODO
+    orcid: 0000-0002-6128-0523
     affiliation: "1, 8"
   - name: Sarah Haynes
     orcid: 0000-0003-3225-1691
@@ -92,7 +92,7 @@ local chapter of Girls Who Code to provide a fun and supportive environment for
 high school women to learn the power of coding.
 Our goal was to cover basic coding topics and data science concepts through
 live-coding and hands-on practice.
-However, we couldn’t find a resource that exactly met our needs. Over the past
+However, we couldn’t find a resource that exactly met our needs. Therefore, over the past
 three years, we have developed a curriculum and instructional format using
 Jupyter notebooks to effectively teach introductory Python for data science.
 This method, inspired by The Carpentries organization, uses bite-sized lessons
@@ -107,10 +107,10 @@ Anyone can contribute to [our educational materials on GitHub](https://github.co
 # Statement of Need
 
 As women in the Department of Computational Medicine and Bioinformatics at the
-University of Michigan, we experience the gender gap in our field first hand.
+University of Michigan, we experience the gender gap first hand in our field.
 During the 1974-1975 academic year, women achieved 18.9% of total Bachelor's
 degrees in computer and information sciences in the US [@nces_digest_2012].
-By 1983-1984 this peaked at 37.1%, but fell to 17.6% by 2010-2011. We see this
+By 1983-1984 this peaked at 37.1%, but fell to 17.6% by 2010-2011. We also see this
 national trend in the training of the next generation of Bioinformaticians at
 Michigan Medicine.
 Since accepting its first students in 2001, the U-M Bioinformatics Graduate
