@@ -326,7 +326,7 @@ We provide video recordings of instructors going through the Jupyter notebooks a
 Students then watch the lessons and complete the practice exercises prior to virtual meetings, in which they have the opportunity to ask questions on material they did not understand and go over the practice exercises.
 This virtual format is especially beneficial because it 1) allows students to learn at their own pace, and 2) enables dissemination of our curriculum to a wider audience interested in learning introductory Python programming for data science.
 
-For both in-person and virtual instruction, once students have completed the Fundamentals module and reach the Data Science Essentials module they will begin simultaneous work on their data science projects.
+For both in-person and virtual instruction, once students have completed the Fundamentals module and reach the Data Science Essentials module they begin simultaneous work on their data science projects.
 Projects are completed in a paired programming style, where partners take turns assuming the “driver” (i.e. the typer) and “navigator” (i.e. the instructor) roles.
 Switching off in this way helps both partners assume equal responsibility for the project workload, but more importantly it enables improved knowledge transfer through peer-to-peer learning.
 
@@ -375,10 +375,10 @@ collaborate and learn from each other.
 1. We use the "sticky note" system from The Carpentries by which learners can
 ask for help by putting up a colored sticky note (or a Zoom emoji in the case of
 virtual meetings) [@becker_responding_2016].
-1. We exposed the learners to different aspects of data science by bringing in
+1. We exposed the learners to different aspects of data science by bringing in female
 guest speakers from academics and industry. This allowed them to better put what
 they were learning into context and think about how they might use the skills
-they were learning in potential future careers.
+they were learning in potential future careers, and exposed them to successful females in STEM.
 
 ### Learner experiences
 
@@ -392,10 +392,10 @@ questions correctly on the post-test than the pre-test (range 1-8 more questions
 correct out of 11).
 
 Overwhelmingly, learners' favorite parts are the guest speakers and the project.
-These aspects of our curriculum expose learners to new fields and allow them to
+These aspects of our curriculum expose them to new fields and allow them to
 apply their newfound coding skills to asking an interesting question.
 About a third of participants claim that they are now more interested in
-pursuing a career in computer or data science.
+pursuing a career in computer or data science compared to before their Girls Who Code experience.
 
 # Acknowledgements
 
