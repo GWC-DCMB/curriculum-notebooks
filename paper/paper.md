@@ -7,7 +7,7 @@ tags:
   - Girls Who Code
 authors:
   - name: Marlena Duda
-    orcid: TODO
+    orcid: 0000-0003-2369-2225
     affiliation: 1
   - name: Kelly L. Sovacool
     orcid: 0000-0003-3283-829X
