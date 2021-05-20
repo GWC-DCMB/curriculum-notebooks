@@ -413,13 +413,13 @@ We are grateful for the resources provided by the national Girls Who Code
 organization.
 
 Our programming is made possible by the dedication of past and present Executive
-Committee members, Club and Summer Experience Facilitators & Capstone Project
-mentors including Alex Weber, Arushi Varshney, Sophie Hoffman, Hojae Lee,
-Ruma Deb, Saige Rutherford, Michelle McNulty, Bailey Peck, Chloe Whicker,
-Carolina Rojas Ramirez, Verity Sturm, Zoe Drasner, Sarah Latto, Emily
-Roberts, Angel Chu, Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia
-Charles, Lauren Jepsen, and Aubrey Annis.
-TODO: add 2019, 2020, & 2021 facilitators not already listed.
+Committee members, Club and Summer Experience Facilitators, and Capstone Project
+mentors including Alex Weber, Arushi Varshney, Sophie Hoffman, Hojae Lee, Ruma
+Deb, Saige Rutherford, Michelle McNulty, Bailey Peck, Chloe Whicker, Carolina
+Rojas Ramirez, Verity Sturm, Zoe Drasner, Sarah Latto, Emily Roberts, Angel Chu,
+Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia Jones, Lauren Jepsen,
+Aubrey Annis, Awanti Sambarey, Mengtong Hu, Maribel Okiye, Yingxiao Zhang, and
+Neslihan Bisgin.
 
 Our student organization received funding from the U-M Office of Graduate and
 Postdoctoral Studies, Girls Who Code Support Fund, Department of Computational
