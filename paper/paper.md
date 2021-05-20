@@ -136,18 +136,23 @@ We wanted to provide a safe place for local young high school women to
 develop confidence in themselves and their computational skills
 before college, and be exposed to successful female role models in STEM to counter negative
 stereotypes.
-A national organization, Girls Who Code, whose mission and values aligned with
-ours, was founded in 2012.
-Girls Who Code's mission is to close the gender gap in technology
-[@saujani_girls_2015].
+
+Girls Who Code, a national organization whose mission 
+is to close the gender gap in technology
+[@saujani_girls_2015], was founded in 2012.
 Because of our personal experiences and the paucity of women in our field, we
-began a student organization at the University of Michigan in 2017.
+began a Girls Who Code student organization at the University of Michigan in 2017.
 For the past four academic years we have registered annually as a recognized
-Girls Who Code Club because the national organization provided name recognition,
+Girls Who Code Club because the national organization provides name recognition,
 curriculum resources, guidance for a Capstone Impact Project, and a framework
 for launching a coding club.
-In 2019 we launched a Data Science Summer Experience which is unaffiliated with
-the national Girls Who Code organization.
+Participants in the Club attend weekly meetings at the University of Michigan (when
+the club is run in-person rather than virtually), adn are thus largely high school 
+women from the Ann Arbor area. 
+In 2019 we launched a Data Science Summer Experience, which is unaffiliated with
+the national Girls Who Code organization. When held in-person, the Summer Experience 
+is hosted in Detroit to provide the opportunity for high school women from communities with
+fewer resources to attend.
 
 The national Girls Who Code organization provides a curriculum that teaches
 website and application development through programming languages like HTML and
