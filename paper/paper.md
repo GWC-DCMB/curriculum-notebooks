@@ -99,15 +99,15 @@ This method, inspired by The Carpentries organization, uses bite-sized lessons
 followed by independent practice time to reinforce coding concepts, and
 culminates in a data science capstone project using real-world data.
 We believe our open curriculum is a valuable resource to the wider education
-community and hope that educators will use and improve our lessons, challenge
-problems, and teaching best-practices.
+community and hope that educators will use and improve our lessons, practice
+problems, and teaching best practices.
 Anyone can contribute to [our educational materials on GitHub](https://github.com/GWC-DCMB).
 
 
 # Statement of Need
 
-As women in the Department of Computational Medicine and Bioinformatics at the
-University of Michigan, we experience the gender gap first hand in our field.
+As women bioinformatics trainees at the
+University of Michigan, we experience the gender gap in our field first-hand.
 During the 1974-1975 academic year, women achieved 18.9% of total Bachelor's
 degrees in computer and information sciences in the US [@nces_digest_2012].
 By 1983-1984 this peaked at 37.1%, but fell to 17.6% by 2010-2011. We also see this
@@ -116,22 +116,26 @@ Michigan Medicine.
 Since accepting its first students in 2001, the U-M Bioinformatics Graduate
 Program has graduated 66 male and 22 female doctorates as of 2019.
 This disparity begins at the applicant level; during 2016-2019 the average
-percentage of females applying directly to the Bioinformatics PhD program is
-35.2%, and 41% for female applicants listing Bioinformatics as first or second
+percentage of females applying directly to the Bioinformatics PhD program was
+35.2%, and the average percentage of female applicants listing Bioinformatics as first or second
 choice in the Program in Biomedical Sciences, U-M's biomedical PhD umbrella
-program.
+program was 41%.
 
-Previous research on women's educational experiences in STEM have produced
+Previous research on women's educational experiences in science, technology, engineering,
+and mathematics (STEM) have produced
 various explanations for persistent gender disparities
 [@benbow_gender_2016].
 One explanation is that women in first year computer science courses rate
 themselves as being less experienced, prepared, or able to master the course
 material than the men [@fisher_undergraduate_1997].
+Additionally, women often experience stereotype threats that 
+influence their math and science performance as well as their career goals [@hill_why_2010]. 
 The majority of our organization's founding graduate students (all women) began
 coding in our undergraduate careers or later.
-We wanted to provide a safe place for local young women to begin coding in high
-school, and develop confidence in themselves and their computational skills
-before college.
+We wanted to provide a safe place for local young high school women to
+develop confidence in themselves and their computational skills
+before college, and be exposed to successful female role models in STEM to counter negative
+stereotypes.
 A national organization, Girls Who Code, whose mission and values aligned with
 ours, was founded in 2012.
 Girls Who Code's mission is to close the gender gap in technology
