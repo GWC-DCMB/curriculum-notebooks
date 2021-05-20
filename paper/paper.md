@@ -333,7 +333,7 @@ Students then watch the lessons and complete the practice exercises prior to vir
 This virtual format is especially beneficial because it 1) allows students to learn at their own pace, and 2) enables dissemination of our curriculum to a wider audience interested in learning introductory Python programming for data science.
 
 For both in-person and virtual instruction, once students have completed the Fundamentals module and reach the Data Science Essentials module they begin simultaneous work on their data science projects.
-Projects are completed in a paired programming style, where partners take turns assuming the “driver” (i.e. the typer) and “navigator” (i.e. the instructor) roles.
+Projects are completed in a paired programming style, where partners take turns assuming the “driver” (i.e. the typer) and “navigator” (i.e. the helper) roles [@hannay_effectiveness_2009].
 Switching off in this way helps both partners assume equal responsibility for the project workload, but more importantly it enables improved knowledge transfer through peer-to-peer learning.
 
 In addition to our coding curriculum, another key component of our programming is hosting female guest speakers from diverse fields across academia and industry.
