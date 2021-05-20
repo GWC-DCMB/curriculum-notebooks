@@ -249,7 +249,7 @@ Our learning objectives are:
 3. Create informative summary statistics and data visualizations in Python.
 
 These skills provide a solid foundation for basic data analysis in Python and
-participation in our programming exposes students to the many ways coding and
+participation in our events exposes students to the many ways coding and
 data science can be used to make large impacts across many disciplines.
 
 ## Course Content
