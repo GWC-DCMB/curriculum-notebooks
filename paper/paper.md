@@ -254,6 +254,8 @@ data science can be used to make large impacts across many disciplines.
 
 ## Course Content
 
+![Our lesson modules.](lesson-modules.png)
+
 Our curriculum design consists of 27 lessons broken up into 5 modules that cover Jupyter notebook setup,
 Python coding fundamentals, use of essential data science packages including
 Pandas and numpy, basic statistical analyses, and plotting using seaborn and
@@ -313,7 +315,6 @@ project on a topic of interest using a real world dataset of their choosing.
 Through this Capstone Project, learners gain practical experience with each
 skill as they learn it in the lessons; including importing and cleaning data,
 data visualization, and basic statistical analyses.
-
 
 ## Instructional Design
 <!-- teaching philosophy / pedagogy -->
