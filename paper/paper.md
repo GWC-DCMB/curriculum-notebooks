@@ -158,11 +158,15 @@ The national Girls Who Code organization provides a curriculum that teaches
 website and application development through programming languages like HTML and
 Java.
 However, our biomedical science graduate students generally have limited
-experience with these languages.
+experience with these languages and with web development.
+In contrast, many of us have extensive experience performing data science
+using the Python programming language.
 Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in
 2020, and #2 in 2021 [@stansell_breaking_2019].
-We believe career exploration in data science will optimally prepare our
-students for careers that provide financial stability. <!-- TODO: address comment from AK: "Do we need to establish a clearer link between data science and the use of Python specifically? The PYPL index, used as a proxy for how popular a language is, has ranked Python as it's number one language (https://pypl.github.io/PYPL.html). I'm not sure if this the best way to illustrate the point, but I do think we need more support for the place of Python in the workplace." -->
+Furthermore, Python is the most popular programming language according to the PYPL 
+PopularitY of Programming Language Index [@noauthor_pypl_nodate].
+Therefore, we believe career exploration in data science using the Python programming
+language will optimally prepare our students for careers that provide financial stability. 
 By leveraging the data science expertise of our Club facilitators, we created a
 specialized curriculum focused on computational data science in the Python
 programming language.
