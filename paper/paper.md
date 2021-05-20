@@ -7,7 +7,7 @@ tags:
   - Girls Who Code
 authors:
   - name: Marlena Duda
-    orcid: TODO
+    orcid: 0000-0003-2369-2225
     affiliation: 1
   - name: Kelly L. Sovacool
     orcid: 0000-0003-3283-829X
@@ -31,7 +31,7 @@ authors:
     orcid: 0000-0002-5378-3315
     affiliation: "5, 1"
   - name: Rucheng Diao
-    orcid: TODO
+    orcid: 0000-0002-2932-6755
     affiliation: 1
   - name: Morgan Oneka
     orcid: 0000-0002-9672-0445
@@ -162,10 +162,10 @@ In contrast, many of us have extensive experience performing data science
 using the Python programming language.
 Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in
 2020, and #2 in 2021 [@stansell_breaking_2019].
-Furthermore, Python is the most popular programming language according to the PYPL 
+Furthermore, Python is the most popular programming language according to the PYPL
 PopularitY of Programming Language Index [@noauthor_pypl_nodate].
 Therefore, we believe career exploration in data science using the Python programming
-language will optimally prepare our students for careers that provide financial stability. 
+language will optimally prepare our students for careers that provide financial stability.
 By leveraging the data science expertise of our Club facilitators, we created a
 specialized curriculum focused on computational data science in the Python
 programming language.
@@ -249,7 +249,7 @@ Our learning objectives are:
 3. Create informative summary statistics and data visualizations in Python.
 
 These skills provide a solid foundation for basic data analysis in Python and
-participation in our programming exposes students to the many ways coding and
+participation in our events exposes students to the many ways coding and
 data science can be used to make large impacts across many disciplines.
 
 ## Course Content
@@ -264,9 +264,11 @@ the concept via live coding, and a practice notebook containing similar
 exercises for the student to complete on their own following the lesson:
 
 Jupyter Notebook Setup:
+
 1. Jupyter Setup
 
 Coding Fundamentals:
+
 2. HelloWorld and Variables
 3. Variables and Types
 4. Lists Intro
@@ -280,6 +282,7 @@ Coding Fundamentals:
 12. Using Functions and Methods
 
 Data Science Essentials:
+
 13. Packages
 14. Pandas Intro
 15. Pandas Reading
@@ -408,13 +411,13 @@ We are grateful for the resources provided by the national Girls Who Code
 organization.
 
 Our programming is made possible by the dedication of past and present Executive
-Committee members, Club and Summer Experience Facilitators & Capstone Project
-mentors including Alex Weber, Arushi Varshney, Sophie Hoffman, Hojae Lee,
-Ruma Deb, Saige Rutherford, Michelle McNulty, Bailey Peck, Chloe Whicker,
-Carolina Rojas Ramirez, Verity Sturm, Zoe Drasner, Sarah Latto, Emily
-Roberts, Angel Chu, Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia
-Charles, Lauren Jepsen, and Aubrey Annis.
-TODO: add 2019, 2020, & 2021 facilitators not already listed.
+Committee members, Club and Summer Experience Facilitators, and Capstone Project
+mentors including Alex Weber, Arushi Varshney, Sophie Hoffman, Hojae Lee, Ruma
+Deb, Saige Rutherford, Michelle McNulty, Bailey Peck, Chloe Whicker, Carolina
+Rojas Ramirez, Verity Sturm, Zoe Drasner, Sarah Latto, Emily Roberts, Angel Chu,
+Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia Jones, Lauren Jepsen,
+Aubrey Annis, Awanti Sambarey, Mengtong Hu, Maribel Okiye, Yingxiao Zhang, and
+Neslihan Bisgin.
 
 Our student organization received funding from the U-M Office of Graduate and
 Postdoctoral Studies, Girls Who Code Support Fund, Department of Computational
