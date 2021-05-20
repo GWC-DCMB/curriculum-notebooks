@@ -156,8 +156,7 @@ fewer resources to attend.
 
 The national Girls Who Code organization provides a curriculum that teaches
 website and application development through programming languages like HTML and
-Java.
-However, our biomedical science graduate students generally have limited
+Java; however, our biomedical science graduate students generally have limited
 experience with these languages and with web development.
 In contrast, many of us have extensive experience performing data science
 using the Python programming language.
@@ -255,7 +254,7 @@ data science can be used to make large impacts across many disciplines.
 
 ## Course Content
 
-Our curriculum design consists of 27 modules that cover Jupyter notebook setup,
+Our curriculum design consists of 27 lessons broken up into 5 modules that cover Jupyter notebook setup,
 Python coding fundamentals, use of essential data science packages including
 Pandas and numpy, basic statistical analyses, and plotting using seaborn and
 matplotlib (Figure 1) [@harris_array_2020; @waskom_seaborn_2021;
@@ -264,7 +263,10 @@ Each of the following modules consists of a lesson notebook, used for teaching
 the concept via live coding, and a practice notebook containing similar
 exercises for the student to complete on their own following the lesson:
 
+Jupyter Notebook Setup:
 1. Jupyter Setup
+
+Coding Fundamentals:
 2. HelloWorld and Variables
 3. Variables and Types
 4. Lists Intro
@@ -276,6 +278,8 @@ exercises for the student to complete on their own following the lesson:
 10. Loops I
 11. Loops II
 12. Functions and Methods
+
+Data Science Essentials:
 13. Packages
 14. Pandas-Intro
 15. Pandas-Reading
@@ -284,10 +288,14 @@ exercises for the student to complete on their own following the lesson:
 18. Dictionaries
 19. Functions
 20. Numpy Intro
+
+Basic Statistical Analysis:
 21. Basic Stats I - Averages
 22. Basic Stats II - Percents
 23. Basic Stats III - Correlations
 24. Basic Stats IV - Significance
+
+Plotting: 
 25. Plotting I - Line Graphs
 26. Plotting II - Scatterplots
 27. Plotting III - Bar Charts and Histograms
@@ -322,9 +330,9 @@ For both in-person and virtual instruction, once students have completed the Fun
 Projects are completed in a paired programming style, where partners take turns assuming the “driver” (i.e. the typer) and “navigator” (i.e. the instructor) roles.
 Switching off in this way helps both partners assume equal responsibility for the project workload, but more importantly it enables improved knowledge transfer through peer-to-peer learning.
 
-In addition to our coding curriculum, another key component of our programming is hosting guest speakers from diverse fields across academia and industry.
+In addition to our coding curriculum, another key component of our programming is hosting female guest speakers from diverse fields across academia and industry.
 Our guest speakers come to discuss the journey they’ve taken to their career paths as well as how they utilize programming and data science in their jobs.
-These varied perspectives are extremely valuable to our learners as they provide several practical examples of programming careers in the real world.
+These varied perspectives are extremely valuable to our learners as they provide several practical examples of programming careers in the real world, and expose them to successful females in STEM.
 
 ## Experience of Use
 
