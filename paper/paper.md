@@ -271,18 +271,18 @@ Coding Fundamentals:
 3. Variables and Types
 4. Lists Intro
 5. Indexing
-6. 2D Lists Intro
-7. 2D Lists Indexing
+6. 2D Lists Intro (legacy lesson)
+7. 2D Lists Indexing (legacy lesson)
 8. Logic
 9. Conditionals
 10. Loops I
 11. Loops II
-12. Functions and Methods
+12. Using Functions and Methods
 
 Data Science Essentials:
 13. Packages
-14. Pandas-Intro
-15. Pandas-Reading
+14. Pandas Intro
+15. Pandas Reading
 16. Pandas Subsetting I
 17. Pandas Subsetting II
 18. Dictionaries
@@ -290,15 +290,15 @@ Data Science Essentials:
 20. Numpy Intro
 
 Basic Statistical Analysis:
-21. Basic Stats I - Averages
-22. Basic Stats II - Percents
-23. Basic Stats III - Correlations
-24. Basic Stats IV - Significance
+21. Averages
+22. Percents
+23. Correlations
+24. Significance
 
-Plotting: 
-25. Plotting I - Line Graphs
-26. Plotting II - Scatterplots
-27. Plotting III - Bar Charts and Histograms
+Data Visualization: 
+25. Line Graphs
+26. Scatterplots
+27. Bar Charts and Histograms
 
 Each lesson builds on those before it, beginning with relevant content reminders
 from the previous lessons and ending with a concise summary of the skills
