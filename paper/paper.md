@@ -428,7 +428,7 @@ VKN was supported by a NIH Research Project Grant on Breast Cancer Disparities (
 KLF received support from The University of Michigan NIDA Training Program in
 Neuroscience (T32-DA7281) and from the NIH Early Stage Training in the
 Neurosciences Training Grant (T32-NS076401).
-SNT was supported by the Molecular Mechanisms of Microbial Pathogenesis training
+SNT was supported by the Molecular Mechanisms in Microbial Pathogenesis training
 grant (NIH T32 AI007528).
 ZL and BNW received support from the NIH Training Program in Genomic Science
 (T32-HG000040-22).
