@@ -293,12 +293,14 @@ Data Science Essentials:
 20. Numpy Intro
 
 Basic Statistical Analysis:
+
 21. Averages
 22. Percents
 23. Correlations
 24. Significance
 
-Data Visualization: 
+Data Visualization:
+
 25. Line Graphs
 26. Scatterplots
 27. Bar Charts and Histograms
