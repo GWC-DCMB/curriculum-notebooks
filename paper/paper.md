@@ -162,10 +162,10 @@ In contrast, many of us have extensive experience performing data science
 using the Python programming language.
 Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in
 2020, and #2 in 2021 [@stansell_breaking_2019].
-Furthermore, Python is the most popular programming language according to the PYPL 
+Furthermore, Python is the most popular programming language according to the PYPL
 PopularitY of Programming Language Index [@noauthor_pypl_nodate].
 Therefore, we believe career exploration in data science using the Python programming
-language will optimally prepare our students for careers that provide financial stability. 
+language will optimally prepare our students for careers that provide financial stability.
 By leveraging the data science expertise of our Club facilitators, we created a
 specialized curriculum focused on computational data science in the Python
 programming language.
@@ -264,9 +264,11 @@ the concept via live coding, and a practice notebook containing similar
 exercises for the student to complete on their own following the lesson:
 
 Jupyter Notebook Setup:
+
 1. Jupyter Setup
 
 Coding Fundamentals:
+
 2. HelloWorld and Variables
 3. Variables and Types
 4. Lists Intro
@@ -280,6 +282,7 @@ Coding Fundamentals:
 12. Functions and Methods
 
 Data Science Essentials:
+
 13. Packages
 14. Pandas-Intro
 15. Pandas-Reading
@@ -290,12 +293,14 @@ Data Science Essentials:
 20. Numpy Intro
 
 Basic Statistical Analysis:
+
 21. Basic Stats I - Averages
 22. Basic Stats II - Percents
 23. Basic Stats III - Correlations
 24. Basic Stats IV - Significance
 
-Plotting: 
+Plotting:
+
 25. Plotting I - Line Graphs
 26. Plotting II - Scatterplots
 27. Plotting III - Bar Charts and Histograms
