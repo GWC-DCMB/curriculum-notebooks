@@ -421,13 +421,15 @@ Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia Jones, Lauren Jepsen,
 Aubrey Annis, Awanti Sambarey, Mengtong Hu, Maribel Okiye, Yingxiao Zhang, and
 Neslihan Bisgin.
 
-Our student organization received funding from the U-M Office of Graduate and
-Postdoctoral Studies, Girls Who Code Support Fund, Department of Computational
-Medicine and Bioinformatics, anonymous donations from Giving Blue Day 2019,
-Endowment in Basic Sciences.
-The 2019 Summer Experience was sponsored by Zingerman’s Delicatessen, U-M
-Statistics Department, U-M Detroit Center, Dell, Cisco, U-M Department of
-Computational Medicine and Bioinformatics, U-M Biostatistics Department.
+Our student organization has received funding from the U-M Department of
+Computational Medicine and Bioinformatics, the U-M Office of Graduate and
+Postdoctoral Studies, anonymous donations from Giving Blue Day 2019, the U-M
+Endowment in Basic Sciences, and the Girls Who Code Support Fund.
+The 2019 Summer Experience was sponsored by Zingerman’s Delicatessen, the U-M
+Statistics Department, the U-M Detroit Center, Dell, Cisco, the U-M Department
+of Computational Medicine and Bioinformatics, and the U-M Biostatistics
+Department.
+
 We also thank the students who have participated in our Club and Summer
 Experience events.
 
