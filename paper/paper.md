@@ -34,7 +34,7 @@ authors:
     orcid: TODO
     affiliation: 1
   - name: Morgan Oneka
-    orcid: TODO
+    orcid: 0000-0002-9672-0445
     affiliation: 1
   - name: Audrey Drotos
     orcid: TODO
