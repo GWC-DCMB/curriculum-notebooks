@@ -34,7 +34,7 @@ authors:
     orcid: TODO
     affiliation: 1
   - name: Morgan Oneka
-    orcid: TODO
+    orcid: 0000-0002-9672-0445
     affiliation: 1
   - name: Audrey Drotos
     orcid: TODO
@@ -128,8 +128,8 @@ various explanations for persistent gender disparities
 One explanation is that women in first year computer science courses rate
 themselves as being less experienced, prepared, or able to master the course
 material than the men [@fisher_undergraduate_1997].
-Additionally, women often experience stereotype threats that 
-influence their math and science performance as well as their career goals [@hill_why_2010]. 
+Additionally, women often experience stereotype threats that
+influence their math and science performance as well as their career goals [@hill_why_2010].
 The majority of our organization's founding graduate students (all women) began
 coding in our undergraduate careers or later.
 We wanted to provide a safe place for local young high school women to
@@ -137,7 +137,7 @@ develop confidence in themselves and their computational skills
 before college, and be exposed to successful female role models in STEM to counter negative
 stereotypes.
 
-Girls Who Code, a national organization whose mission 
+Girls Who Code, a national organization whose mission
 is to close the gender gap in technology
 [@saujani_girls_2015], was founded in 2012.
 Because of our personal experiences and the paucity of women in our field, we
@@ -147,10 +147,10 @@ Girls Who Code Club because the national organization provides name recognition,
 curriculum resources, guidance for a Capstone Impact Project, and a framework
 for launching a coding club.
 Participants in the Club attend weekly meetings at the University of Michigan (when
-the club is run in-person rather than virtually), adn are thus largely high school 
-women from the Ann Arbor area. 
+the club is run in-person rather than virtually), and are thus largely high school
+women from the Ann Arbor area.
 In 2019 we launched a Data Science Summer Experience, which is unaffiliated with
-the national Girls Who Code organization. When held in-person, the Summer Experience 
+the national Girls Who Code organization. When held in-person, the Summer Experience
 is hosted in Detroit to provide the opportunity for high school women from communities with
 fewer resources to attend.
 
@@ -420,21 +420,22 @@ Experience events.
 
 # Funding
 
-MD, VKN, and KLS received support from the NIH Training Program in Bioinformatics (T32
-GM070449).
 MD, ZL, and BNW received support from the National Science Foundation Graduate
 Research Fellowship Program under Grant No. DGE 1256260.
-ZL and BNW received support from the NIH Training Program in Genomic Science
-(T32-HG000040-22).
-KLF received support from The University of Michigan NIDA Training Program in
-Neuroscience (T32-DA7281) and from the NIH Early Stage Training in the
-Neurosciences Training Grant (T32-NS076401).
-SNT was supported by the Molecular Mechanisms of Microbial Pathogenesis training
-grant (NIH T32 AI007528).
-VKN was supported by a NIH Research Project Grant on Breast Cancer Disparities (RO1-ES028802) and the CDC through the National Institute for Occupational Safety and Health (NIOSH) Pilot Project Research Training Program (T42-OH008455).
 Any opinions, findings, and conclusions or recommendations expressed in this
 material are those of the authors and do not necessarily reflect the views of
 the National Science Foundation.
+
+MD, KLS, and VKN received support from the NIH Training Program in
+Bioinformatics (T32 GM070449).
+VKN was supported by a NIH Research Project Grant on Breast Cancer Disparities (RO1-ES028802) and the CDC through the National Institute for Occupational Safety and Health (NIOSH) Pilot Project Research Training Program (T42-OH008455).
+KLF received support from The University of Michigan NIDA Training Program in
+Neuroscience (T32-DA7281) and from the NIH Early Stage Training in the
+Neurosciences Training Grant (T32-NS076401).
+SNT was supported by the Molecular Mechanisms in Microbial Pathogenesis training
+grant (NIH T32 AI007528).
+ZL and BNW received support from the NIH Training Program in Genomic Science
+(T32-HG000040-22).
 
 # Author Contributions
 
