@@ -286,7 +286,7 @@ Data Science Essentials:
 16. Pandas Subsetting I
 17. Pandas Subsetting II
 18. Dictionaries
-19. Functions
+19. Writing Functions
 20. Numpy Intro
 
 Basic Statistical Analysis:
