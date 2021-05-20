@@ -31,7 +31,7 @@ authors:
     orcid: 0000-0002-5378-3315
     affiliation: "5, 1"
   - name: Rucheng Diao
-    orcid: TODO
+    orcid: 0000-0002-2932-6755
     affiliation: 1
   - name: Morgan Oneka
     orcid: 0000-0002-9672-0445
