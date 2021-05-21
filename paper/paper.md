@@ -18,7 +18,7 @@ authors:
   - name: Vy Kim Nguyen
     orcid: 0000-0002-6128-0523
     affiliation: "1, 8"
-  - name: Sarah Haynes
+  - name: Sarah E. Haynes
     orcid: 0000-0003-3225-1691
     affiliation: 6
   - name: Hayley Falk
