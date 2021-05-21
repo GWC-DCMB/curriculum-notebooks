@@ -36,9 +36,9 @@ authors:
   - name: Morgan Oneka
     orcid: 0000-0002-9672-0445
     affiliation: 1
-  - name: Audrey Drotos
-    orcid: TODO
-    affiliation: TODO
+  - name: Audrey C. Drotos
+    orcid: 0000-0001-5035-9319
+    affiliation: 10
   - name: Alana Woloshin
     orcid: 0000-0002-5224-4221
     affiliation: 7
@@ -82,6 +82,8 @@ affiliations:
     index: 8
   - name: Department of Electrical Engineering & Computer Sciences, University of California, Berkeley
     index: 9
+  - name: Kresge Hearing Research Institute, Department of Otolaryngology–Head and Neck Surgery, University of Michigan
+    index: 10
 date: 30 Apr. 2021
 bibliography: paper.bib
 ---
