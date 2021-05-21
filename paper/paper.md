@@ -450,6 +450,9 @@ the National Science Foundation.
 
 MD, KLS, NF, and VKN received support from the NIH Training Program in
 Bioinformatics (T32 GM070449).
+
+NF was supported by the National Institute of Health (NIH) Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship Program (F31 LM012946-01)
+
 VKN was supported by a NIH Research Project Grant on Breast Cancer Disparities (RO1-ES028802) and the CDC through the National Institute for Occupational Safety and Health (NIOSH) Pilot Project Research Training Program (T42-OH008455).
 
 KLF received support from The University of Michigan NIDA Training Program in
@@ -461,8 +464,6 @@ grant (NIH T32 AI007528).
 
 ZL and BNW received support from the NIH Training Program in Genomic Science
 (T32-HG000040-22).
-
-NF recieved support from the National Institute of Health (NIH) Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship Program (F31 LM012946-01)
 
 # Author Contributions
 
