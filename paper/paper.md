@@ -42,8 +42,8 @@ authors:
   - name: Alana Woloshin
     orcid: 0000-0002-5224-4221
     affiliation: 7
-  - name: Gabrielle Dotson
-    orcid: TODO
+  - name: Gabrielle A. Dotson
+    orcid: 0000-0001-6624-5332
     affiliation: 1
   - name: April Kriebel
     orcid: 0000-0003-0008-9044
