@@ -140,7 +140,7 @@ The majority of our organization's founding graduate students (all women) began
 coding in our undergraduate careers or later.
 We wanted to provide a safe place for local young high school women to
 develop confidence in themselves and their computational skills
-before college, and be exposed to successful female role models in STEM to counter negative
+before college, and be exposed to successful women role models in STEM to counter negative
 stereotypes.
 
 Girls Who Code, a national organization whose mission
@@ -342,9 +342,9 @@ For both in-person and virtual instruction, once students have completed the Fun
 Projects are completed in a paired programming style, where partners take turns assuming the “driver” (i.e. the typer) and “navigator” (i.e. the helper) roles [@hannay_effectiveness_2009].
 Switching off in this way helps both partners assume equal responsibility for the project workload, but more importantly it enables improved knowledge transfer through peer-to-peer learning.
 
-In addition to our coding curriculum, another key component of our programming is hosting female guest speakers from diverse fields across academia and industry.
+In addition to our coding curriculum, another key component of our programming is hosting women guest speakers from diverse fields across academia and industry.
 Our guest speakers come to discuss the journey they’ve taken to their career paths as well as how they utilize programming and data science in their jobs.
-These varied perspectives are extremely valuable to our learners as they provide several practical examples of programming careers in the real world, and expose them to successful females in STEM.
+These varied perspectives are extremely valuable to our learners as they provide several practical examples of programming careers in the real world, and expose them to successful women in STEM.
 
 ## Experience of Use
 
@@ -387,10 +387,10 @@ collaborate and learn from each other.
 1. We use the "sticky note" system from The Carpentries by which learners can
 ask for help by putting up a colored sticky note (or a Zoom emoji in the case of
 virtual meetings) [@becker_responding_2016].
-1. We exposed the learners to different aspects of data science by bringing in female
+1. We exposed the learners to different aspects of data science by bringing in women
 guest speakers from academics and industry. This allowed them to better put what
 they were learning into context and think about how they might use the skills
-they were learning in potential future careers, and exposed them to successful females in STEM.
+they were learning in potential future careers, and exposed them to successful women in STEM.
 
 ### Learner experiences
 
