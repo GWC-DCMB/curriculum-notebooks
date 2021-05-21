@@ -49,8 +49,8 @@ authors:
     orcid: 0000-0003-0008-9044
     affiliation: 1
   - name: Lucy Meng
-    orcid: TODO
-    affiliation: TODO
+    orcid: 0000-0002-9363-1308
+    affiliation: 9
   - name: Stephanie N. Thiede
     orcid: 0000-0003-0173-4324
     affiliation: 2
@@ -80,6 +80,8 @@ affiliations:
     index: 7
   - name: Department of Environmental Health Sciences, University of Michigan
     index: 8
+  - name: Department of Electrical Engineering & Computer Sciences, University of California, Berkeley
+    index: 9
 date: 30 Apr. 2021
 bibliography: paper.bib
 ---
