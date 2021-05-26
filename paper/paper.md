@@ -395,15 +395,15 @@ they were learning in potential future careers, and exposed them to successful w
 ### Learner experiences
 
 We surveyed learners anonymously after each Club and Summer Experience and found
-that they all felt like they had improved their skills in Python programming,
-problem solving and critical thinking, and collaboration.
+that they all felt their skills in Python programming,
+problem solving, critical thinking, and collaboration had improved.
 Furthermore, for the 2019 instance of Club we asked that all participants take a
-pre-test and a post-test.
+pre-test and a post-test comprising Python coding questions.
 While only five participants recorded their post-test, all of them answered more
 questions correctly on the post-test than the pre-test (range 1-8 more questions
 correct out of 11).
 
-Overwhelmingly, learners' favorite parts are the guest speakers and the project.
+Overwhelmingly, learners' favorite parts of the program are the guest speakers and the project.
 These aspects of our curriculum expose them to new fields and allow them to
 apply their newfound coding skills to asking an interesting question.
 About a third of participants claim that they are now more interested in
