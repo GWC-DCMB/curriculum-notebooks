@@ -138,7 +138,7 @@ Additionally, women often experience stereotype threats that
 influence their math and science performance as well as their career goals [@hill_why_2010].
 The majority of our organization's founding graduate students (all women) began
 coding in our undergraduate careers or later.
-We wanted to provide a safe place for local young high school women to
+We wanted to provide a safe place for local high school women to
 develop confidence in themselves and their computational skills
 before college, and be exposed to successful women role models in STEM to counter negative
 stereotypes.
@@ -157,8 +157,7 @@ the club is run in-person rather than virtually), and are thus largely high scho
 women from the Ann Arbor area.
 In 2019 we launched a Data Science Summer Experience, which is unaffiliated with
 the national Girls Who Code organization. When held in-person, the Summer Experience
-is hosted in Detroit to provide the opportunity for high school women from communities with
-fewer resources to attend.
+is hosted in Detroit to provide the opportunity to high school women outside of Ann Arbor.
 
 The national Girls Who Code organization provides a curriculum that teaches
 website and application development through programming languages like HTML and
@@ -180,8 +179,8 @@ Girls Who Code encourages participants to learn programming skills while working
 on an Impact Project website or application throughout the Club
 [@hq_gallery_2021].
 We created an open source Data Science curriculum that teaches the requisite
-Python and statistics skills to complete a Capstone Project, which is a data
-analysis project on a data set of interest.
+Python and statistics skills to complete a Capstone Project, where students explore, 
+analyze, and present a data set of their choosing.
 Using this curriculum, we employ participatory live coding as used by The
 Carpentries, which is an effective method that engages learners
 [@wilson_software_2016; @nederbragt_ten_2020].
@@ -200,9 +199,9 @@ curriculum to teach introductory Python for data science via live coding.
 We chose what content to cover based on what our students would need to learn in
 order to complete a small data analysis project and communicate their findings
 to their peers.
-We divided up the content by topic into Jupyter notebooks for each lesson, with
+We divided the content by topic into Jupyter notebooks for each lesson, with
 each lesson taking approximately 15-20 minutes to teach via live coding.
-Each lesson has a corresponding practice notebook with additional exercises on
+Every lesson has a corresponding practice notebook with additional exercises on
 the same content taught in the lesson, but with different data or variables
 used.
 We hosted the curriculum notebooks in a public GitHub repository to facilitate
