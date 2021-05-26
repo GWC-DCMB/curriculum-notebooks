@@ -153,10 +153,10 @@ Girls Who Code Club because the national organization provides name recognition,
 curriculum resources, guidance for a Capstone Impact Project, and a framework
 for launching a coding club.
 Participants in the Club attend weekly meetings at the University of Michigan (when
-the club is run in-person rather than virtually), and are thus largely high school
+the club is run in person rather than virtually), and are thus largely high school
 women from the Ann Arbor area.
 In 2019 we launched a Data Science Summer Experience, which is unaffiliated with
-the national Girls Who Code organization. When held in-person, the Summer Experience
+the national Girls Who Code organization. When held in person, the Summer Experience
 is hosted in Detroit to provide the opportunity to high school women outside of Ann Arbor.
 
 The national Girls Who Code organization provides a curriculum that teaches
@@ -179,7 +179,7 @@ Girls Who Code encourages participants to learn programming skills while working
 on an Impact Project website or application throughout the Club
 [@hq_gallery_2021].
 We created an open source Data Science curriculum that teaches the requisite
-Python and statistics skills to complete a Capstone Project, where students explore, 
+Python and statistics skills to complete a Capstone Project, where students explore,
 analyze, and present a data set of their choosing.
 Using this curriculum, we employ participatory live coding as used by The
 Carpentries, which is an effective method that engages learners
@@ -348,7 +348,7 @@ These varied perspectives are extremely valuable to our learners as they provide
 
 We have used this curriculum to teach the Data Science Summer Experience and
 Girls Who Code Club in person in 2019 and virtually in 2020-2021.
-For the in person instances, we taught the curriculum through participatory live
+For the in-person instances, we taught the curriculum through participatory live
 coding, a technique we learned from [The Carpentries](https://carpentries.org/)
 where the instructor types and explains the code while the learners follow along
 in real time.
@@ -359,7 +359,7 @@ coding and follow along.
 Learners then complete a Practice notebook corresponding to the Lesson.
 Facilitators then spend meeting time answering questions and reviewing the core
 concepts in the Practice notebook.
-For both in person and virtual instances, we had several facilitators present at
+For both in-person and virtual instances, we had several facilitators present at
 each session to answer questions and help learners debug.
 Furthermore, one or two facilitators were assigned to each project group to help
 learners define data analysis questions, develop and execute a data analysis
@@ -448,8 +448,8 @@ the National Science Foundation.
 
 MD, KLS, NF, and VKN received support from the NIH Training Program in
 Bioinformatics (T32 GM070449).
-NF was supported by the National Institute of Health (NIH) Ruth L. Kirschstein 
-National Research Service Award (NRSA) Individual Predoctoral Fellowship 
+NF was supported by the National Institute of Health (NIH) Ruth L. Kirschstein
+National Research Service Award (NRSA) Individual Predoctoral Fellowship
 Program (F31 LM012946-01)
 VKN was supported by a NIH Research Project Grant on Breast Cancer Disparities (RO1-ES028802) and the CDC through the National Institute for Occupational Safety and Health (NIOSH) Pilot Project Research Training Program (T42-OH008455).
 KLF received support from The University of Michigan NIDA Training Program in
