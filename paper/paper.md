@@ -315,7 +315,12 @@ Data Visualization:
 Each lesson builds on those before it, beginning with relevant content reminders
 from the previous lessons and ending with a concise summary of the skills
 presented within.
-As they progress through the curriculum, the students begin simultaneously working on a data science project on a topic of their choice using a real world dataset. While more time is dedicated to lessons early in the program, the formal curriculum tapers off until the students are solely applying their skills to the data science project.  
+As they progress through the curriculum, the students begin simultaneously
+working on a data science project on a topic of their choice using a real world
+dataset.
+While more time is dedicated to lessons early in the program, the formal
+curriculum tapers off until the students are solely applying their skills to the
+data science project.  
 Through this Capstone Project, learners gain practical experience with each
 skill as they learn it in the lessons; including importing and cleaning data,
 data visualization, and basic statistical analyses.
@@ -325,24 +330,51 @@ data visualization, and basic statistical analyses.
 
 We modeled our instructional design in the style of Software Carpentry [@wilson_software_2016].
 
-1. Each lesson begins with a recapping of the relevant core skills presented in the previous lessons.
-1. All lessons are designed to be taught via 15-minute live-coding sessions, where students type and run code in their own notebooks along with the instructor in real time. As in Software Carpentry, we find this to be a highly effective method of teaching coding, since students must actively engage with the material and deal with errors and bugs as they come up.
+1. Each lesson begins with a recapping of the relevant core skills presented in
+the previous lessons.
+1. All lessons are designed to be taught via 15-minute live-coding sessions,
+where students type and run code in their own notebooks along with the
+instructor in real time. As in Software Carpentry, we find this to be a highly
+effective method of teaching coding, since students must actively engage with
+the material and deal with errors and bugs as they come up.
 1. Each lesson ends with a summary of core skills presented within the material.
-1. Each short lesson is also accompanied by a subsequent 10-minute independent practice, providing further opportunity for practical experience implementing the coding skill at hand and testing their understanding of the content.
+1. Each short lesson is also accompanied by a subsequent 10-minute independent
+practice, providing further opportunity for practical experience implementing
+the coding skill at hand and testing their understanding of the content.
 
-This curriculum was originally developed for in-person instruction, but the onset of the COVID-19 pandemic necessitated restructuring to a virtual format.
-To better facilitate virtual instruction, we switched to a flipped classroom style based on feedback from our club participants that it was too difficult to follow along with live coding via Zoom.
-We provide video recordings of instructors going through the Jupyter notebooks as if they were live coding in the classroom.
-Students then watch the lessons and complete the practice exercises prior to virtual meetings, in which they have the opportunity to ask questions on material they did not understand and go over the practice exercises.
-This virtual format is especially beneficial because it 1) allows students to learn at their own pace, and 2) enables dissemination of our curriculum to a wider audience interested in learning introductory Python programming for data science.
+This curriculum was originally developed for in-person instruction, but the
+onset of the COVID-19 pandemic necessitated restructuring to a virtual format.
+To better facilitate virtual instruction, we switched to a flipped classroom
+style based on feedback from our club participants that it was too difficult to
+follow along with live coding via Zoom.
+We provide video recordings of instructors going through the Jupyter notebooks
+as if they were live coding in the classroom.
+Students then watch the lessons and complete the practice exercises prior to
+virtual meetings, in which they have the opportunity to ask questions on
+material they did not understand and go over the practice exercises.
+This virtual format is especially beneficial because it 1) allows students to
+learn at their own pace, and 2) enables dissemination of our curriculum to a
+wider audience interested in learning introductory Python programming for data
+science.
 
-For both in-person and virtual instruction, once students have completed the Fundamentals module and reach the Data Science Essentials module they begin simultaneous work on their data science projects.
-Projects are completed in a paired programming style, where partners take turns assuming the “driver” (i.e. the typer) and “navigator” (i.e. the helper) roles [@hannay_effectiveness_2009].
-Switching off in this way helps both partners assume equal responsibility for the project workload, but more importantly it enables improved knowledge transfer through peer-to-peer learning.
+For both in-person and virtual instruction, once students have completed the
+Fundamentals module and reach the Data Science Essentials module they begin
+simultaneous work on their data science projects.
+Projects are completed in a paired programming style, where partners take turns
+assuming the “driver” (i.e. the typer) and “navigator” (i.e. the helper) roles
+[@hannay_effectiveness_2009].
+Switching off in this way helps both partners assume equal responsibility for
+the project workload, but more importantly it enables improved knowledge
+transfer through peer-to-peer learning.
 
-In addition to our coding curriculum, another key component of our programming is hosting women guest speakers from diverse fields across academia and industry.
-Our guest speakers come to discuss the journey they’ve taken to their career paths as well as how they utilize programming and data science in their jobs.
-These varied perspectives are extremely valuable to our learners as they provide several practical examples of programming careers in the real world, and expose them to successful women in STEM.
+In addition to our coding curriculum, another key component of our programming
+is hosting women guest speakers from diverse fields across academia and
+industry.
+Our guest speakers come to discuss the journey they’ve taken to their career
+paths as well as how they utilize programming and data science in their jobs.
+These varied perspectives are extremely valuable to our learners as they provide
+several practical examples of programming careers in the real world, and expose
+them to successful women in STEM.
 
 ## Experience of Use
 
@@ -385,10 +417,11 @@ collaborate and learn from each other.
 1. We use the "sticky note" system from The Carpentries by which learners can
 ask for help by putting up a colored sticky note (or a Zoom emoji in the case of
 virtual meetings) [@becker_responding_2016].
-1. We exposed the learners to different aspects of data science by bringing in women
-guest speakers from academics and industry. This allowed them to better put what
-they were learning into context and think about how they might use the skills
-they were learning in potential future careers, and exposed them to successful women in STEM.
+1. We exposed the learners to different aspects of data science by bringing in
+women guest speakers from academics and industry. This allowed them to better
+put what they were learning into context and think about how they might use the
+skills they were learning in potential future careers, and exposed them to
+successful women in STEM.
 
 ### Learner experiences
 
@@ -401,11 +434,13 @@ While only five participants recorded their post-test, all of them answered more
 questions correctly on the post-test than the pre-test (range 1-8 more questions
 correct out of 11).
 
-Overwhelmingly, learners' favorite parts of the program are the guest speakers and the project.
+Overwhelmingly, learners' favorite parts of the program are the guest speakers
+and the project.
 These aspects of our curriculum expose them to new fields and allow them to
 apply their newfound coding skills to asking an interesting question.
 About a third of participants claim that they are now more interested in
-pursuing a career in computer or data science compared to before their Girls Who Code experience.
+pursuing a career in computer or data science compared to before their Girls Who
+Code experience.
 
 # Acknowledgements
 
@@ -450,16 +485,20 @@ MD, KLS, NF, and VKN received support from the NIH Training Program in
 Bioinformatics (T32 GM070449).
 NF was supported by the National Institute of Health (NIH) Ruth L. Kirschstein
 National Research Service Award (NRSA) Individual Predoctoral Fellowship
-Program (F31 LM012946-01)
-VKN was supported by a NIH Research Project Grant on Breast Cancer Disparities (RO1-ES028802) and the CDC through the National Institute for Occupational Safety and Health (NIOSH) Pilot Project Research Training Program (T42-OH008455).
+Program (F31 LM012946-01).
+VKN was supported by a NIH Research Project Grant on Breast Cancer Disparities
+(RO1-ES028802) and the CDC through the National Institute for Occupational
+Safety and Health (NIOSH) Pilot Project Research Training Program
+(T42-OH008455).
 KLF received support from The University of Michigan NIDA Training Program in
 Neuroscience (T32-DA7281) and from the NIH Early Stage Training in the
 Neurosciences Training Grant (T32-NS076401).
+MO received support from the Advanced Proteome Informatics of Cancer Training
+Grant (T32 CA140044).
 SNT was supported by the Molecular Mechanisms in Microbial Pathogenesis training
 grant (NIH T32 AI007528).
 ZL and BNW received support from the NIH Training Program in Genomic Science
 (T32-HG000040-22).
-MO received support from the Advanced Proteome Informatics of Cancer Training Grant (T32 CA140044).
 
 # Author Contributions
 
