@@ -315,8 +315,7 @@ Data Visualization:
 Each lesson builds on those before it, beginning with relevant content reminders
 from the previous lessons and ending with a concise summary of the skills
 presented within.
-Throughout our program, the students also simultaneously work on a data science
-project on a topic of interest using a real world dataset of their choosing.
+As they progress through the curriculum, the students begin simultaneously working on a data science project on a topic of their choice using a real world dataset. While more time is dedicated to lessons early in the program, the formal curriculum tapers off until the students are solely applying their skills to the data science project.  
 Through this Capstone Project, learners gain practical experience with each
 skill as they learn it in the lessons; including importing and cleaning data,
 data visualization, and basic statistical analyses.
