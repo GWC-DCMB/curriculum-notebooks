@@ -463,20 +463,20 @@ Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia Jones, Lauren Jepsen,
 Aubrey Annis, Awanti Sambarey, Mengtong Hu, Maribel Okiye, Yingxiao Zhang, and
 Neslihan Bisgin.
 
-We are grateful for the funding and other support provided to our 
+We are grateful for the funding and other support provided to our
 student organization from the following sponsors:
-the U-M Department of Computational Medicine and Bioinformatics, 
-the U-M Biostatistics Department, 
-the U-M Statistics Department, 
-the U-M Office of Graduate and Postdoctoral Studies, 
-the U-M Endowment in Basic Sciences, 
-the U-M Detroit Center, 
+the U-M Department of Computational Medicine and Bioinformatics,
+the U-M Department of Biostatistics,
+the U-M Department of Statistics,
+the U-M Office of Graduate and Postdoctoral Studies,
+the U-M Endowment in Basic Sciences,
+the U-M Detroit Center,
 the U-M Life Sciences Institute,
 U-M Advanced Research Computing,
 anonymous donations from Giving Blue Day 2019,
-Zingerman’s Delicatessen, 
-Dell, 
-Cisco, 
+Zingerman’s Delicatessen,
+Dell,
+Cisco,
 and the Girls Who Code Support Fund.
 
 We also thank the students who have participated in our Club and Summer
