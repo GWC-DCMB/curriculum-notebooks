@@ -90,6 +90,8 @@ date: 30 Apr. 2021
 bibliography: paper.bib
 ---
 
+<!-- TODO: add suggestions from Maureen: I would avoid using contractions (e.g. “couldn’t” in the Summary), and it may be helpful to readers if you could provide some examples of the applications students used for their projects and what they usually learned from the projects (could be things other than technical skills). -->
+
 # Summary
 
 <!-- pasted from our PyCon 2020 talk proposal -->
