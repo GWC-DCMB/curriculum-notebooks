@@ -476,7 +476,7 @@ the U-M Office of Research,
 anonymous donations from Giving Blue Day 2019,
 Zingerman’s Delicatessen,
 Dell,
-Cisco,
+Cisco Systems,
 and the Girls Who Code Support Fund.
 
 We also thank the students who have participated in our Club and Summer
