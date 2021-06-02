@@ -87,8 +87,6 @@ date: 30 Apr. 2021
 bibliography: paper.bib
 ---
 
-<!-- TODO: add suggestions from Maureen: I would avoid using contractions (e.g. “couldn’t” in the Summary), and it may be helpful to readers if you could provide some examples of the applications students used for their projects and what they usually learned from the projects (could be things other than technical skills). -->
-
 # Summary
 
 <!-- pasted from our PyCon 2020 talk proposal -->
@@ -96,8 +94,8 @@ We are bioinformatics trainees at the University of Michigan who started a
 local chapter of Girls Who Code to provide a fun and supportive environment for
 high school women to learn the power of coding.
 Our goal was to cover basic coding topics and data science concepts through
-live-coding and hands-on practice.
-However, we couldn’t find a resource that exactly met our needs. Therefore, over the past
+live coding and hands-on practice.
+However, we couldn't find a resource that exactly met our needs. Therefore, over the past
 three years, we have developed a curriculum and instructional format using
 Jupyter notebooks to effectively teach introductory Python for data science.
 This method, inspired by The Carpentries organization, uses bite-sized lessons
@@ -106,13 +104,13 @@ culminates in a data science capstone project using real-world data.
 We believe our open curriculum is a valuable resource to the wider education
 community and hope that educators will use and improve our lessons, practice
 problems, and teaching best practices.
-Anyone can contribute to [our educational materials on GitHub](https://github.com/GWC-DCMB).
+Anyone can contribute to our educational materials [on GitHub](https://github.com/GWC-DCMB).
 
 
 # Statement of Need
 
 As women bioinformatics trainees at the
-University of Michigan, we experience the gender gap in our field first-hand.
+University of Michigan (U-M), we experience the gender gap in our field first-hand.
 During the 1974-1975 academic year, women achieved 18.9% of total Bachelor's
 degrees in computer and information sciences in the US [@nces_digest_2012].
 By 1983-1984 this peaked at 37.1%, but fell to 17.6% by 2010-2011. We also see this
@@ -133,8 +131,8 @@ various explanations for persistent gender disparities
 One explanation is that women in first year computer science courses rate
 themselves as being less experienced, prepared, or able to master the course
 material than the men [@fisher_undergraduate_1997].
-Additionally, women often experience stereotype threats that
-influence their math and science performance as well as their career goals [@hill_why_2010].
+Additionally, women often experience stereotype threats that negative
+influence their math and science performance and deter them from pursuing STEM as a career [@hill_why_2010].
 The majority of our organization's founding graduate students (all women) began
 coding in our undergraduate careers or later.
 We wanted to provide a safe place for local high school women to
@@ -154,9 +152,10 @@ for launching a coding club.
 Participants in the Club attend weekly meetings at the University of Michigan (when
 the club is run in person rather than virtually), and are thus largely high school
 women from the Ann Arbor area.
-In 2019 we launched a Data Science Summer Experience, which is unaffiliated with
+In 2019 we launched a Data Science Summer Experience that is unaffiliated with
 the national Girls Who Code organization. When held in person, the Summer Experience
-is hosted in Detroit to provide the opportunity to high school women outside of Ann Arbor.
+is hosted in Detroit to provide the opportunity 
+for high school women outside of Ann Arbor to learn coding skills in an inclusive environment.
 
 The national Girls Who Code organization provides a curriculum that teaches
 website and application development through programming languages like HTML and
@@ -185,7 +184,7 @@ Carpentries, which is an effective method that engages learners
 [@wilson_software_2016; @nederbragt_ten_2020].
 Using paired activities, our curriculum follows the "I do, we do, you do"
 didactic paradigm [@fisher_better_2013].
-We provide open-source resources for both in-person and virtual versions of our
+We provide open source resources for both in-person and virtual versions of our
 curriculum, including videos corresponding to each lesson.
 While we developed this curriculum for our Girls Who Code Club and Summer
 Experience, we believe that it can be widely used for teaching introductory
@@ -195,14 +194,13 @@ coding for data science.
 
 We assembled a team of volunteers involved in our club to develop a custom
 curriculum to teach introductory Python for data science via live coding.
-We chose what content to cover based on what our students would need to learn in
-order to complete a small data analysis project and communicate their findings
+We chose the content based on what our students would need to learn
+to complete a small data analysis project and communicate their findings
 to their peers.
 We divided the content by topic into Jupyter notebooks for each lesson, with
 each lesson taking approximately 15-20 minutes to teach via live coding.
 Every lesson has a corresponding practice notebook with additional exercises on
-the same content taught in the lesson, but with different data or variables
-used.
+the same content taught in the lesson, but using different data or variables.
 We hosted the curriculum notebooks in a public GitHub repository to facilitate
 collaborative development and peer review using pull requests.
 In the initial curriculum drafting phase, developers were assigned lesson and
@@ -238,8 +236,8 @@ https://github.com/GWC-DCMB/curriculum-notebooks
 
 Our curriculum was designed for high school students with no prior coding
 experience who are interested in learning Python programming for data science.
-However, this course material would be useful for anyone interested in learning
-basic programming for data analysis, regardless of age or experience level.
+However, this course material would be useful for anyone interested in 
+teaching or learning basic programming for data analysis.
 
 Our curriculum features short lessons to deliver course material in “bite sized”
 chunks, followed by practices to solidify the learners' understanding.
@@ -369,7 +367,7 @@ transfer through peer-to-peer learning.
 In addition to our coding curriculum, another key component of our programming
 is hosting women guest speakers from diverse fields across academia and
 industry.
-Our guest speakers come to discuss the journey they’ve taken to their career
+Our guest speakers come to discuss the journey they have taken to their career
 paths as well as how they utilize programming and data science in their jobs.
 These varied perspectives are extremely valuable to our learners as they provide
 several practical examples of programming careers in the real world, and expose
@@ -387,15 +385,20 @@ For the virtual instances, we used a flipped classroom approach where the
 learners explore the material individually before meeting together.
 Learners watch videos of instructors explaining the material through "live"
 coding and follow along.
-Learners then complete a Practice notebook corresponding to the Lesson.
-Facilitators then spend meeting time answering questions and reviewing the core
-concepts in the Practice notebook.
+Learners then complete a practice notebook corresponding to the lesson.
+Facilitators then spend the meeting time answering questions and reviewing the core
+concepts in the practice notebook.
 For both in-person and virtual instances, we had several facilitators present at
 each session to answer questions and help learners debug.
 Furthermore, one or two facilitators were assigned to each project group to help
 learners define data analysis questions, develop and execute a data analysis
 plan, visualize and communicate their findings, and troubleshoot coding
-problems.
+problems. The culmination of the project is a presentation to peers, facilitators, 
+and family members. Through this process learners gain hands-on experience
+coding, cleaning data, performing statistical analyses, creating informative data 
+visualizations, and communicating their results to others. 
+Projects have ranged from investigating exoplanets to studying the 
+genomics of psoriasis. 
 
 We credit the success of our curriculum not only to the skill of the
 instructors, but also to the way we organized and executed the lessons and
@@ -408,17 +411,17 @@ any programs to use Google Colab, and you can easily open and edit the Jupyter
 notebooks from GitHub.  When meeting in person, most learners use Google
 Chromebooks which have limited programming capabilities, but easy use of a web
 browser.
-1. Assigning facilitators to groups allows learners to build a more personal
+1. Assigning facilitators to groups allowed learners to build a more personal
 connection with their facilitators, making them feel more comfortable asking
 questions.
 1. Group projects were performed using paired programming to allow learners to
 collaborate and learn from each other.
-1. We use the "sticky note" system from The Carpentries by which learners can
+1. We used the "sticky note" system from The Carpentries by which learners can
 ask for help by putting up a colored sticky note (or a Zoom emoji in the case of
 virtual meetings) [@becker_responding_2016].
 1. We exposed the learners to different aspects of data science by bringing in
 women guest speakers from academics and industry. This allowed them to better
-put what they were learning into context and think about how they might use the
+put what they were learning into context, think about how they might use the
 skills they were learning in potential future careers, and exposed them to
 successful women in STEM.
 
@@ -437,7 +440,7 @@ Overwhelmingly, learners' favorite parts of the program are the guest speakers
 and the project.
 These aspects of our curriculum expose them to new fields and allow them to
 apply their newfound coding skills to asking an interesting question.
-About a third of participants claim that they are now more interested in
+In fact, about a third of participants claim that they are now more interested in
 pursuing a career in computer or data science compared to before their Girls Who
 Code experience.
 
