@@ -54,9 +54,6 @@ authors:
   - name: Stephanie N. Thiede
     orcid: 0000-0003-0173-4324
     affiliation: 2
-  - name: Shweta Ramdas
-    orcid: TODO
-    affiliation: TODO
   - name: Zena Lapp^[corresponding author]
     orcid: 0000-0003-4674-2176
     affiliation: 1
@@ -456,7 +453,8 @@ organization.
 
 Our programming is made possible by the dedication of past and present Executive
 Committee members, Club and Summer Experience Facilitators, and Capstone Project
-mentors including Alex Weber, Arushi Varshney, Sophie Hoffman, Hojae Lee, Ruma
+mentors including
+Shweta Ramdas, Alex Weber, Arushi Varshney, Sophie Hoffman, Hojae Lee, Ruma
 Deb, Saige Rutherford, Michelle McNulty, Bailey Peck, Chloe Whicker, Carolina
 Rojas Ramirez, Verity Sturm, Zoe Drasner, Sarah Latto, Emily Roberts, Angel Chu,
 Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia Jones, Lauren Jepsen,
