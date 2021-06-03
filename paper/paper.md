@@ -256,58 +256,17 @@ data science can be used to make large impacts across many disciplines.
 
 ## Course Content
 
-![Our lesson modules.](lesson-modules.png)
 
 Our curriculum design consists of 27 lessons broken up into 5 modules that cover Jupyter notebook setup,
 Python coding fundamentals, use of essential data science packages including
 pandas and numpy, basic statistical analyses, and plotting using seaborn and
 matplotlib (Figure 1) [@harris_array_2020; @waskom_seaborn_2021;
 @hunter_matplotlib_2007].
-Each of the following modules consists of a lesson notebook, used for teaching
+Each lesson consists of a lesson notebook, used for teaching
 the concept via live coding, and a practice notebook containing similar
-exercises for the student to complete on their own following the lesson:
+exercises for the student to complete on their own following the lesson.
 
-Jupyter Notebook Setup:
-
-1. Jupyter Setup
-
-Coding Fundamentals:
-
-2. HelloWorld and Variables
-3. Variables and Types
-4. Lists Intro
-5. Indexing
-6. 2D Lists Intro (legacy lesson)
-7. 2D Lists Indexing (legacy lesson)
-8. Logic
-9. Conditionals
-10. Loops I
-11. Loops II
-12. Using Functions and Methods
-
-Data Science Essentials:
-
-13. Packages
-14. Pandas Intro
-15. Pandas Reading
-16. Pandas Subsetting I
-17. Pandas Subsetting II
-18. Dictionaries
-19. Writing Functions
-20. Numpy Intro
-
-Basic Statistical Analysis:
-
-21. Averages
-22. Percents
-23. Correlations
-24. Significance
-
-Data Visualization:
-
-25. Line Graphs
-26. Scatterplots
-27. Bar Charts and Histograms
+![Our lesson modules.](lesson-modules.png)
 
 Each lesson builds on those before it, beginning with relevant content reminders
 from the previous lessons and ending with a concise summary of the skills
