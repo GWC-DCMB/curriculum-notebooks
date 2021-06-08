@@ -128,11 +128,9 @@ Previous research on women's educational experiences in science, technology, eng
 and mathematics (STEM) have produced
 various explanations for persistent gender disparities
 [@benbow_gender_2016].
-One explanation is that women in first year computer science courses rate
-themselves as being less experienced, prepared, or able to master the course
-material than the men [@fisher_undergraduate_1997].
-Additionally, women often experience stereotype threats that negative
-influence their math and science performance and deter them from pursuing STEM as a career [@hill_why_2010].
+One explanation is that women often experience stereotype threats that
+negatively influence their math and science performance and deter them from
+pursuing STEM as a career [@hill_why_2010].
 The majority of our organization's founding graduate students (all women) began
 coding in our undergraduate careers or later.
 We wanted to provide a safe place for local high school women to
@@ -152,9 +150,9 @@ for launching a coding club.
 Participants in the Club attend weekly meetings at the University of Michigan (when
 the club is run in person rather than virtually), and are thus largely high school
 women from the Ann Arbor area.
-In 2019 we launched our own summer program, the Data Science Summer Experience. 
+In 2019 we launched our own summer program, the Data Science Summer Experience.
 When held in person, the Summer Experience
-is hosted in Detroit to provide the opportunity 
+is hosted in Detroit to provide the opportunity
 for high school women outside of Ann Arbor to learn coding skills in an inclusive environment.
 
 The national Girls Who Code organization provides a curriculum that teaches
@@ -236,7 +234,7 @@ https://github.com/GWC-DCMB/curriculum-notebooks
 
 Our curriculum was designed for high school students with no prior coding
 experience who are interested in learning Python programming for data science.
-However, this course material would be useful for anyone interested in 
+However, this course material would be useful for anyone interested in
 teaching or learning basic programming for data analysis.
 
 Our curriculum features short lessons to deliver course material in “bite sized”
@@ -352,12 +350,12 @@ each session to answer questions and help learners debug.
 Furthermore, one or two facilitators were assigned to each project group to help
 learners define data analysis questions, develop and execute a data analysis
 plan, visualize and communicate their findings, and troubleshoot coding
-problems. The culmination of the project is a presentation to peers, facilitators, 
+problems. The culmination of the project is a presentation to peers, facilitators,
 and family members. Through this process learners gain hands-on experience
-coding, cleaning data, performing statistical analyses, creating informative data 
-visualizations, and communicating their results to others. 
-Projects have ranged from investigating exoplanets to studying the 
-genomics of psoriasis. 
+coding, cleaning data, performing statistical analyses, creating informative data
+visualizations, and communicating their results to others.
+Projects have ranged from investigating exoplanets to studying the
+genomics of psoriasis.
 
 We credit the success of our curriculum not only to the skill of the
 instructors, but also to the way we organized and executed the lessons and
