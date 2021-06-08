@@ -141,8 +141,9 @@ stereotypes.
 Girls Who Code, a national organization whose mission
 is to close the gender gap in technology
 [@saujani_girls_2015], was founded in 2012.
-Because of our personal experiences and the paucity of women in our field, we
-began a Girls Who Code student organization at the University of Michigan in 2017.
+Because of our personal experiences and the paucity of women in our field
+[@nces_digest_2012; @bonham_women_2017], we began a Girls Who Code student
+organization at the University of Michigan in 2017.
 For the past four academic years we have registered annually as a recognized
 Girls Who Code Club because the national organization provides name recognition,
 curriculum resources, guidance for a Capstone Impact Project, and a framework
