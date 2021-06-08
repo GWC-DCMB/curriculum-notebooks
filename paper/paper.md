@@ -152,8 +152,8 @@ for launching a coding club.
 Participants in the Club attend weekly meetings at the University of Michigan (when
 the club is run in person rather than virtually), and are thus largely high school
 women from the Ann Arbor area.
-In 2019 we launched a Data Science Summer Experience that is unaffiliated with
-the national Girls Who Code organization. When held in person, the Summer Experience
+In 2019 we launched our own summer program, the Data Science Summer Experience. 
+When held in person, the Summer Experience
 is hosted in Detroit to provide the opportunity 
 for high school women outside of Ann Arbor to learn coding skills in an inclusive environment.
 
