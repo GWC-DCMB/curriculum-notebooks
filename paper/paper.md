@@ -95,7 +95,7 @@ local chapter of Girls Who Code to provide a fun and supportive environment for
 high school women to learn the power of coding.
 Our goal was to cover basic coding topics and data science concepts through
 live coding and hands-on practice.
-However, we couldn't find a resource that exactly met our needs. Therefore, over the past
+However, we could not find a resource that exactly met our needs. Therefore, over the past
 three years, we have developed a curriculum and instructional format using
 Jupyter notebooks to effectively teach introductory Python for data science.
 This method, inspired by The Carpentries organization, uses bite-sized lessons
@@ -295,7 +295,7 @@ the material and deal with errors and bugs as they come up.
 1. Each lesson ends with a summary of core skills presented within the material.
 1. Each short lesson is also accompanied by a subsequent 10-minute independent
 practice, providing further opportunity for practical experience implementing
-the coding skill at hand and testing their understanding of the content.
+the coding skill at hand and testing students understanding of the content.
 
 This curriculum was originally developed for in-person instruction, but the
 onset of the COVID-19 pandemic necessitated restructuring to a virtual format.
