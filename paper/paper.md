@@ -434,7 +434,7 @@ the U-M Life Sciences Institute,
 the U-M Office of Research,
 anonymous donations from Giving Blue Day 2019,
 Zingerman’s Delicatessen,
-Dell,
+DELL Technologies,
 Cisco Systems,
 and the Girls Who Code Support Fund.
 
