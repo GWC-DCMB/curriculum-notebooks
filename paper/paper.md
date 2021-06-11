@@ -167,7 +167,7 @@ Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in
 Furthermore, Python is the most popular programming language according to the PYPL
 PopularitY of Programming Language Index [@noauthor_pypl_nodate].
 Therefore, we believe career exploration in data science using the Python programming
-language will optimally prepare our students for careers that provide financial stability.
+language will optimally prepare our students for careers that provide financial stability and upward economic mobility.
 By leveraging the data science expertise of our Club facilitators, we created a
 specialized curriculum focused on computational data science in the Python
 programming language.
@@ -226,7 +226,7 @@ to code along with while watching the videos.
 Each video shows the Jupyter notebook alongside the facilitator themselves
 teaching.
 This format allowed students to learn at their own pace, then ask questions and
-practice when we met together virtually. <!-- TODO: should this actually go later in the curriculum section?-->
+practice when we met together virtually.
 
 Our Jupyter notebooks and links to the lesson videos can be accessed on GitHub:
 https://github.com/GWC-DCMB/curriculum-notebooks
@@ -240,6 +240,7 @@ teaching or learning basic programming for data analysis.
 
 Our curriculum features short lessons to deliver course material in “bite sized”
 chunks, followed by practices to solidify the learners' understanding.
+Pre-recorded videos of lessons enable effective virtual learning and flipped classroom approaches.
 
 ## Learning Objectives
 
