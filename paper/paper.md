@@ -226,7 +226,7 @@ to code along with while watching the videos.
 Each video shows the Jupyter notebook alongside the facilitator themselves
 teaching.
 This format allowed students to learn at their own pace, then ask questions and
-practice when we met together virtually. <!-- TODO: should this actually go later in the curriculum section?-->
+practice when we met together virtually. 
 
 Our Jupyter notebooks and links to the lesson videos can be accessed on GitHub:
 https://github.com/GWC-DCMB/curriculum-notebooks
