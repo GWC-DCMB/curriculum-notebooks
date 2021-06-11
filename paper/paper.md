@@ -167,7 +167,7 @@ Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in
 Furthermore, Python is the most popular programming language according to the PYPL
 PopularitY of Programming Language Index [@noauthor_pypl_nodate].
 Therefore, we believe career exploration in data science using the Python programming
-language will optimally prepare our students for careers that provide financial stability.
+language will optimally prepare our students for careers that provide financial stability and upward economic mobility.
 By leveraging the data science expertise of our Club facilitators, we created a
 specialized curriculum focused on computational data science in the Python
 programming language.
