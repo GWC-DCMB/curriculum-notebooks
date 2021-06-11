@@ -240,6 +240,7 @@ teaching or learning basic programming for data analysis.
 
 Our curriculum features short lessons to deliver course material in “bite sized”
 chunks, followed by practices to solidify the learners' understanding.
+Pre-recorded videos of lessons enable effective virtual learning and flipped classroom approaches.
 
 ## Learning Objectives
 
