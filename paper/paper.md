@@ -432,11 +432,12 @@ the U-M Endowment in Basic Sciences,
 the U-M Detroit Center,
 the U-M Life Sciences Institute,
 the U-M Office of Research,
-anonymous donations from Giving Blue Day 2019,
-Zingerman’s Delicatessen,
+the Michigan Council of Women in Technology Foundation,
 DELL Technologies,
 Cisco Systems,
-and the Girls Who Code Support Fund.
+Zingerman’s Delicatessen,
+the Girls Who Code Support Fund,
+and anonymous donations from Giving Blue Day 2019.
 
 We also thank the students who have participated in our Club and Summer
 Experience events.
