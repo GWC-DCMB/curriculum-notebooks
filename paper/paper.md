@@ -444,8 +444,8 @@ Experience events.
 
 # Funding
 
-MD, ZL, and BNW received support from the National Science Foundation Graduate
-Research Fellowship Program under Grant No. DGE 1256260.
+MD, ACD, ZL, and BNW received support from the National Science Foundation
+Graduate Research Fellowship Program under Grant No. DGE 1256260.
 Any opinions, findings, and conclusions or recommendations expressed in this
 material are those of the authors and do not necessarily reflect the views of
 the National Science Foundation.
