@@ -395,17 +395,38 @@ While only five participants recorded their post-test, all of them answered more
 questions correctly on the post-test than the pre-test (range 1-8 more questions
 correct out of 11).
 
-On a 10 question skills assessment, the average increase in correct answers between the first 2019 club meeting and the last 2020 club meeting was 4.2 with a standard deviation of 2.8 (N=5 respondents). Fifty-two percent of the 2019 Detroit Summer Experience in Data Science learners (N=19) did not have experience with Python programming. Afterwards, on a 5 point scale from 'Not at all' to 'Definitely',' the average answer for  ‘Do you feel like you’ve improved your Python programming skills?’ was 4.6 (standard deviation [s.d.]=1), with 4.2 (s.d.=0.9) for ‘Do you feel like you’ve improved your problem solving and critical thinking skills,’ and 4.0 (s.d.=0.9) for ‘Do you feel like this experience helped you gain self-confidence?' In a survey of Club and Summer Experience alumni, 75% (N=20) want to pursue a STEM career. 62% (N=21) are still coding. On a 5-point scale from strongly 'Disagree' to 'Strongly Agree,' the average answer for ‘My participation in GWC impacted my career aspirations’ is 4 (s.d.=0.9), with 4.5 (s.d.=0.6) for ‘Participating in GWC made me feel more confident in analyzing data’ and 3.9 (s.d.=1) for ‘Participating in GWC made me more confident in myself.’
-
+On a 10 question skills assessment, the average increase in correct answers
+between the first 2019 club meeting and the last 2020 club meeting was 4.2 with
+a standard deviation of 2.8 (N=5 respondents).
+Fifty-two percent of the 2019 Detroit Summer Experience in Data Science learners
+(N=19) did not have experience with Python programming.
+Afterwards, on a 5 point scale from 'Not at all' to 'Definitely',' the average
+answer for  ‘Do you feel like you’ve improved your Python programming skills?’
+was 4.6 (standard deviation [s.d.]=1), with 4.2 (s.d.=0.9) for ‘Do you feel like
+you’ve improved your problem solving and critical thinking skills,’ and 4.0
+(s.d.=0.9) for ‘Do you feel like this experience helped you gain
+self-confidence?'
+In a survey of Club and Summer Experience alumni, 75% (N=20) want to pursue a
+STEM career. 62% (N=21) are still coding.
+On a 5-point scale from strongly 'Disagree' to 'Strongly Agree,' the average
+answer for ‘My participation in GWC impacted my career aspirations’ is 4
+(s.d.=0.9), with 4.5 (s.d.=0.6) for ‘Participating in GWC made me feel more
+confident in analyzing data’ and 3.9 (s.d.=1) for ‘Participating in GWC made me
+more confident in myself.’
 
 Overwhelmingly, learners' favorite parts of the program are the guest speakers
 and the project.
 These aspects of our curriculum expose them to new fields and allow them to
 apply their newfound coding skills to asking an interesting question.
-A 2021 Club learner shared, "I plan to go to college for Computer Science and get a robotics minor when my college offers it. GWC has inspired me to consider pursuing a Masters or PhD in CS as well as take some electives in Data Science.” Five of our 86 alumni have gone on to perform research with U-M faculty members, with one presenting her work at an international conference. 
-In fact, about a third of participants claim that they are now more interested in
-pursuing a career in computer or data science compared to before their Girls Who
-Code experience.
+A 2021 Club learner shared, "I plan to go to college for Computer Science and
+get a robotics minor when my college offers it.
+GWC has inspired me to consider pursuing a Masters or PhD in CS as well as take
+some electives in Data Science.”
+Five of our 86 alumni have gone on to perform research with U-M faculty members,
+with one presenting her work at an international conference.
+In fact, about a third of participants claim that they are now more interested
+in pursuing a career in computer or data science compared to before their Girls
+Who Code experience.
 
 # Acknowledgements
 
