@@ -1,0 +1,93 @@
+---
+title: 'Teaching Python for Data Science: Collaborative development of a modular & interactive curriculum'
+tags:
+  - Data Science
+  - Python
+  - Jupyter
+  - Girls Who Code
+author:
+  - Marlena Duda:
+        orcid: 0000-0003-2369-2225
+        institute: 1
+  - Kelly L. Sovacool:
+        orcid: 0000-0003-3283-829X
+        institute: 1
+  - Negar Farzaneh:
+        orcid: 0000-0003-1200-5274
+        institute: [1, 11]
+  - Vy Kim Nguyen:
+        orcid: 0000-0002-6128-0523
+        institute: [1, 8]
+  - Sarah E. Haynes:
+        orcid: 0000-0003-3225-1691
+        institute: 6
+  - Hayley Falk:
+        orcid: 0000-0002-5198-1836
+        institute: 1
+  - Katherine L. Furman:
+        orcid: 0000-0002-0340-4292
+        institute: [3, 4]
+  - Logan A. Walker:
+        orcid: 0000-0002-5378-3315
+        institute: [5, 1]
+  - Rucheng Diao:
+        orcid: 0000-0002-2932-6755
+        institute: 1
+  - Morgan Oneka:
+        orcid: 0000-0002-9672-0445
+        institute: 1
+  - Audrey C. Drotos:
+        orcid: 0000-0001-5035-9319
+        institute: 10
+  - Alana Woloshin:
+        orcid: 0000-0002-5224-4221
+        institute: 7
+  - Gabrielle A. Dotson:
+        orcid: 0000-0001-6624-5332
+        institute: 1
+  - April Kriebel:
+        orcid: 0000-0003-0008-9044
+        institute: 1
+  - Lucy Meng:
+        orcid: 0000-0002-9363-1308
+        institute: 9
+  - Stephanie N. Thiede:
+        orcid: 0000-0003-0173-4324
+        institute: 2
+  - Zena Lapp:
+        orcid: 0000-0003-4674-2176
+        institute: 1
+        correspondence: "yes"
+        email: zenalapp@umich.edu
+  - Brooke N. Wolford:
+        orcid: 0000-0003-3153-1552
+        institute: 1
+        correspondence: "yes"
+        email: bwolford@umich.edu
+institute:
+  - 1:
+      name: Department of Computational Medicine & Bioinformatics, University of Michigan
+  - 2:
+      name: Department of Microbiology & Immunology, University of Michigan
+  - 3:
+      name: Neuroscience Graduate Program, University of Michigan
+  - 4:
+      name: Michigan Neuroscience Institute, University of Michigan
+  - 5:
+      name: Biophysics Graduate Program, University of Michigan
+  - 6:
+      name: Department of Pathology, University of Michigan
+  - 7:
+      name: School of Information, University of Michigan
+  - 8:
+      name: Department of Environmental Health Sciences, University of Michigan
+  - 9:
+      name: Department of Electrical Engineering & Computer Sciences, University of California, Berkeley
+  - 10:
+      name: Kresge Hearing Research Institute, Department of Otolaryngology–Head and Neck Surgery, University of Michigan
+  - 11:
+      name: Michigan Center for Integrative Research in Critical Care, University of Michigan
+date: 30 Apr. 2021
+bibliography: paper.bib
+link-citations: true
+---

@@ -89,7 +89,6 @@ bibliography: paper.bib
 
 # Summary
 
-<!-- pasted from our PyCon 2020 talk proposal -->
 We are bioinformatics trainees at the University of Michigan who started a
 local chapter of Girls Who Code to provide a fun and supportive environment for
 high school women to learn the power of coding.
@@ -285,7 +284,6 @@ skill as they learn it in the lessons; including importing and cleaning data,
 data visualization, and basic statistical analyses.
 
 ## Instructional Design
-<!-- teaching philosophy / pedagogy -->
 
 We modeled our instructional design in the style of Software Carpentry [@wilson_software_2016].
 
