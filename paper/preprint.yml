@@ -89,5 +89,6 @@ institute:
       name: Michigan Center for Integrative Research in Critical Care, University of Michigan
 date: 30 Apr. 2021
 bibliography: paper.bib
+csl: apa.csl
 link-citations: true
 ---
