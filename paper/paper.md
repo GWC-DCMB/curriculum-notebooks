@@ -201,8 +201,9 @@ We divided the content by topic into Jupyter notebooks for each lesson, with
 each lesson taking approximately 15-20 minutes to teach via live coding.
 Every lesson has a corresponding practice notebook with additional exercises on
 the same content taught in the lesson, but using different data or variables.
-We hosted the curriculum notebooks in a public GitHub repository to facilitate
-collaborative development and peer review using pull requests.
+We used a similar development workflow as the U-M Carpentries curriculum [@lapp_developing_2021].
+Briefly, we hosted the curriculum notebooks in a public GitHub repository to
+facilitate collaborative development and peer review using pull requests.
 In the initial curriculum drafting phase, developers were assigned lesson and
 practice notebooks to write.
 Once the draft of a lesson was completed, the writer opened a pull request and
@@ -211,7 +212,7 @@ The reviewer then provided feedback and approved the pull request to be merged
 into the main branch after the writer made any requested changes.
 This way, more than one person viewed each notebook before it could be
 incorporated into the public curriculum, which reduced mistakes and ensured
-higher quality content. <!-- TODO: cite U-M Carpentries paper for the development model once it's submitted to bioRxiv?-->
+higher quality content.
 While teaching from the curriculum at the first Data Science Summer Experience,
 instructors took notes on their experience and made revisions afterward.
 Maintainers continue to monitor the repository and resolve issues as they arise.
