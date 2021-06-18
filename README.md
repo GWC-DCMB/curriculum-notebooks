@@ -1,7 +1,7 @@
 # curriculum-notebooks
 
-[![build](https://github.com/GWC-DCMB/curriculum-notebooks/workflows/build/badge.svg)](https://github.com/GWC-DCMB/ClubCurriculum/actions)
-[![check](https://github.com/GWC-DCMB/curriculum-notebooks/workflows/check/badge.svg)](https://github.com/GWC-DCMB/ClubCurriculum/actions)
+[![build](https://github.com/GWC-DCMB/curriculum-notebooks/workflows/build/badge.svg)](https://github.com/GWC-DCMB/curriculum-notebooks/actions)
+[![check](https://github.com/GWC-DCMB/curriculum-notebooks/workflows/check/badge.svg)](https://github.com/GWC-DCMB/curriculum-notebooks/actions)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 [![doi](http://img.shields.io/badge/DOI-bioRxiv%3A10.1101/2021.06.17.448726-B31B1B.svg)](doi.org/10.1101/2021.06.17.448726)
 
