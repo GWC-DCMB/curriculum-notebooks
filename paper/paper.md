@@ -270,7 +270,7 @@ the concept via live coding, and a practice notebook containing similar
 exercises for the student to complete on their own following the lesson.
 
 ![**Our lesson modules.** All Jupyter notebooks are available on
-[GitHub](https://github.com/GWC-DCMB/curriculum-notebooks).](lesson-modules.png)
+GitHub (https://github.com/GWC-DCMB/curriculum-notebooks).](lesson-modules.png)
 
 Each lesson builds on those before it, beginning with relevant content reminders
 from the previous lessons and ending with a concise summary of the skills
