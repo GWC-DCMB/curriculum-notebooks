@@ -3,7 +3,7 @@
 [![build](https://github.com/GWC-DCMB/curriculum-notebooks/workflows/build/badge.svg)](https://github.com/GWC-DCMB/curriculum-notebooks/actions)
 [![check](https://github.com/GWC-DCMB/curriculum-notebooks/workflows/check/badge.svg)](https://github.com/GWC-DCMB/curriculum-notebooks/actions)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-[![doi](http://img.shields.io/badge/DOI-bioRxiv%3A10.1101/2021.06.17.448726-B31B1B.svg)](doi.org/10.1101/2021.06.17.448726)
+[![doi](http://img.shields.io/badge/DOI-bioRxiv%3A10.1101/2021.06.17.448726-B31B1B.svg)](https://doi.org/10.1101/2021.06.17.448726)
 
 Our Club and Summer Experience formats cover slightly different topics with significant overlap.
 This repo contains all of the Jupyter notebooks used in either or both of them.
