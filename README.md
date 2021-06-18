@@ -69,8 +69,9 @@ Take a look at the [Lesson](Lessons/_Keys/pdf) & [Practice](Practices/_Keys/pdf)
 ## Citation
 
 We have written a manuscript describing our curriculum and the development
-process. It is now available on bioRxiv. If you would like to cite our work,
-please use:
+process. It is now available [on
+bioRxiv](https://doi.org/10.1101/2021.06.17.448726). If you would like to cite
+our work, please use:
 
 ```
 Duda et al., (2021). Teaching Python for Data Science: Collaborative development
