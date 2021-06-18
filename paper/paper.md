@@ -269,7 +269,8 @@ Each lesson consists of a lesson notebook, used for teaching
 the concept via live coding, and a practice notebook containing similar
 exercises for the student to complete on their own following the lesson.
 
-![Our lesson modules.](lesson-modules.png)
+![**Our lesson modules.** All Jupyter notebooks are available on
+[GitHub](https://github.com/GWC-DCMB/curriculum-notebooks).](lesson-modules.png)
 
 Each lesson builds on those before it, beginning with relevant content reminders
 from the previous lessons and ending with a concise summary of the skills
@@ -391,13 +392,17 @@ successful women in STEM.
 ### Learner experiences
 
 We surveyed learners anonymously after each Club and Summer Experience and found
-that they all felt their skills in Python programming,
-problem solving, critical thinking, and collaboration had improved.
+that most felt that their skills in Python programming, problem solving,
+critical thinking, and collaboration had improved (see Figure 2).
 Furthermore, for the 2019 instance of Club we asked that all participants take a
 pre-test and a post-test comprising Python coding questions.
 While only five participants recorded their post-test, all of them answered more
 questions correctly on the post-test than the pre-test (range 1-8 more questions
 correct out of 11).
+
+![**Post-survey responses.** Students were asked if they felt that their
+skills in Python programming, problem solving, critical thinking, and
+collaboration had improved.](skill_plots.png)
 
 On a 10 question skills assessment, the average increase in correct answers
 between the first 2019 club meeting and the last 2020 club meeting was 4.2 with
