@@ -83,13 +83,15 @@ A bibtex entry for LaTeX users:
 
 ```
 @article{duda_teaching_2021,
-	title = {Teaching Python for Data Science: Collaborative development of a modular \&amp; interactive curriculum},
-	author = {Duda, Marlena and Sovacool, Kelly L. and Farzaneh, Negar and Nguyen, Vy Kim and Haynes, Sarah E. and Falk, Hayley and Furman, Katherine L. and Walker, Logan A. and Diao, Rucheng and Oneka, Morgan and Drotos, Audrey C. and Woloshin, Alana and Dotson, Gabrielle A. and Kriebel, April and Meng, Lucy and Thiede, Stephanie N. and Lapp, Zena and Wolford, Brooke N.},
-	year = {2021},
-	publisher = {Cold Spring Harbor Laboratory},
-    journal = {bioRxiv},
-	elocation-id = {2021.06.17.448726},
-	url = {https://www.biorxiv.org/content/10.1101/2021.06.17.448726v1},
-	doi = {10.1101/2021.06.17.448726}
+  title = {Teaching {{Python}} for {{Data Science}}: {{Collaborative}} Development of a Modular \& Interactive Curriculum},
+  shorttitle = {Teaching {{Python}} for {{Data Science}}},
+  author = {Duda, Marlena and Sovacool, Kelly L. and Farzaneh, Negar and Nguyen, Vy Kim and Haynes, Sarah E. and Falk, Hayley and Furman, Katherine L. and Walker, Logan A. and Diao, Rucheng and Oneka, Morgan and Drotos, Audrey C. and Woloshin, Alana and Dotson, Gabrielle A. and Kriebel, April and Meng, Lucy and Thiede, Stephanie N. and Lapp, Zena and Wolford, Brooke N.},
+  year = {2021},
+  month = jun,
+  publisher = {{Cold Spring Harbor Laboratory}},
+  doi = {10.1101/2021.06.17.448726},
+  url = {https://doi.org/10.1101/2021.06.17.448726},
+  journal = {bioRxiv},
+  language = {en}
 }
 ```
