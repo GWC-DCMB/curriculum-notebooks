@@ -457,7 +457,7 @@ Vivek Rai, Hillary Miller, Ashton Baker, Murchtricia Jones, Lauren Jepsen,
 Aubrey Annis, Awanti Sambarey, Mengtong Hu, Maribel Okiye, Yingxiao Zhang, and
 Neslihan Bisgin.
 
-We are grateful for the funding and other support provided to our
+We are grateful for the funding, assistance, and other support provided to our
 student organization from the following sponsors:
 the U-M Department of Computational Medicine and Bioinformatics,
 the U-M Department of Biostatistics,
