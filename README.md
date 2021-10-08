@@ -66,6 +66,19 @@ Take a look at the [Lesson](Lessons/_Keys/pdf) & [Practice](Practices/_Keys/pdf)
 | 26 | https://youtu.be/pFTh8bfezVw | [Lesson26 Scatterplots](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Lessons/Lesson26_Scatterplots.ipynb) | [Practice26 Scatterplots](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Practices/Practice26_Scatterplots.ipynb) |
 | 27 | https://youtu.be/p7EsFg0aMRs | [Lesson27 Bar Charts and Histograms](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Lessons/Lesson27_BarCharts_Histograms.ipynb) | [Practice27 Bar Charts and Histograms](https://colab.research.google.com/github/GWC-DCMB/curriculum-notebooks/blob/master/Practices/Practice27_BarCharts_Histograms.ipynb) |
 
+## Help & Contributing
+
+If you come across a bug, open an [issue](https://github.com/GWC-DCMB/curriculum-notebooks/issues)
+and include a minimal reproducible example.
+
+If you’d like to contribute, see our [guidelines](.github/CONTRIBUTING.md).
+
+## Code of Conduct
+
+Please note that this curriculum is released with a
+[Contributor Code of Conduct](.github/CODE_OF_CONDUCT.MD).
+By contributing to this project, you agree to abide by its terms.
+
 ## Citation
 
 We have written a manuscript describing our curriculum and the development
