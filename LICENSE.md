@@ -47,9 +47,11 @@ Notices:
 ## Software
 
 Except where otherwise noted, the example programs and other software
-provided by Girls Who Code at UM-DCMB are made available under the
+provided by Girls Who Code at U-M DCMB are made available under the
 [OSI][osi]-approved
 [MIT license][mit-license].
+
+Copyright 2019-2021 Girls Who Code at U-M DCMB.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
