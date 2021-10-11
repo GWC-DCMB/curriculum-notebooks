@@ -247,15 +247,14 @@ classroom approaches.
 
 ## Learning Objectives
 
-Our learning objectives are:
+The learning objectives of this curriculum are:
 
-1. Understand fundamental concepts and best practices in coding.
-2. Apply data analysis to real world data to answer scientific questions.
-3. Create informative summary statistics and data visualizations in Python.
+1. Write code in Python with correct syntax and following best practices.
+2. Implement fundamental programming concepts when presented with a programmatic problem set.
+3. Apply data analysis to real world data to answer scientific questions.
+4. Create informative summary statistics and data visualizations in Python.
 
-These skills provide a solid foundation for basic data analysis in Python and
-participation in our program exposes students to the many ways coding and
-data science can be used to make large impacts across many disciplines.
+These skills provide a solid foundation for basic data analysis in Python. Participation in our program exposes students to the many ways coding and data science can is impactful across many disciplines.
 
 ## Course Content
 
