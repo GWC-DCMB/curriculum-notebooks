@@ -247,15 +247,14 @@ classroom approaches.
 
 ## Learning Objectives
 
-Our learning objectives are:
+The learning objectives of this curriculum are:
 
-1. Understand fundamental concepts and best practices in coding.
-2. Apply data analysis to real world data to answer scientific questions.
-3. Create informative summary statistics and data visualizations in Python.
+1. Write code in Python with correct syntax and following best practices.
+2. Implement fundamental programming concepts when presented with a programmatic problem set.
+3. Apply data analysis to real world data to answer scientific questions.
+4. Create informative summary statistics and data visualizations in Python.
 
-These skills provide a solid foundation for basic data analysis in Python and
-participation in our program exposes students to the many ways coding and
-data science can be used to make large impacts across many disciplines.
+These skills provide a solid foundation for basic data analysis in Python. Participation in our program exposes students to the many ways coding and data science can is impactful across many disciplines.
 
 ## Course Content
 
@@ -319,7 +318,7 @@ science.
 For both in-person and virtual instruction, once students have completed the
 Fundamentals module and reach the Data Science Essentials module they begin
 simultaneous work on their data science projects.
-Projects are completed in a paired programming style, where partners take turns
+Projects are completed in a pair programming style, where partners take turns
 assuming the “driver” (i.e. the typer) and “navigator” (i.e. the helper) roles
 [@hannay_effectiveness_2009].
 Switching off in this way helps both partners assume equal responsibility for
@@ -378,7 +377,7 @@ browser.
 1. Assigning facilitators to groups allowed learners to build a more personal
 connection with their facilitators, making them feel more comfortable asking
 questions.
-1. Group projects were performed using paired programming to allow learners to
+1. Group projects were performed using pair programming to allow learners to
 collaborate and learn from each other.
 1. We used the "sticky note" system from The Carpentries by which learners can
 ask for help by putting up a colored sticky note (or a Zoom emoji in the case of
