@@ -319,7 +319,7 @@ science.
 For both in-person and virtual instruction, once students have completed the
 Fundamentals module and reach the Data Science Essentials module they begin
 simultaneous work on their data science projects.
-Projects are completed in a paired programming style, where partners take turns
+Projects are completed in a pair programming style, where partners take turns
 assuming the “driver” (i.e. the typer) and “navigator” (i.e. the helper) roles
 [@hannay_effectiveness_2009].
 Switching off in this way helps both partners assume equal responsibility for
@@ -378,7 +378,7 @@ browser.
 1. Assigning facilitators to groups allowed learners to build a more personal
 connection with their facilitators, making them feel more comfortable asking
 questions.
-1. Group projects were performed using paired programming to allow learners to
+1. Group projects were performed using pair programming to allow learners to
 collaborate and learn from each other.
 1. We used the "sticky note" system from The Carpentries by which learners can
 ask for help by putting up a colored sticky note (or a Zoom emoji in the case of
