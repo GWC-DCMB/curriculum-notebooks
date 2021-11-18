@@ -230,9 +230,6 @@ teaching.
 This format allowed students to learn at their own pace, then ask questions and
 practice when we met together virtually.
 
-Our Jupyter notebooks and links to the lesson videos can be accessed on GitHub:
-https://github.com/GWC-DCMB/curriculum-notebooks
-
 # Curriculum
 
 Our curriculum was designed for high school students with no prior coding
