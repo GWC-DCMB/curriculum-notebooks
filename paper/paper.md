@@ -104,7 +104,7 @@ culminates in a data science capstone project using real-world data.
 We believe our open curriculum is a valuable resource to the wider education
 community and hope that educators will use and improve our lessons, practice
 problems, and teaching best practices.
-Anyone can contribute to our educational materials [on
+Anyone can contribute to our Open Educational Resources [on
 GitHub](https://github.com/GWC-DCMB).
 
 
