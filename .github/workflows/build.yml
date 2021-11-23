@@ -1,6 +1,14 @@
 name: build
 
 on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - Lessons/*.ipynb
+      - Lessons/_Keys/*.ipynb
+      - Practices/*.ipynb
+      - Practices/_Keys/*.ipynb
   push:
     branches:
       - main
