@@ -104,7 +104,7 @@ culminates in a data science capstone project using real-world data.
 We believe our open curriculum is a valuable resource to the wider education
 community and hope that educators will use and improve our lessons, practice
 problems, and teaching best practices.
-Anyone can contribute to our educational materials [on
+Anyone can contribute to our Open Educational Resources [on
 GitHub](https://github.com/GWC-DCMB).
 
 
@@ -229,9 +229,6 @@ Each video shows the Jupyter notebook alongside the facilitator themselves
 teaching.
 This format allowed students to learn at their own pace, then ask questions and
 practice when we met together virtually.
-
-Our Jupyter notebooks and links to the lesson videos can be accessed on GitHub:
-https://github.com/GWC-DCMB/curriculum-notebooks
 
 # Curriculum
 

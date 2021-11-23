@@ -4,7 +4,7 @@ This file was adapted from the [Software Carpentry License file](https://github.
 
 ## Instructional Material
 
-All instructional material is
+All instructional materials and videos are
 made available under the [Creative Commons Attribution
 license][cc-by-human]. The following is a human-readable summary of
 (and not a substitute for) the [full legal text of the CC BY 4.0
