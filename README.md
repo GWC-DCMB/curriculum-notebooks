@@ -2,7 +2,7 @@
 
 [![build](https://github.com/GWC-DCMB/curriculum-notebooks/workflows/build/badge.svg)](https://github.com/GWC-DCMB/curriculum-notebooks/actions)
 [![check](https://github.com/GWC-DCMB/curriculum-notebooks/workflows/check/badge.svg)](https://github.com/GWC-DCMB/curriculum-notebooks/actions)
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+[![license](https://img.shields.io/badge/License-MIT%2BCC--BY-8F00FF)](LICENSE.md)
 [![doi](http://img.shields.io/badge/DOI-10.1101/2021.06.17.448726-B31B1B.svg)](https://doi.org/10.1101/2021.06.17.448726)
 
 Our Club and Summer Experience formats cover slightly different topics with significant overlap.
