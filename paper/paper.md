@@ -367,7 +367,7 @@ project:
 1. The instructors and learners used [Google Colaboratory
 (Colab)](https://colab.research.google.com/) to write and execute code in
 Jupyter notebooks. We chose this option because learners do not have to install
-any programs to use Google Colab, and you can easily open and edit the Jupyter
+any programs to use Google Colab and can easily open and edit the Jupyter
 notebooks from GitHub.  When meeting in person, most learners use Google
 Chromebooks which have limited programming capabilities, but easy use of a web
 browser.
