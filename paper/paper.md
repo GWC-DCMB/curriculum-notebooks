@@ -251,7 +251,7 @@ The learning objectives of this curriculum are:
 3. Apply data analysis to real world data to answer scientific questions.
 4. Create informative summary statistics and data visualizations in Python.
 
-These skills provide a solid foundation for basic data analysis in Python. Participation in our program exposes students to the many ways coding and data science can is impactful across many disciplines.
+These skills provide a solid foundation for basic data analysis in Python. Participation in our program exposes students to the many ways coding and data science can be impactful across many disciplines.
 
 ## Course Content
 
