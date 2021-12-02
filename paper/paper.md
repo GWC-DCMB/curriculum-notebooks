@@ -251,7 +251,7 @@ The learning objectives of this curriculum are:
 3. Apply data analysis to real world data to answer scientific questions.
 4. Create informative summary statistics and data visualizations in Python.
 
-These skills provide a solid foundation for basic data analysis in Python. Participation in our program exposes students to the many ways coding and data science can is impactful across many disciplines.
+These skills provide a solid foundation for basic data analysis in Python. Participation in our program exposes students to the many ways coding and data science can be impactful across many disciplines.
 
 ## Course Content
 
@@ -367,7 +367,7 @@ project:
 1. The instructors and learners used [Google Colaboratory
 (Colab)](https://colab.research.google.com/) to write and execute code in
 Jupyter notebooks. We chose this option because learners do not have to install
-any programs to use Google Colab, and you can easily open and edit the Jupyter
+any programs to use Google Colab and can easily open and edit the Jupyter
 notebooks from GitHub.  When meeting in person, most learners use Google
 Chromebooks which have limited programming capabilities, but easy use of a web
 browser.
