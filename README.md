@@ -70,7 +70,7 @@ Take a look at the [Lesson](Lessons/_Keys/pdf) & [Practice](Practices/_Keys/pdf)
 
 If you need help getting started or using the material, 
 feel free to open an [issue](https://github.com/GWC-DCMB/curriculum-notebooks/issues)
-or [send us an email](gwc.bioinfo-requests@umich.edu)
+or [send us an email](mailto:gwc.bioinfo-requests@umich.edu)
 and we'll be happy to help!
 
 If you come across a bug, open an [issue](https://github.com/GWC-DCMB/curriculum-notebooks/issues)
