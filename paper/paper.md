@@ -6,10 +6,10 @@ tags:
   - Jupyter
   - Girls Who Code
 authors:
-  - name: Marlena Duda
+  - name: Marlena Duda^[first author]
     orcid: 0000-0003-2369-2225
     affiliation: 1
-  - name: Kelly L. Sovacool
+  - name: Kelly L. Sovacool^[first author]
     orcid: 0000-0003-3283-829X
     affiliation: 1
   - name: Negar Farzaneh
