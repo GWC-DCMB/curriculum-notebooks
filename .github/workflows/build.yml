@@ -39,19 +39,11 @@ jobs:
         python .github/clean_colab_metadata.py Lessons/*.ipynb Lessons/_Keys/*.ipynb Practices/*.ipynb Practices/_Keys/*.ipynb
         git add Lessons/ Practices/
         git commit -m "🧹 Clean colab metadata" --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" || echo "No changes to commit"
-    - name: Push ipynb changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.head_ref }}
-    - name: Compile PDFs
-      run: |
-        jupyter nbconvert --to pdf --output-dir=Lessons/_Keys/pdf Lessons/_Keys/*.ipynb
-        jupyter nbconvert --to pdf --output-dir=Practices/_Keys/pdf Practices/_Keys/*.ipynb
-        git add Lessons/ Practices/
-        git commit -m "📄 Compile PDFs" --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" || echo "No changes to commit"
-    - name: Push pdf changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.head_ref }}
+        git push
+#    - name: Compile PDFs
+#      run: |
+#        jupyter nbconvert --to pdf --output-dir=Lessons/_Keys/pdf Lessons/_Keys/*.ipynb
+#        jupyter nbconvert --to pdf --output-dir=Practices/_Keys/pdf Practices/_Keys/*.ipynb
+#        git add Lessons/ Practices/
+#        git commit -m "📄 Compile PDFs" --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" || echo "No changes to commit"
+#        git push
