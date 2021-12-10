@@ -20,37 +20,42 @@ jobs:
         python-version: [3.7]
 
     steps:
-    - uses: actions/checkout@v2
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
 
-    - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v1
-      with:
-        python-version: ${{ matrix.python-version }}
-        
-    - name: Install dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install texlive-xetex pandoc
-        pip install jupyter nbconvert
-        
-    - name: Configure git
-      run: |
-        git config --local user.email "noreply@github.com"
-        git config --local user.name "GitHub"
-        
-    - name: Clean colab metadata
-      run: |
-        python .github/clean_colab_metadata.py Lessons/*.ipynb Lessons/_Keys/*.ipynb Practices/*.ipynb Practices/_Keys/*.ipynb
-        git add Lessons/ Practices/
-        git commit -m "🧹 Clean colab metadata" --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" || echo "No changes to commit"
-        
-    - name: Compile PDFs
-      run: |
-        jupyter nbconvert --to pdf --output-dir=Lessons/_Keys/pdf Lessons/_Keys/*.ipynb
-        jupyter nbconvert --to pdf --output-dir=Practices/_Keys/pdf Practices/_Keys/*.ipynb
-        git add Lessons/ Practices/
-        git commit -m "📄 Compile PDFs" --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" || echo "No changes to commit"
-        
-    - name: Push changes
-      run: |
-        git push
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v1
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install texlive-xetex pandoc
+          pip install jupyter nbconvert
+
+      - name: Configure git
+        run: |
+          git config --local user.email "noreply@github.com"
+          git config --local user.name "GitHub"
+
+      - name: Clean colab metadata
+        run: |
+          python .github/clean_colab_metadata.py Lessons/*.ipynb Lessons/_Keys/*.ipynb Practices/*.ipynb Practices/_Keys/*.ipynb
+          git add Lessons/ Practices/
+          git commit -m "🧹 Clean colab metadata" --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" || echo "No changes to commit"
+
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.head_ref }}
+
+#    - name: Compile PDFs
+#      run: |
+#        jupyter nbconvert --to pdf --output-dir=Lessons/_Keys/pdf Lessons/_Keys/*.ipynb
+#        jupyter nbconvert --to pdf --output-dir=Practices/_Keys/pdf Practices/_Keys/*.ipynb
+#        git add Lessons/ Practices/
+#        git commit -m "📄 Compile PDFs" --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" || echo "No changes to commit"
