@@ -89,23 +89,22 @@ By contributing to this project, you agree to abide by its terms.
 If you would like to cite our work, please use:
 
 ```
-Duda et al., (2021). Teaching Python for Data Science: Collaborative development
-of a modular & interactive curriculum. Journal of Open Source Education.
-https://doi.org/10.21105/jose.00138
+Duda et al., (2021). Teaching Python for Data Science: Collaborative development of a modular &amp; interactive curriculum. Journal of Open Source Education, 4(46), 138, https://doi.org/10.21105/jose.00138
 ``` 
 
 A bibtex entry for LaTeX users:
 
 ```
 @article{duda_teaching_2021,
-  title = {Teaching {{Python}} for {{Data Science}}: {{Collaborative}} Development of a Modular \& Interactive Curriculum},
-  shorttitle = {Teaching {{Python}} for {{Data Science}}},
-  author = {Duda, Marlena and Sovacool, Kelly L. and Farzaneh, Negar and Nguyen, Vy Kim and Haynes, Sarah E. and Falk, Hayley and Furman, Katherine L. and Walker, Logan A. and Diao, Rucheng and Oneka, Morgan and Drotos, Audrey C. and Woloshin, Alana and Dotson, Gabrielle A. and Kriebel, April and Meng, Lucy and Thiede, Stephanie N. and Lapp, Zena and Wolford, Brooke N.},
-  year = {2021},
-  month = {dec},
   doi = {10.21105/jose.00138},
-  url = {hhttps://doi.org/10.21105/jose.00138},
-  journal = {JOSE},
-  language = {en}
+  url = {https://doi.org/10.21105/jose.00138},
+  year = {2021},
+  publisher = {The Open Journal},
+  volume = {4},
+  number = {46},
+  pages = {138},
+  author = {Marlena Duda and Kelly Sovacool and Negar Farzaneh and Vy Nguyen and Sarah Haynes and Hayley Falk and Katherine Furman and Logan Walker and Rucheng Diao and Morgan Oneka and Audrey Drotos and Alana Woloshin and Gabrielle Dotson and April Kriebel and Lucy Meng and Stephanie Thiede and Zena Lapp and Brooke Wolford},
+  title = {Teaching Python for Data Science: Collaborative development of a modular &amp; interactive curriculum},
+  journal = {Journal of Open Source Education}
 }
 ```
