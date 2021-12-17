@@ -3,7 +3,7 @@
 [![build](https://github.com/GWC-DCMB/curriculum-notebooks/workflows/build/badge.svg)](https://github.com/GWC-DCMB/curriculum-notebooks/actions)
 [![check](https://github.com/GWC-DCMB/curriculum-notebooks/workflows/check/badge.svg)](https://github.com/GWC-DCMB/curriculum-notebooks/actions)
 [![license](https://img.shields.io/badge/License-MIT%2BCC--BY-8F00FF)](LICENSE.md)
-[![doi](http://img.shields.io/badge/DOI-10.1101/2021.06.17.448726-B31B1B.svg)](https://doi.org/10.1101/2021.06.17.448726)
+[![DOI](https://jose.theoj.org/papers/10.21105/jose.00138/status.svg)](https://doi.org/10.21105/jose.00138)
 
 Our Club and Summer Experience formats cover slightly different topics with significant overlap.
 This repo contains all of the Jupyter notebooks used in either or both of them.
@@ -86,16 +86,13 @@ By contributing to this project, you agree to abide by its terms.
 
 ## Citation
 
-We have written a manuscript describing our curriculum and the development
-process. It is now available [on
-bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.17.448726). If you
-would like to cite our work, please use:
+If you would like to cite our work, please use:
 
 ```
 Duda et al., (2021). Teaching Python for Data Science: Collaborative development
-of a modular & interactive curriculum. bioRxiv.
-https://doi.org/10.1101/2021.06.17.448726
-```
+of a modular & interactive curriculum. Journal of Open Source Education.
+https://doi.org/10.21105/jose.00138
+``` 
 
 A bibtex entry for LaTeX users:
 
@@ -105,11 +102,10 @@ A bibtex entry for LaTeX users:
   shorttitle = {Teaching {{Python}} for {{Data Science}}},
   author = {Duda, Marlena and Sovacool, Kelly L. and Farzaneh, Negar and Nguyen, Vy Kim and Haynes, Sarah E. and Falk, Hayley and Furman, Katherine L. and Walker, Logan A. and Diao, Rucheng and Oneka, Morgan and Drotos, Audrey C. and Woloshin, Alana and Dotson, Gabrielle A. and Kriebel, April and Meng, Lucy and Thiede, Stephanie N. and Lapp, Zena and Wolford, Brooke N.},
   year = {2021},
-  month = jun,
-  publisher = {{Cold Spring Harbor Laboratory}},
-  doi = {10.1101/2021.06.17.448726},
-  url = {https://doi.org/10.1101/2021.06.17.448726},
-  journal = {bioRxiv},
+  month = {dec},
+  doi = {10.21105/jose.00138},
+  url = {hhttps://doi.org/10.21105/jose.00138},
+  journal = {JOSE},
   language = {en}
 }
 ```
