@@ -372,13 +372,6 @@ more confident in myself.’
 skills in Python programming, problem solving, critical thinking, and
 collaboration had improved.](skill_plots.png)
 
-We also surveyed Club and Summer Experience alumni and found that 75% (N=20) want to pursue a STEM career. 62% (N=21) are still coding.
-On a 5-point scale from 'Strongly Disagree' to 'Strongly Agree,' the average
-answer for ‘My participation in GWC impacted my career aspirations’ is 4
-(s.d.=0.9), with 4.5 (s.d.=0.6) for ‘Participating in GWC made me feel more
-confident in analyzing data’ and 3.9 (s.d.=1) for ‘Participating in GWC made me
-more confident in myself.’
-
 Overwhelmingly, learners' favorite parts of the program are the guest speakers
 and the project.
 These aspects of our curriculum expose them to new fields and allow them to
