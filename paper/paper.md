@@ -361,6 +361,12 @@ We surveyed learners anonymously after each Club and Summer Experience and found
 that most felt that their skills in Python programming, problem solving,
 critical thinking, and collaboration had improved (Figure 2).
 Furthermore, on a 10 question skills assessment during the 2019-2020 instance of the Club, the average increase in correct answers between the first meeting and the last meeting was 4.2 with a standard deviation of 2.8 (N=5 respondents).
+We also surveyed Club and Summer Experience alumni and found that 75% (N=20) want to pursue a STEM career. 62% (N=21) are still coding.
+On a 5-point scale from 'Strongly Disagree' to 'Strongly Agree,' the average
+answer for ‘My participation in GWC impacted my career aspirations’ is 4
+(s.d.=0.9), with 4.5 (s.d.=0.6) for ‘Participating in GWC made me feel more
+confident in analyzing data’ and 3.9 (s.d.=1) for ‘Participating in GWC made me
+more confident in myself.’
 
 ![**Post-survey responses.** Learners were asked if they felt that their
 skills in Python programming, problem solving, critical thinking, and
