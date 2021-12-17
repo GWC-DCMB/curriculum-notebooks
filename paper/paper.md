@@ -134,7 +134,7 @@ negatively influence their math and science performance and deter them from
 pursuing STEM as a career [@hill_why_2010].
 The majority of our organization's founding graduate students (all women) began
 coding in our undergraduate careers or later.
-We wanted to provide a safe environment for local high school women to develop
+We wanted to provide a safe place for local high school women to develop
 confidence in themselves and their computational skills before college, and be
 exposed to successful women role models in STEM to counter negative stereotypes.
 
@@ -167,9 +167,9 @@ Data Scientist was rated the #1 job in America by Glassdoor in 2016-2019, #3 in
 Furthermore, Python is the most popular programming language according to the
 PYPL PopularitY of Programming Language Index [@noauthor_pypl_nodate].
 Therefore, we believe career exploration in data science using the Python
-programming language will optimally prepare our learners for careers that
+programming language will optimally prepare our students for careers that
 provide financial stability and upward economic mobility.
-By leveraging the data science expertise of our Club facilitators (hereafter termed instructors), we created a
+By leveraging the data science expertise of our Club facilitators, we created a
 specialized curriculum focused on computational data science in the Python
 programming language.
 
@@ -177,10 +177,11 @@ Girls Who Code encourages participants to learn programming skills while working
 on an Impact Project website or application throughout the Club
 [@hq_gallery_2021].
 We created an open source Data Science curriculum that teaches the requisite
-Python and statistics skills to complete a Capstone Project, where learners
+Python and statistics skills to complete a Capstone Project, where students
 explore, analyze, and present a data set of their choosing.
-Using this curriculum, we employ participatory live coding, where learners type and run code along with the
-instructor in real time.
+Using this curriculum, we employ participatory live coding as used by The
+Carpentries, which is an effective method that engages learners
+[@wilson_software_2016; @nederbragt_ten_2020].
 Using paired activities, our curriculum follows the "I do, we do, you do"
 didactic paradigm [@fisher_better_2013].
 We provide open source resources for both in-person and virtual versions of our
@@ -192,8 +193,8 @@ coding for data science.
 # Collaborative Curriculum Development
 
 We assembled a team of volunteers involved in our club to develop a custom
-curriculum to teach introductory Python for data science.
-We chose the content based on what our learners would need to learn
+curriculum to teach introductory Python for data science via live coding.
+We chose the content based on what our students would need to learn
 to complete a small data analysis project and communicate their findings
 to their peers.
 We divided the content by topic into Jupyter notebooks for each lesson, with
@@ -220,7 +221,14 @@ Following the onset of the COVID-19 pandemic, we quickly pivoted our club to a
 virtual format.
 In preparation for the 2020 Summer Experience, we switched to a flipped
 classroom style following feedback from our club participants that it was too
-difficult to follow along live coding via Zoom (see (##Instructional Design)).
+difficult to follow along live coding via Zoom.
+We recorded facilitators teaching the lesson notebooks as if they were live
+coding, then shared them along with a link to the lesson notebooks for students
+to code along with while watching the videos.
+Each video shows the Jupyter notebook alongside the facilitator themselves
+teaching.
+This format allowed students to learn at their own pace, then ask questions and
+practice when we met together virtually.
 
 # Curriculum
 
@@ -243,7 +251,7 @@ The learning objectives of this curriculum are:
 3. Apply data analysis to real world data to answer scientific questions.
 4. Create informative summary statistics and data visualizations in Python.
 
-These skills provide a solid foundation for basic data analysis in Python. Participation in our program exposes learners to the many ways coding and data science can be impactful across many disciplines.
+These skills provide a solid foundation for basic data analysis in Python. Participation in our program exposes students to the many ways coding and data science can be impactful across many disciplines.
 
 ## Course Content
 
@@ -253,8 +261,9 @@ Jupyter notebook setup, Python coding fundamentals, use of essential data
 science packages including pandas and numpy, basic statistical analyses, and
 plotting using seaborn and matplotlib (Figure 1) [@harris_array_2020;
 @waskom_seaborn_2021; @hunter_matplotlib_2007].
-Each lesson consists of a lesson notebook and a practice notebook containing similar
-exercises for the learner to complete on their own following the lesson.
+Each lesson consists of a lesson notebook, used for teaching
+the concept via live coding, and a practice notebook containing similar
+exercises for the student to complete on their own following the lesson.
 
 ![**Our lesson modules.** All Jupyter notebooks are available on
 GitHub (https://github.com/GWC-DCMB/curriculum-notebooks).](lesson-modules.png)
@@ -262,11 +271,11 @@ GitHub (https://github.com/GWC-DCMB/curriculum-notebooks).](lesson-modules.png)
 Each lesson builds on those before it, beginning with relevant content reminders
 from the previous lessons and ending with a concise summary of the skills
 presented within.
-As they progress through the curriculum, the learners begin simultaneously
+As they progress through the curriculum, the students begin simultaneously
 working on a data science project using a real world
 dataset of their choosing.
 While more time is dedicated to lessons early in the program, the formal
-curriculum tapers off until the learners are solely applying their skills to the
+curriculum tapers off until the students are solely applying their skills to the
 data science project.  
 Through this Capstone Project, learners gain practical experience with each
 skill as they learn it in the lessons; including importing and cleaning data,
@@ -278,32 +287,32 @@ We modeled our instructional design in the style of Software Carpentry [@wilson_
 
 1. Each lesson begins with a recapping of the relevant core skills presented in
 the previous lessons.
-1. All lessons are designed to be taught via 15-minute live-coding sessions. This method is used by [The Carpentries](https://carpentries.org/) and is demonstrated to be an effective method that engages learners 
-[@wilson_software_2016; @nederbragt_ten_2020] since learners must actively engage with
-the material and deal with errors and bugs as they arise.
+1. All lessons are designed to be taught via 15-minute live-coding sessions,
+where students type and run code in their own notebooks along with the
+instructor in real time. As in Software Carpentry, we find this to be a highly
+effective method of teaching coding, since students must actively engage with
+the material and deal with errors and bugs as they come up.
 1. Each lesson ends with a summary of core skills presented within the material.
 1. Each short lesson is also accompanied by a subsequent 10-minute independent
 practice, providing further opportunity for practical experience implementing
-the coding skill at hand and testing learners' understanding of the content.
+the coding skill at hand and testing students' understanding of the content.
 
 This curriculum was originally developed for in-person instruction, but the
 onset of the COVID-19 pandemic necessitated restructuring to a virtual format.
-To better facilitate virtual instruction, we switched to a flipped classroom.
-
-We provide video recordings of instructors teaching the lesson notebooks as if they were live
-coding in the classroom.
-Learners then watch videos of instructors explaining the material through "live"
-coding and code along in the lesson notebook with while watching the video.
-Each video shows the Jupyter notebook alongside the instructor themselves
-teaching. Learners then complete a practice notebook corresponding to the lesson.
-This format allowed learners to explore the material individually before meeting together.
-Instructors then spend the virtual meeting time answering questions and reviewing the
-core concepts in the practice exercises. This virtual format is especially beneficial because it 1) allows learners to
+To better facilitate virtual instruction, we switched to a flipped classroom
+style based on feedback from our club participants that it was too difficult to
+follow along with live coding via Zoom.
+We provide video recordings of instructors going through the Jupyter notebooks
+as if they were live coding in the classroom.
+Students then watch the lessons and complete the practice exercises prior to
+virtual meetings, in which they have the opportunity to ask questions on
+material they did not understand and go over the practice exercises.
+This virtual format is especially beneficial because it 1) allows students to
 learn at their own pace, and 2) enables dissemination of our curriculum to a
 wider audience interested in learning introductory Python programming for data
 science.
 
-For both in-person and virtual instruction, once learners have completed the
+For both in-person and virtual instruction, once students have completed the
 Fundamentals module and reach the Data Science Essentials module they begin
 simultaneous work on their data science projects.
 Projects are completed in a pair programming style, where partners take turns
@@ -327,14 +336,23 @@ them to successful women in STEM.
 We have used this curriculum to teach the Data Science Summer Experience and
 Girls Who Code Club in person in 2019 and virtually in 2020-2021.
 For the in-person instances, we taught the curriculum through participatory live
-coding, and for virtual instances, we used a flipped classroom approach (see (##Instructional Design)).
-For both in-person and virtual instances, we had several instructors present at
+coding, a technique we learned from [The Carpentries](https://carpentries.org/)
+where the instructor types and explains the code while the learners follow along
+in real time.
+For the virtual instances, we used a flipped classroom approach where the
+learners explore the material individually before meeting together.
+Learners watch videos of instructors explaining the material through "live"
+coding and follow along.
+Learners then complete a practice notebook corresponding to the lesson.
+Facilitators then spend the meeting time answering questions and reviewing the
+core concepts in the practice notebook.
+For both in-person and virtual instances, we had several facilitators present at
 each session to answer questions and help learners debug.
-Furthermore, one or two instructors were assigned to each project group to help
+Furthermore, one or two facilitators were assigned to each project group to help
 learners define data analysis questions, develop and execute a data analysis
 plan, visualize and communicate their findings, and troubleshoot coding
 problems.
-The culmination of the project is a presentation to peers, instructors, and
+The culmination of the project is a presentation to peers, facilitators, and
 family members.
 Through this process learners gain hands-on experience coding, cleaning data,
 performing statistical analyses, creating informative data visualizations, and
@@ -353,8 +371,8 @@ any programs to use Google Colab and can easily open and edit the Jupyter
 notebooks from GitHub.  When meeting in person, most learners use Google
 Chromebooks which have limited programming capabilities, but easy use of a web
 browser.
-1. Assigning instructors to groups allowed learners to build a more personal
-connection with their instructors, making them feel more comfortable asking
+1. Assigning facilitators to groups allowed learners to build a more personal
+connection with their facilitators, making them feel more comfortable asking
 questions.
 1. Group projects were performed using pair programming to allow learners to
 collaborate and learn from each other.
@@ -378,7 +396,7 @@ While only five participants recorded their post-test, all of them answered more
 questions correctly on the post-test than the pre-test (range 1-8 more questions
 correct out of 11).
 
-![**Post-survey responses.** Learners were asked if they felt that their
+![**Post-survey responses.** Students were asked if they felt that their
 skills in Python programming, problem solving, critical thinking, and
 collaboration had improved.](skill_plots.png)
 
@@ -452,7 +470,7 @@ Zingerman’s Delicatessen,
 the Girls Who Code Support Fund,
 and anonymous donations from Giving Blue Day 2019.
 
-We also thank the learners who have participated in our Club and Summer
+We also thank the students who have participated in our Club and Summer
 Experience events.
 
 # Funding
