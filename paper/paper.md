@@ -125,10 +125,9 @@ percentage of females applying directly to the Bioinformatics PhD program was
 first or second choice in the Program in Biomedical Sciences, U-M's biomedical
 PhD umbrella program was 41%.
 
-Previous research on women's educational experiences in science, technology, engineering,
-and mathematics (STEM) have produced
-various explanations for persistent gender disparities
-[@benbow_gender_2016].
+Previous research on women's educational experiences in science, technology,
+engineering, and mathematics (STEM) have produced various explanations for
+persistent gender disparities [@benbow_gender_2016].
 One explanation is that women often experience stereotype threats that
 negatively influence their math and science performance and deter them from
 pursuing STEM as a career [@hill_why_2010].
@@ -152,9 +151,9 @@ Participants in the Club attend weekly meetings at the University of Michigan
 (when the club is run in person rather than virtually), and are thus largely
 high school women from the Ann Arbor area.
 In 2019 we launched our own summer program, the Data Science Summer Experience.
-When held in person, the Summer Experience
-is hosted in Detroit to provide the opportunity
-for high school women outside of Ann Arbor to learn coding skills in an inclusive environment.
+When held in person, the Summer Experience is hosted in Detroit to provide the
+opportunity for high school women outside of Ann Arbor to learn coding skills in
+an inclusive environment.
 
 The national Girls Who Code organization provides a curriculum that teaches
 website and application development through programming languages like HTML and
@@ -169,9 +168,9 @@ PYPL PopularitY of Programming Language Index [@noauthor_pypl_nodate].
 Therefore, we believe career exploration in data science using the Python
 programming language will optimally prepare our learners for careers that
 provide financial stability and upward economic mobility.
-By leveraging the data science expertise of our Club facilitators (hereafter termed instructors), we created a
-specialized curriculum focused on computational data science in the Python
-programming language.
+By leveraging the data science expertise of our Club facilitators (hereafter
+termed instructors), we created a specialized curriculum focused on
+computational data science in the Python programming language.
 
 Girls Who Code encourages participants to learn programming skills while working
 on an Impact Project website or application throughout the Club
@@ -179,8 +178,8 @@ on an Impact Project website or application throughout the Club
 We created an open source Data Science curriculum that teaches the requisite
 Python and statistics skills to complete a Capstone Project, where learners
 explore, analyze, and present a data set of their choosing.
-Using this curriculum, we employ participatory live coding, where learners type and run code along with the
-instructor in real time.
+Using this curriculum, we employ participatory live coding, where learners type
+and run code along with the instructor in real time.
 Using paired activities, our curriculum follows the "I do, we do, you do"
 didactic paradigm [@fisher_better_2013].
 We provide open source resources for both in-person and virtual versions of our
@@ -220,7 +219,8 @@ Following the onset of the COVID-19 pandemic, we quickly pivoted our club to a
 virtual format.
 In preparation for the 2020 Summer Experience, we switched to a flipped
 classroom style following feedback from our club participants that it was too
-difficult to follow along live coding via Zoom (see [Instructional Design](#instructional-design)).
+difficult to follow along live coding via Zoom 
+(see [Instructional Design](#instructional-design)).
 
 # Curriculum
 
@@ -234,11 +234,14 @@ teaching or learning basic programming for data analysis.
 The learning objectives of this curriculum are:
 
 1. Write code in Python with correct syntax and following best practices.
-2. Implement fundamental programming concepts when presented with a programmatic problem set.
+2. Implement fundamental programming concepts when presented with a programmatic
+   problem set.
 3. Apply data analysis to real world data to answer scientific questions.
 4. Create informative summary statistics and data visualizations in Python.
 
-These skills provide a solid foundation for basic data analysis in Python. Participation in our program exposes learners to the many ways coding and data science can be impactful across many disciplines.
+These skills provide a solid foundation for basic data analysis in Python.
+Participation in our program exposes learners to the many ways coding and data
+science can be impactful across many disciplines.
 
 ## Course Content
 
@@ -271,22 +274,27 @@ data visualization, and basic statistical analyses.
 We modeled our instructional design in the style of Software Carpentry [@wilson_software_2016].
 
 1. Each lesson begins with a recapping of the relevant core skills presented in
-the previous lessons.
-1. All lessons are designed to be taught via 15-minute live-coding sessions. This method is used by [The Carpentries](https://carpentries.org/) and is demonstrated to be an effective method that engages learners 
-[@wilson_software_2016; @nederbragt_ten_2020] since learners must actively engage with
-the material and deal with errors and bugs as they arise.
+   the previous lessons.
+1. All lessons are designed to be taught via 15-minute live-coding sessions.
+   This method is used by [The Carpentries](https://carpentries.org/) and is
+   demonstrated to be an effective method that engages learners
+   [@wilson_software_2016; @nederbragt_ten_2020] since learners must actively
+   engage with the material and deal with errors and bugs as they arise.
 1. Each lesson ends with a summary of core skills presented within the material.
 1. Each short lesson is also accompanied by a subsequent 10-minute independent
-practice, providing further opportunity for practical experience implementing
-the coding skill at hand and testing learners' understanding of the content.
+   practice, providing further opportunity for practical experience implementing
+   the coding skill at hand and testing learners' understanding of the content.
 
-To better facilitate virtual instruction during the COVID-19 pandemic, we switched to a flipped classroom.
-Prior to meeting, learners watch videos of instructors explaining the material through "live"
-coding and code along in the lesson notebook with while watching the video.
+To better facilitate virtual instruction during the COVID-19 pandemic, we
+switched to a flipped classroom.
+Prior to meeting, learners watch videos of instructors explaining the material
+through "live" coding and code along in the lesson notebook with while watching
+the video.
 Each video shows the Jupyter notebook alongside the instructor themselves
 teaching. Learners then complete a practice notebook corresponding to the lesson.
 During the virtual meeting time, instructors answer questions and review the
-core concepts in the practice exercises. This virtual format is especially beneficial because it 1) allows learners to
+core concepts in the practice exercises. 
+This virtual format is especially beneficial because it 1) allows learners to
 learn at their own pace, and 2) enables dissemination of our curriculum to a
 wider audience interested in learning introductory Python programming for data
 science.
@@ -336,7 +344,7 @@ project:
 (Colab)](https://colab.research.google.com/) to write and execute code in
 Jupyter notebooks. We chose this option because learners do not have to install
 any programs to use Google Colab and can easily open and edit the Jupyter
-notebooks from GitHub.  When meeting in person, most learners use Google
+notebooks from GitHub. When meeting in person, most learners use Google
 Chromebooks which have limited programming capabilities, but easy use of a web
 browser.
 1. Assigning instructors to groups allowed learners to build a more personal
@@ -358,8 +366,11 @@ successful women in STEM.
 We surveyed learners anonymously after each Club and Summer Experience and found
 that most felt that their skills in Python programming, problem solving,
 critical thinking, and collaboration had improved (Figure 2).
-Furthermore, on a 10 question skills assessment during the 2019-2020 instance of the Club, the average increase in correct answers between the first meeting and the last meeting was 4.2 with a standard deviation of 2.8 (N=5 respondents).
-We also surveyed Club and Summer Experience alumni and found that 75% (N=20) want to pursue a STEM career. 62% (N=21) are still coding.
+Furthermore, on a 10 question skills assessment during the 2019-2020 instance of
+the Club, the average increase in correct answers between the first meeting and
+the last meeting was 4.2 with a standard deviation of 2.8 (N=5 respondents).
+We also surveyed Club and Summer Experience alumni and found that 75% (N=20)
+want to pursue a STEM career. 62% (N=21) are still coding.
 On a 5-point scale from 'Strongly Disagree' to 'Strongly Agree,' the average
 answer for ‘My participation in GWC impacted my career aspirations’ is 4
 (s.d.=0.9), with 4.5 (s.d.=0.6) for ‘Participating in GWC made me feel more
