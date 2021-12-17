@@ -89,7 +89,9 @@ By contributing to this project, you agree to abide by its terms.
 If you would like to cite our work, please use:
 
 ```
-Duda et al., (2021). Teaching Python for Data Science: Collaborative development of a modular &amp; interactive curriculum. Journal of Open Source Education, 4(46), 138, https://doi.org/10.21105/jose.00138
+Duda et al., (2021). Teaching Python for Data Science: Collaborative development
+of a modular & interactive curriculum. Journal of Open Source Education, 
+4(46), 138, https://doi.org/10.21105/jose.00138
 ``` 
 
 A bibtex entry for LaTeX users:
@@ -104,7 +106,7 @@ A bibtex entry for LaTeX users:
   number = {46},
   pages = {138},
   author = {Marlena Duda and Kelly Sovacool and Negar Farzaneh and Vy Nguyen and Sarah Haynes and Hayley Falk and Katherine Furman and Logan Walker and Rucheng Diao and Morgan Oneka and Audrey Drotos and Alana Woloshin and Gabrielle Dotson and April Kriebel and Lucy Meng and Stephanie Thiede and Zena Lapp and Brooke Wolford},
-  title = {Teaching Python for Data Science: Collaborative development of a modular &amp; interactive curriculum},
+  title = {Teaching Python for Data Science: Collaborative development of a modular & interactive curriculum},
   journal = {Journal of Open Source Education}
 }
 ```
