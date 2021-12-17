@@ -220,7 +220,7 @@ Following the onset of the COVID-19 pandemic, we quickly pivoted our club to a
 virtual format.
 In preparation for the 2020 Summer Experience, we switched to a flipped
 classroom style following feedback from our club participants that it was too
-difficult to follow along live coding via Zoom (see (##Instructional Design)).
+difficult to follow along live coding via Zoom (see [Instructional Design](#instructional-design)).
 
 # Curriculum
 
@@ -228,11 +228,6 @@ Our curriculum was designed for high school students with no prior coding
 experience who are interested in learning Python programming for data science.
 However, this course material would be useful for anyone interested in
 teaching or learning basic programming for data analysis.
-
-Our curriculum features short lessons to deliver course material in “bite sized”
-chunks, followed by practices to solidify the learners' understanding.
-Pre-recorded videos of lessons enable effective virtual learning and flipped
-classroom approaches.
 
 ## Learning Objectives
 
@@ -246,7 +241,6 @@ The learning objectives of this curriculum are:
 These skills provide a solid foundation for basic data analysis in Python. Participation in our program exposes learners to the many ways coding and data science can be impactful across many disciplines.
 
 ## Course Content
-
 
 Our curriculum design consists of 27 lessons broken up into 5 modules that cover
 Jupyter notebook setup, Python coding fundamentals, use of essential data
@@ -267,7 +261,7 @@ working on a data science project using a real world
 dataset of their choosing.
 While more time is dedicated to lessons early in the program, the formal
 curriculum tapers off until the learners are solely applying their skills to the
-data science project.  
+data science project.
 Through this Capstone Project, learners gain practical experience with each
 skill as they learn it in the lessons; including importing and cleaning data,
 data visualization, and basic statistical analyses.
@@ -286,18 +280,12 @@ the material and deal with errors and bugs as they arise.
 practice, providing further opportunity for practical experience implementing
 the coding skill at hand and testing learners' understanding of the content.
 
-This curriculum was originally developed for in-person instruction, but the
-onset of the COVID-19 pandemic necessitated restructuring to a virtual format.
-To better facilitate virtual instruction, we switched to a flipped classroom.
-
-We provide video recordings of instructors teaching the lesson notebooks as if they were live
-coding in the classroom.
-Learners then watch videos of instructors explaining the material through "live"
+To better facilitate virtual instruction during the COVID-19 pandemic, we switched to a flipped classroom.
+Prior to meeting, learners watch videos of instructors explaining the material through "live"
 coding and code along in the lesson notebook with while watching the video.
 Each video shows the Jupyter notebook alongside the instructor themselves
 teaching. Learners then complete a practice notebook corresponding to the lesson.
-This format allowed learners to explore the material individually before meeting together.
-Instructors then spend the virtual meeting time answering questions and reviewing the
+During the virtual meeting time, instructors answer questions and review the
 core concepts in the practice exercises. This virtual format is especially beneficial because it 1) allows learners to
 learn at their own pace, and 2) enables dissemination of our curriculum to a
 wider audience interested in learning introductory Python programming for data
@@ -327,7 +315,7 @@ them to successful women in STEM.
 We have used this curriculum to teach the Data Science Summer Experience and
 Girls Who Code Club in person in 2019 and virtually in 2020-2021.
 For the in-person instances, we taught the curriculum through participatory live
-coding, and for virtual instances, we used a flipped classroom approach (see (##Instructional Design)).
+coding, and for virtual instances, we used a flipped classroom approach (see [Instructional Design](#instructional-design)).
 For both in-person and virtual instances, we had several instructors present at
 each session to answer questions and help learners debug.
 Furthermore, one or two instructors were assigned to each project group to help
@@ -371,31 +359,15 @@ successful women in STEM.
 
 We surveyed learners anonymously after each Club and Summer Experience and found
 that most felt that their skills in Python programming, problem solving,
-critical thinking, and collaboration had improved (see Figure 2).
-Furthermore, for the 2019 instance of Club we asked that all participants take a
-pre-test and a post-test comprising Python coding questions.
-While only five participants recorded their post-test, all of them answered more
-questions correctly on the post-test than the pre-test (range 1-8 more questions
-correct out of 11).
+critical thinking, and collaboration had improved (Figure 2).
+Furthermore, on a 10 question skills assessment during the 2019-2020 instance of the Club, the average increase in correct answers between the first meeting and the last meeting was 4.2 with a standard deviation of 2.8 (N=5 respondents).
 
 ![**Post-survey responses.** Learners were asked if they felt that their
 skills in Python programming, problem solving, critical thinking, and
 collaboration had improved.](skill_plots.png)
 
-On a 10 question skills assessment, the average increase in correct answers
-between the first 2019 club meeting and the last 2020 club meeting was 4.2 with
-a standard deviation of 2.8 (N=5 respondents).
-Fifty-two percent of the 2019 Detroit Summer Experience in Data Science learners
-(N=19) did not have experience with Python programming.
-Afterwards, on a 5 point scale from 'Not at all' to 'Definitely',' the average
-answer for  ‘Do you feel like you’ve improved your Python programming skills?’
-was 4.6 (standard deviation [s.d.]=1), with 4.2 (s.d.=0.9) for ‘Do you feel like
-you’ve improved your problem solving and critical thinking skills,’ and 4.0
-(s.d.=0.9) for ‘Do you feel like this experience helped you gain
-self-confidence?'
-In a survey of Club and Summer Experience alumni, 75% (N=20) want to pursue a
-STEM career. 62% (N=21) are still coding.
-On a 5-point scale from strongly 'Disagree' to 'Strongly Agree,' the average
+We also surveyed Club and Summer Experience alumni and found that 75% (N=20) want to pursue a STEM career. 62% (N=21) are still coding.
+On a 5-point scale from 'Strongly Disagree' to 'Strongly Agree,' the average
 answer for ‘My participation in GWC impacted my career aspirations’ is 4
 (s.d.=0.9), with 4.5 (s.d.=0.6) for ‘Participating in GWC made me feel more
 confident in analyzing data’ and 3.9 (s.d.=1) for ‘Participating in GWC made me
