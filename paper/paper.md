@@ -300,6 +300,11 @@ assuming the “driver” (i.e. the typer) and “navigator” (i.e. the helper)
 Switching off in this way helps both partners assume equal responsibility for
 the project workload, but more importantly it enables improved knowledge
 transfer through peer-to-peer learning.
+The culmination of the project is a presentation to peers, instructors, and
+family members.
+Through this process learners gain hands-on experience coding, cleaning data,
+performing statistical analyses, creating informative data visualizations, and
+communicating their results to others.
 
 In addition to our coding curriculum, another key component of our programming
 is hosting women guest speakers from diverse fields across academia and
@@ -314,19 +319,12 @@ them to successful women in STEM.
 
 We have used this curriculum to teach the Data Science Summer Experience and
 Girls Who Code Club in person in 2019 and virtually in 2020-2021.
-For the in-person instances, we taught the curriculum through participatory live
-coding, and for virtual instances, we used a flipped classroom approach (see [Instructional Design](#instructional-design)).
 For both in-person and virtual instances, we had several instructors present at
 each session to answer questions and help learners debug.
 Furthermore, one or two instructors were assigned to each project group to help
 learners define data analysis questions, develop and execute a data analysis
 plan, visualize and communicate their findings, and troubleshoot coding
 problems.
-The culmination of the project is a presentation to peers, instructors, and
-family members.
-Through this process learners gain hands-on experience coding, cleaning data,
-performing statistical analyses, creating informative data visualizations, and
-communicating their results to others.
 Projects have ranged from investigating exoplanets to studying the genomics of
 psoriasis.
 
