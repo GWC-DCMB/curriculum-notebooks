@@ -86,13 +86,13 @@ By contributing to this project, you agree to abide by its terms.
 
 ## Citation
 
-If you would like to cite our work, please use:
+The paper describing our curriculum and the development
+process is out in JOSE! If you would like to cite our work,
+please use:
 
-```
-Duda et al., (2021). Teaching Python for Data Science: Collaborative development
-of a modular & interactive curriculum. Journal of Open Source Education, 
-4(46), 138, https://doi.org/10.21105/jose.00138
-``` 
+> Duda & Sovacool et al., (2021). Teaching Python for Data Science: Collaborative development
+> of a modular & interactive curriculum. Journal of Open Source Education, 
+> 4(46), 138, https://doi.org/10.21105/jose.00138
 
 A bibtex entry for LaTeX users:
 
@@ -110,3 +110,4 @@ A bibtex entry for LaTeX users:
   journal = {Journal of Open Source Education}
 }
 ```
+
