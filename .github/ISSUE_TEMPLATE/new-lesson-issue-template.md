@@ -2,12 +2,14 @@
 name: New Lesson & Practice issue template
 about: Default issue template for creating & editing Lessons & Practices
 title: 'Lesson XX: lesson title'
-labels: 'curriculum development'
+labels: ''
 assignees: ''
 
 ---
 
 Needed for club by **DY MON. YEAR**
+
+<!-- Fill in the `XX`'s with the lesson/practice number -->
 
 Files:
 - [ ] Lesson Key (`Lessons/_Keys/KEY_LessonXX_Topic.ipynb`)
