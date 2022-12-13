@@ -5,6 +5,7 @@ on:
     branches:
       - main
     paths:
+      - .github/workflows/build.yml
       - Lessons/*.ipynb
       - Lessons/_Keys/*.ipynb
       - Practices/*.ipynb
