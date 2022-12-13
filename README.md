@@ -25,8 +25,8 @@ Instructors will work closely with students to help them complete and understand
 
 Both Lessons and Practices directories contain `_Keys` subdirectories with correctly completed versions of each exercise.
 Sometimes GitHub doesn't render Jupyter notebooks in a timely manner,
-so we use continuous integration to compile all notebook keys to PDFs.
-Take a look at the [Lesson](Lessons/_Keys/pdf) & [Practice](Practices/_Keys/pdf) Key PDFs if you only want to view them quickly in your browser.
+so we use continuous integration to compile all notebook keys to HTML.
+View the rendered keys [here](https://GWC-DCMB.github.io/curriculum-notebooks).
 
 
 ## Links

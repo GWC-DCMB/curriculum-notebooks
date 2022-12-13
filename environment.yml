@@ -1,0 +1,12 @@
+name: gwc
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3
+  - seaborn=0
