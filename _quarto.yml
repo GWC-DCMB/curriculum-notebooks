@@ -1,0 +1,31 @@
+project:
+  type: website
+  render:
+    - index.qmd
+    - Lessons/_Keys/
+    - Practices/_Keys/
+
+website:
+  title: "GWC-DCMB Curriculum"
+  site-url: https://GWC-DCMB.github.io/curriculum-notebooks
+  repo-url: https://github.com/GWC-DCMB/curriculum-notebooks
+  repo-actions: [edit, issue]
+  page-navigation: true
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    theme: 
+      light: pulse
+      dark: vapor
+    css: styles.css
+    toc: true
+    code-tools: true
+    embed-resources: true

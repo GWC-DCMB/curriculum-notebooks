@@ -1,0 +1,28 @@
+---
+title: ""
+listing:
+  - id: lessons
+    contents: lessons.yml
+    type: table
+    sort: title
+    fields: 
+      - title
+  - id: practices
+    contents: practices.yml
+    type: table
+    sort: title
+    fields: 
+      - title
+---
+
+Notebook keys for our [curriculum](https://github.com/GWC-DCMB/curriculum-notebooks).
+
+## Lessons
+
+:::{#lessons}
+:::
+
+## Practices
+
+:::{#practices}
+:::
