@@ -52,10 +52,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.head_ref }}
-
-#    - name: Compile PDFs
-#      run: |
-#        jupyter nbconvert --to pdf --output-dir=Lessons/_Keys/pdf Lessons/_Keys/*.ipynb
-#        jupyter nbconvert --to pdf --output-dir=Practices/_Keys/pdf Practices/_Keys/*.ipynb
-#        git add Lessons/ Practices/
-#        git commit -m "📄 Compile PDFs" --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" || echo "No changes to commit"
