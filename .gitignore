@@ -2,3 +2,6 @@
 *.DS_Store
 *.xlsx
 *.bak
+
+/.quarto/
+/_site/

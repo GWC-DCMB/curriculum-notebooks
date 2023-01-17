@@ -1,0 +1,29 @@
+name: Render and Publish Quarto Website
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  quarto-render-and-deploy:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -l {0}
+    steps:
+    - uses: actions/checkout@v2
+    - uses: conda-incubator/setup-miniconda@v2
+      with:
+        mamba-version: "*"
+        activate-environment: gwc
+        environment-file: environment.yml
+    - name: Set up Quarto
+      uses: quarto-dev/quarto-actions/setup@v2
+      with:
+        tinytex: true 
+    - name: Render & Publish
+      uses: quarto-dev/quarto-actions/publish@v2
+      with:
+        target: gh-pages
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
