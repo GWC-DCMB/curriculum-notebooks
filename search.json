@@ -382,7 +382,7 @@
     "href": "Practices/_Keys/KEY_Practice01_Jupyter-Setup.html#writing-text",
     "title": "Jupyter Setup",
     "section": "Writing Text",
-    "text": "Writing Text\nWe can use text cells (this is one!) to write descriptions of what our code does, why we wrote it, and ideas for future work. We can use underscores (_) to make text italicized and double asterisks (**) to make text bold. We can also make a bulleted list using dashes - with on item on each line: - item 1 - item 2 - item 3\nPress the button + Text in the toolbar to create a new text cell below this one. Then, write a list of 3 things you’re looking forward to about this club. Make the one you’re most excited about bold. Share your answer with your neighbor!\nHere, students should have written what they’re looking forward to in the GWC club."
+    "text": "Writing Text\nWe can use text cells (this is one!) to write descriptions of what our code does, why we wrote it, and ideas for future work. We can use underscores (_) to make text italicized and double asterisks (**) to make text bold. We can also make a bulleted list using dashes - with an item on each line: - item 1 - item 2 - item 3\nPress the button + Text in the toolbar to create a new text cell below this one. Then, write a list of 3 things you’re looking forward to about this club. Make the one you’re most excited about bold. Share your answer with your neighbor!\nHere, students should have written what they’re looking forward to in the GWC club."
   },
   {
     "objectID": "Practices/_Keys/KEY_Practice01_Jupyter-Setup.html#moving-cells",
