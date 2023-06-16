@@ -2,218 +2,218 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://GWC-DCMB.github.io/curriculum-notebooks/index.html</loc>
-    <lastmod>2022-12-13T18:01:55.095Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson25_LineGraphs.html</loc>
-    <lastmod>2022-12-13T18:01:57.202Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson17_Pandas-Subsetting-II.html</loc>
-    <lastmod>2022-12-13T18:01:59.337Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson14_Pandas-Intro.html</loc>
-    <lastmod>2022-12-13T18:02:01.426Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson27_BarCharts_Histograms.html</loc>
-    <lastmod>2022-12-13T18:02:03.534Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson20_Numpy_Intro.html</loc>
-    <lastmod>2022-12-13T18:02:05.165Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson12_Functions_and_Methods.html</loc>
-    <lastmod>2022-12-13T18:02:06.886Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson15_Pandas-Reading.html</loc>
-    <lastmod>2022-12-13T18:02:08.958Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson03_Variables_Types.html</loc>
-    <lastmod>2022-12-13T18:02:11.124Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson09_Conditionals.html</loc>
-    <lastmod>2022-12-13T18:02:13.112Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson07_2D_Lists_Indexing.html</loc>
-    <lastmod>2022-12-13T18:02:14.799Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson16_Pandas-Subsetting-I.html</loc>
-    <lastmod>2022-12-13T18:02:17.084Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson13_Packages.html</loc>
-    <lastmod>2022-12-13T18:02:18.672Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson21_Basic_Stats_I_Averages.html</loc>
-    <lastmod>2022-12-13T18:02:20.314Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson05_Indexing.html</loc>
-    <lastmod>2022-12-13T18:02:22.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson22_Basic_Stats_II_Percents.html</loc>
-    <lastmod>2022-12-13T18:02:23.605Z</lastmod>
+    <lastmod>2023-06-16T13:45:06.958Z</lastmod>
   </url>
   <url>
     <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson26_Scatterplots.html</loc>
-    <lastmod>2022-12-13T18:02:25.705Z</lastmod>
+    <lastmod>2023-06-16T13:45:10.126Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson02_HelloWorld_Variables.html</loc>
-    <lastmod>2022-12-13T18:02:27.400Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson27_BarCharts_Histograms.html</loc>
+    <lastmod>2023-06-16T13:45:11.718Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson11_Loops2.html</loc>
-    <lastmod>2022-12-13T18:02:29.074Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson20_Numpy_Intro.html</loc>
+    <lastmod>2023-06-16T13:45:12.834Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson06_2D_Lists_Intro.html</loc>
-    <lastmod>2022-12-13T18:02:30.648Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson25_LineGraphs.html</loc>
+    <lastmod>2023-06-16T13:45:14.318Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson08_Logic.html</loc>
-    <lastmod>2022-12-13T18:02:32.311Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson17_Pandas-Subsetting-II.html</loc>
+    <lastmod>2023-06-16T13:45:15.894Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson16_Pandas-Subsetting-I.html</loc>
+    <lastmod>2023-06-16T13:45:17.686Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson15_Pandas-Reading.html</loc>
+    <lastmod>2023-06-16T13:45:19.282Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson09_Conditionals.html</loc>
+    <lastmod>2023-06-16T13:45:20.678Z</lastmod>
   </url>
   <url>
     <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson19_Functions.html</loc>
-    <lastmod>2022-12-13T18:02:34.016Z</lastmod>
+    <lastmod>2023-06-16T13:45:21.918Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson04_Lists_Intro.html</loc>
-    <lastmod>2022-12-13T18:02:35.657Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson22_Basic_Stats_II_Percents.html</loc>
+    <lastmod>2023-06-16T13:45:22.974Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson23_Basic_Stats_III_Correlations.html</loc>
-    <lastmod>2022-12-13T18:02:37.864Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson18_Dictionaries.html</loc>
-    <lastmod>2022-12-13T18:02:39.494Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson07_2D_Lists_Indexing.html</loc>
+    <lastmod>2023-06-16T13:45:24.090Z</lastmod>
   </url>
   <url>
     <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson24_Basic_Stats_IV_Significance.html</loc>
-    <lastmod>2022-12-13T18:02:42.775Z</lastmod>
+    <lastmod>2023-06-16T13:45:26.890Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson02_HelloWorld_Variables.html</loc>
+    <lastmod>2023-06-16T13:45:28.030Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson23_Basic_Stats_III_Correlations.html</loc>
+    <lastmod>2023-06-16T13:45:29.522Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson12_Functions_and_Methods.html</loc>
+    <lastmod>2023-06-16T13:45:30.730Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson05_Indexing.html</loc>
+    <lastmod>2023-06-16T13:45:31.770Z</lastmod>
   </url>
   <url>
     <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson10_Loops1.html</loc>
-    <lastmod>2022-12-13T18:02:44.371Z</lastmod>
+    <lastmod>2023-06-16T13:45:32.914Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice18_Dictionaries.html</loc>
-    <lastmod>2022-12-13T18:02:45.923Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson04_Lists_Intro.html</loc>
+    <lastmod>2023-06-16T13:45:34.002Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice21_Basic_Stats_I_Averages.html</loc>
-    <lastmod>2022-12-13T18:02:48.405Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson11_Loops2.html</loc>
+    <lastmod>2023-06-16T13:45:35.106Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice16_Pandas-Subsetting-I.html</loc>
-    <lastmod>2022-12-13T18:02:50.023Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson03_Variables_Types.html</loc>
+    <lastmod>2023-06-16T13:45:36.402Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice06_2D_Lists_Intro.html</loc>
-    <lastmod>2022-12-13T18:02:51.663Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson06_2D_Lists_Intro.html</loc>
+    <lastmod>2023-06-16T13:45:37.514Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice19_Functions.html</loc>
-    <lastmod>2022-12-13T18:02:53.317Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson13_Packages.html</loc>
+    <lastmod>2023-06-16T13:45:38.678Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice03_Variables_Types.html</loc>
-    <lastmod>2022-12-13T18:02:54.943Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson21_Basic_Stats_I_Averages.html</loc>
+    <lastmod>2023-06-16T13:45:39.790Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice02_HelloWorld_Variables.html</loc>
-    <lastmod>2022-12-13T18:02:56.652Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson08_Logic.html</loc>
+    <lastmod>2023-06-16T13:45:40.994Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice22_Basic_Stats_II_Percents.html</loc>
-    <lastmod>2022-12-13T18:02:58.788Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson18_Dictionaries.html</loc>
+    <lastmod>2023-06-16T13:45:42.182Z</lastmod>
   </url>
   <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice25_LineGraphs.html</loc>
-    <lastmod>2022-12-13T18:03:00.917Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice07_2D_Lists_Indexing.html</loc>
-    <lastmod>2022-12-13T18:03:02.662Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice20_Numpy_Intro.html</loc>
-    <lastmod>2022-12-13T18:03:04.237Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice26_Scatterplots.html</loc>
-    <lastmod>2022-12-13T18:03:06.247Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice08_Logic.html</loc>
-    <lastmod>2022-12-13T18:03:07.809Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice04_Lists_Intro.html</loc>
-    <lastmod>2022-12-13T18:03:09.454Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice12_Functions_and_Methods.html</loc>
-    <lastmod>2022-12-13T18:03:11.108Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice11_Loops2.html</loc>
-    <lastmod>2022-12-13T18:03:12.722Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice01_Jupyter-Setup.html</loc>
-    <lastmod>2022-12-13T18:03:15.391Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice09_Conditionals.html</loc>
-    <lastmod>2022-12-13T18:03:17.017Z</lastmod>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Lessons/_Keys/KEY_Lesson14_Pandas-Intro.html</loc>
+    <lastmod>2023-06-16T13:45:43.762Z</lastmod>
   </url>
   <url>
     <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice05_Indexing.html</loc>
-    <lastmod>2022-12-13T18:03:18.593Z</lastmod>
+    <lastmod>2023-06-16T13:45:44.846Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice25_LineGraphs.html</loc>
+    <lastmod>2023-06-16T13:45:46.250Z</lastmod>
   </url>
   <url>
     <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice10_Loops1.html</loc>
-    <lastmod>2022-12-13T18:03:20.181Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice24_Basic_Stats_IV_Significance.html</loc>
-    <lastmod>2022-12-13T18:03:22.286Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice14_Pandas-Intro.html</loc>
-    <lastmod>2022-12-13T18:03:24.429Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice13_Packages.html</loc>
-    <lastmod>2022-12-13T18:03:25.982Z</lastmod>
+    <lastmod>2023-06-16T13:45:47.378Z</lastmod>
   </url>
   <url>
     <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice17_Pandas-Subsetting-II.html</loc>
-    <lastmod>2022-12-13T18:03:28.211Z</lastmod>
+    <lastmod>2023-06-16T13:45:51.006Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice11_Loops2.html</loc>
+    <lastmod>2023-06-16T13:45:52.158Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice02_HelloWorld_Variables.html</loc>
+    <lastmod>2023-06-16T13:45:53.278Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice08_Logic.html</loc>
+    <lastmod>2023-06-16T13:45:54.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice26_Scatterplots.html</loc>
+    <lastmod>2023-06-16T13:45:55.822Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice01_Jupyter-Setup.html</loc>
+    <lastmod>2023-06-16T13:45:57.494Z</lastmod>
   </url>
   <url>
     <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice23_Basic_Stats_III_Correlations.html</loc>
-    <lastmod>2022-12-13T18:03:30.313Z</lastmod>
+    <lastmod>2023-06-16T13:45:58.974Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice06_2D_Lists_Intro.html</loc>
+    <lastmod>2023-06-16T13:46:00.066Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice13_Packages.html</loc>
+    <lastmod>2023-06-16T13:46:01.182Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice07_2D_Lists_Indexing.html</loc>
+    <lastmod>2023-06-16T13:46:02.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice12_Functions_and_Methods.html</loc>
+    <lastmod>2023-06-16T13:46:03.418Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice04_Lists_Intro.html</loc>
+    <lastmod>2023-06-16T13:46:04.522Z</lastmod>
   </url>
   <url>
     <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice27_BarCharts_Histograms.html</loc>
-    <lastmod>2022-12-13T18:03:32.437Z</lastmod>
+    <lastmod>2023-06-16T13:46:06.034Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice24_Basic_Stats_IV_Significance.html</loc>
+    <lastmod>2023-06-16T13:46:07.698Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice22_Basic_Stats_II_Percents.html</loc>
+    <lastmod>2023-06-16T13:46:09.222Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice20_Numpy_Intro.html</loc>
+    <lastmod>2023-06-16T13:46:10.366Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice19_Functions.html</loc>
+    <lastmod>2023-06-16T13:46:11.438Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice14_Pandas-Intro.html</loc>
+    <lastmod>2023-06-16T13:46:13.258Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice18_Dictionaries.html</loc>
+    <lastmod>2023-06-16T13:46:14.366Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice09_Conditionals.html</loc>
+    <lastmod>2023-06-16T13:46:15.450Z</lastmod>
   </url>
   <url>
     <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice15_Pandas-Reading.html</loc>
-    <lastmod>2022-12-13T18:03:34.571Z</lastmod>
+    <lastmod>2023-06-16T13:46:16.870Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice21_Basic_Stats_I_Averages.html</loc>
+    <lastmod>2023-06-16T13:46:20.266Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice16_Pandas-Subsetting-I.html</loc>
+    <lastmod>2023-06-16T13:46:21.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GWC-DCMB.github.io/curriculum-notebooks/Practices/_Keys/KEY_Practice03_Variables_Types.html</loc>
+    <lastmod>2023-06-16T13:46:22.482Z</lastmod>
   </url>
 </urlset>
